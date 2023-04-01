@@ -1,32 +1,32 @@
-   2043 Que
-   1881 DE
+   2040 Que
+   1880 DE
    1866 a
-   1662 O
+   1661 O
    1490 —
    1397 E
-    857 não
+    856 não
     766 UM
     581 Do
-    547 UMA
+    546 UMA
     535 é
-    483 Com
+    482 Com
     481 da
-    478 Se
+    477 Se
     475 Mas
     454 Para
     451 Era
     447 Em
     425 Eu
     342 Por
-    336 Os
+    335 Os
     303 Disse
     296 Ao
     281 As
-    275 Não
+    272 Não
     265 no
     264 Como
     253 Ele
-    249 A
+    248 A
     234 à
     229 Mais
     227 me
@@ -37,7 +37,7 @@
     187 Adelaide
     179 lhe
     176 casa
-    174 É
+    172 É
     153 Sua
     152 Minha
     148 Tito
@@ -53,7 +53,7 @@
     122 dia
     118 Emília
     117 Amor
-    116 Ela
+    115 Ela
     114 tempo
     112 Rapaz
     110 Nem
@@ -61,14 +61,14 @@
     107 seu
     107 ser
     106 Isso
-    104 Nada
     103 Sem
+    103 Nada
     103 Esta
-    101 HOMEM
     100 SOARES
+    100 HOMEM
      98 Tudo
-     98 Marido
      98 DAS
+     97 Marido
      95 Muito
      93 Olhos
      93 Dois
@@ -87,14 +87,14 @@
      84 Só
      84 Ainda
      83 Até
-     82 Quem
+     81 Quem
      81 Está
      79 tão
      79 perguntou
      78 viúva
-     78 Este
      78 Azevedo
      78 AMIGO
+     77 Este
      76 Coração
      73 às
      73 Margarida
@@ -108,8 +108,8 @@
      67 Podia
      67 Alguma
      66 Todos
-     66 AUGUSTA
      65 Duas
+     65 AUGUSTA
      64 Havia
      63 Grande
      62 ter
@@ -132,9 +132,9 @@
      58 CAPÍTULO
      58 Algum
      57 Pois
-     57 Gomes
      56 vez
      56 Moça
+     56 Gomes
      54 Tem
      54 Emílio
      53 Sempre
@@ -168,21 +168,21 @@
      45 Tu
      45 Sim
      45 Melhor
-     45 Fazer
      45 Entrou
      45 Agora
      44 ir
      44 Senhor
      44 Nas
+     44 Fazer
      44 Capítulo
      44 Bom
      43 tio
      43 hora
-     43 Nunca
      43 Aqui
      42 primeira
      42 Saiu
      42 Pelo
+     42 Nunca
      42 MISS
      42 DOLLAR
      42 Assim
@@ -196,7 +196,6 @@
      40 Tua
      40 Toda
      40 Também
-     40 Onde
      40 Esse
      40 Dizia
      40 Boa
@@ -204,14 +203,15 @@
      39 Creio
      38 mão
      38 Talvez
+     38 Onde
      38 Essa
      37 conversa
      37 Tanto
-     37 Quê
-     37 Quer
      36 Todas
      36 Sr
      36 Seria
+     36 Quê
+     36 Quer
      36 Meus
      36 Estas
      35 senhora
@@ -241,7 +241,7 @@
      32 Queria
      32 Ora
      32 Ninguém
-     32 Disselhe
+     32 Disse-lhe
      31 momento
      31 meses
      31 filha
@@ -264,7 +264,6 @@
      28 Apesar
      27 teve
      27 silêncio
-     27 si
      27 saber
      27 resposta
      27 razão
@@ -275,19 +274,19 @@
      27 Deu
      27 Aquela
      26 situação
+     26 si
      26 quarto
      26 motivo
      26 dela
-     26 alma
      26 Todo
      26 FREI
      26 Aquilo
      26 Anselmo
      25 vir
      25 três
-     25 outros
      25 efeito
      25 coisas
+     25 alma
      25 Voltou
      25 Tal
      25 Nesse
@@ -299,6 +298,7 @@
      24 sabia
      24 prima
      24 porém
+     24 outros
      24 nosso
      24 nome
      24 falar
@@ -322,7 +322,6 @@
      22 rosto
      22 próprio
      22 natural
-     22 longe
      22 certa
      22 Sabe
      22 Qualquer
@@ -331,6 +330,7 @@
      21 velha
      21 simples
      21 possível
+     21 longe
      21 Vai
      21 SEGREDO
      21 Passou
@@ -371,7 +371,6 @@
      19 Começou
      19 Chegou
      19 Amo
-     19 Ali
      19 Adeus
      18 visto
      18 sociedade
@@ -388,13 +387,14 @@
      18 Oh
      18 Neste
      18 Nenhuma
-     18 Levantouse
+     18 Levantou-se
      18 Jardim
      18 Inútil
      18 Feito
      18 Deus
      18 Consigo
      18 Além
+     18 Ali
      17 uns
      17 tia
      17 política
@@ -470,8 +470,8 @@
      15 Viver
      15 Vejo
      15 Soube
-     15 Sentouse
-     15 Lembrouse
+     15 Sentou-se
+     15 Lembrou-se
      15 Excelência
      15 Diz
      15 Daí
@@ -503,7 +503,6 @@
      14 Gosto
      14 Engano
      14 Daniel
-     14 Caro
      14 Acho
      13 À
      13 via
@@ -540,13 +539,13 @@
      13 Passar
      13 Naturalmente
      13 Naquele
-     13 Matacavalos
+     13 Mata-cavalos
      13 Levava
      13 Jorge
      13 Embora
      13 Desejo
-     13 Costume
      13 Contava
+     13 Caro
      13 Amava
      13 Achou
      12 vaidade
@@ -573,6 +572,7 @@
      12 dor
      12 cães
      12 curiosidade
+     12 costume
      12 contar
      12 compreendeu
      12 chão
@@ -632,10 +632,9 @@
      11 Fala
      11 Europa
      11 Entrando
-     11 Dizerlhe
+     11 Dizer-lhe
      11 Daqui
      11 Compreendo
-     11 
      10 voltava
      10 tomar
      10 ti
@@ -649,7 +648,7 @@
      10 presente
      10 posição
      10 poderia
-     10 perguntoulhe
+     10 perguntou-lhe
      10 perder
      10 paixões
      10 orgulho
@@ -684,7 +683,6 @@
      10 Ordem
      10 Mandei
      10 Lírico
-     10 Lia
      10 Hei
      10 Exatamente
      10 Estes
@@ -769,8 +767,8 @@
       9 Fatal
       9 Eugênia
       9 Esperanças
-      9 Disseme
-      9 Chamavase
+      9 Disse-me
+      9 Chamava-se
       9 Certeza
       9 Calígula
       9 Aceito
@@ -797,6 +795,7 @@
       8 mocidade
       8 mar
       8 longo
+      8 lia
       8 leitores
       8 inteiramente
       8 infeliz
@@ -836,19 +835,19 @@
       8 abriu
       8 abismo
       8 abade
-      8 Voltouse
+      8 Voltou-se
       8 Vista
       8 VII
       8 Tais
-      8 Sentandose
+      8 Sentando-se
       8 Quais
-      8 Peçolhe
+      8 Peço-lhe
       8 Perguntei
       8 Pelas
       8 Passava
       8 Papai
       8 Olhava
-      8 Levantandose
+      8 Levantando-se
       8 LINHA
       8 LETRAS
       8 José
@@ -857,13 +856,13 @@
       8 Gosta
       8 Estudo
       8 Dr
-      8 Deulhe
+      8 Deu-lhe
       8 Davam
       8 Correu
       8 Confesso
       8 Amiga
       8 Amas
-      8 Achavase
+      8 Achava-se
       7 àquele
       7 Às
       7 vão
@@ -879,11 +878,10 @@
       7 sangue
       7 riqueza
       7 rindo
-      7 retirouse
+      7 retirou-se
       7 quiser
       7 província
       7 profunda
-      7 procurava
       7 poesia
       7 podes
       7 perdido
@@ -967,7 +965,7 @@
       6 umas
       6 tuas
       6 trabalhar
-      6 tornouse
+      6 tornou-se
       6 tomando
       6 tocava
       6 tivera
@@ -982,7 +980,7 @@
       6 sepultura
       6 sentiu
       6 sentido
-      6 sentarse
+      6 sentar-se
       6 saíram
       6 saía
       6 sacrifício
@@ -993,6 +991,7 @@
       6 reflexão
       6 razões
       6 profundamente
+      6 procurava
       6 procedimento
       6 pretendente
       6 preferia
@@ -1010,7 +1009,7 @@
       6 murmurou
       6 mudança
       6 mistério
-      6 milréis
+      6 mil-réis
       6 meios
       6 mandou
       6 magnífico
@@ -1072,7 +1071,6 @@
       6 acabado
       6 Vilela
       6 Veja
-      6 Trezentos
       6 Terceiro
       6 Tenha
       6 Supôs
@@ -1082,9 +1080,9 @@
       6 Pior
       6 Perdi
       6 Pedia
-      6 Passaramse
+      6 Passaram-se
       6 Partiu
-      6 Pareciame
+      6 Parecia-me
       6 Paciência
       6 PRETO
       6 Onze
@@ -1099,7 +1097,7 @@
       6 Elas
       6 Dizem
       6 Desprezo
-      6 Despediuse
+      6 Despediu-se
       6 Começaram
       6 Brito
       6 Aí
@@ -1108,9 +1106,10 @@
       6 Apaixonado
       6 Aceitou
       6 Acaba
+      6 
       5 íntimo
       5 água
-      5 vêlo
+      5 vê-lo
       5 vê
       5 volta
       5 vivos
@@ -1126,7 +1125,6 @@
       5 termos
       5 termo
       5 suprema
-      5 sujeito
       5 subir
       5 sonhos
       5 solidão
@@ -1156,7 +1154,7 @@
       5 pediu
       5 passavam
       5 parede
-      5 parecialhe
+      5 parecia-lhe
       5 ouvidos
       5 ouvia
       5 original
@@ -1168,7 +1166,7 @@
       5 narração
       5 namorado
       5 música
-      5 mostrouse
+      5 mostrou-se
       5 modos
       5 melhores
       5 maus
@@ -1194,7 +1192,7 @@
       5 fogo
       5 fidelidade
       5 feições
-      5 falarlhe
+      5 falar-lhe
       5 explicação
       5 explicar
       5 estômago
@@ -1206,14 +1204,14 @@
       5 elegantes
       5 dívida
       5 domingo
-      5 dirigiuse
+      5 dirigiu-se
       5 diploma
       5 dificuldade
       5 diferente
       5 destes
       5 desses
       5 dessas
-      5 despedirse
+      5 despedir-se
       5 depressa
       5 delicadeza
       5 delas
@@ -1226,14 +1224,14 @@
       5 crer
       5 costumes
       5 cortesia
-      5 corderosa
+      5 cor-de-rosa
       5 conversando
       5 convento
       5 convencido
       5 consolação
       5 conosco
       5 conjugal
-      5 conhecêlo
+      5 conhecê-lo
       5 confessar
       5 completo
       5 companheiro
@@ -1242,7 +1240,7 @@
       5 cavalheiro
       5 castigo
       5 casos
-      5 casarse
+      5 casar-se
       5 casal
       5 calmo
       5 cair
@@ -1265,24 +1263,25 @@
       5 Vivia
       5 Vira
       5 Vieram
+      5 Trezentos
       5 Tratou
       5 Teria
       5 Tantas
       5 Sra
       5 Será
-      5 Seguiuse
+      5 Seguiu-se
       5 Recebia
       5 Queira
       5 Quantos
       5 Pura
       5 Procurei
       5 Procura
-      5 Preparouse
+      5 Preparou-se
       5 Pouca
       5 Possui
       5 Podem
       5 Pedir
-      5 Pareceume
+      5 Pareceu-me
       5 Motivos
       5 Longas
       5 Lendo
@@ -1308,6 +1307,7 @@
       5 Adiante
       5 Acredito
       5 Abraçou
+      5 -
       4 órfã
       4 íntima
       4 época
@@ -1315,29 +1315,29 @@
       4 Águeda
       4 vários
       4 volto
-      4 voltandose
+      4 voltando-se
       4 viuvez
-      4 visitála
+      4 visitá-la
       4 viram
       4 vingar
       4 viajantes
-      4 verte
       4 vergonha
       4 verdadeiras
+      4 ver-te
       4 vencido
       4 união
       4 tronco
       4 tristeza
       4 tranqüilo
-      4 tornavase
+      4 tornava-se
       4 tornar
-      4 tido
       4 teus
       4 tempos
       4 tanta
       4 súbita
       4 séria
       4 supunha
+      4 sujeito
       4 suicídio
       4 solitários
       4 solicitude
@@ -1352,7 +1352,7 @@
       4 salvação
       4 saindo
       4 riu
-      4 rindose
+      4 rindo-se
       4 reuniões
       4 reunião
       4 retirava
@@ -1415,7 +1415,7 @@
       4 miséria
       4 minuto
       4 ministro
-      4 meiodia
+      4 meio-dia
       4 mediante
       4 madrugada
       4 luta
@@ -1456,7 +1456,7 @@
       4 fizesse
       4 felizes
       4 faça
-      4 fazêlo
+      4 fazê-lo
       4 fazendo
       4 fazem
       4 favor
@@ -1473,7 +1473,6 @@
       4 estrada
       4 estilo
       4 esteve
-      4 esquecia
       4 espécie
       4 esposo
       4 esforços
@@ -1489,7 +1488,7 @@
       4 doméstica
       4 dolorosa
       4 diálogo
-      4 dizêlo
+      4 dizê-lo
       4 distraído
       4 distrações
       4 distração
@@ -1501,7 +1500,6 @@
       4 desfeita
       4 desejado
       4 desculpar
-      4 desculpa
       4 descoberta
       4 descansado
       4 depósito
@@ -1509,7 +1507,7 @@
       4 delicado
       4 dei
       4 dedicação
-      4 darlhe
+      4 dar-lhe
       4 dantes
       4 dali
       4 cão
@@ -1556,7 +1554,7 @@
       4 apaixonada
       4 antigo
       4 ano
-      4 amála
+      4 amá-la
       4 amorosas
       4 amantes
       4 amada
@@ -1572,25 +1570,25 @@
       4 acaso
       4 aborrecido
       4 aberta
-      4 Viase
+      4 Via-se
       4 Verdadeiros
       4 Venho
       4 VIII
-      4 Tratase
+      4 Trata-se
       4 Toma
       4 Tire
       4 Tamanho
       4 Subiram
       4 Sonhou
       4 Somente
-      4 Sintome
+      4 Sinto-me
       4 Serei
       4 Recuso
       4 Recuei
       4 Receio
       4 Quantas
       4 Puro
-      4 Preparavase
+      4 Preparava-se
       4 Prender
       4 Penso
       4 Ouvi
@@ -1601,8 +1599,8 @@
       4 Manda
       4 Luvas
       4 Li
-      4 Levanteime
-      4 Lembraste
+      4 Levantei-me
+      4 Lembras-te
       4 Lavradio
       4 JOÃO
       4 Imagino
@@ -1619,13 +1617,12 @@
       4 Erro
       4 Ernesto
       4 Entra
-      4 Doute
+      4 Dou-te
       4 Dormiu
       4 Dirá
       4 Deves
       4 Deixe
       4 Deixa
-      4 Darme
       4 César
       4 Cumpria
       4 Conquanto
@@ -1639,20 +1636,21 @@
       4 Amaral
       4 Admirado
       4 Admira
-      4 Adivinhavase
+      4 Adivinhava-se
       4 Aconteceu
       4 Acompanhou
-      4 Achouse
+      4 Achou-se
       4 Achas
       4 Aceita
       4 Acabo
+      4 'Não
       3 últimas
       3 íntimos
       3 íntimas
       3 vítima
       3 vício
       3 vês
-      3 vêla
+      3 vê-la
       3 vulgar
       3 volume
       3 vocês
@@ -1679,7 +1677,6 @@
       3 urgente
       3 unicamente
       3 tílburi
-      3 têlo
       3 tábua
       3 trêmula
       3 trás
@@ -1697,6 +1694,7 @@
       3 tocar
       3 tiveram
       3 tinhas
+      3 tido
       3 terão
       3 terá
       3 terreno
@@ -1760,12 +1758,12 @@
       3 refletiu
       3 refletia
       3 rede
-      3 recémchegado
-      3 recémchegada
+      3 recém-chegado
+      3 recém-chegada
       3 recusou
       3 recriminações
       3 recente
-      3 recebêlo
+      3 recebê-lo
       3 recebo
       3 recanto
       3 real
@@ -1776,7 +1774,7 @@
       3 quisesse
       3 quiseres
       3 quisera
-      3 quintafeira
+      3 quinta-feira
       3 querer
       3 quadro
       3 pôr
@@ -1806,7 +1804,7 @@
       3 podemos
       3 peça
       3 peso
-      3 perguntarlhe
+      3 perguntar-lhe
       3 perfeita
       3 perdeu
       3 perda
@@ -1852,7 +1850,7 @@
       3 multidão
       3 mudo
       3 mudar
-      3 mostravase
+      3 mostrava-se
       3 mostrava
       3 mortal
       3 moral
@@ -1868,7 +1866,7 @@
       3 mergulhado
       3 mereço
       3 melancolia
-      3 meianoite
+      3 meia-noite
       3 meditação
       3 medicina
       3 matéria
@@ -1882,7 +1880,7 @@
       3 literatura
       3 leve
       3 levando
-      3 leua
+      3 leu-a
       3 lera
       3 lenço
       3 lançar
@@ -1927,7 +1925,7 @@
       3 francamente
       3 formas
       3 folhas
-      3 foilhe
+      3 foi-lhe
       3 fizeram
       3 fizera
       3 fitou
@@ -1938,7 +1936,7 @@
       3 feitos
       3 feio
       3 feia
-      3 fazêla
+      3 fazê-la
       3 fazes
       3 fazendeiro
       3 fará
@@ -1955,10 +1953,11 @@
       3 eterno
       3 estão
       3 estudar
-      3 estendeulhe
+      3 estendeu-lhe
       3 esteja
       3 estatura
       3 esquecido
+      3 esquecia
       3 esperou
       3 esperando
       3 escola
@@ -1966,8 +1965,8 @@
       3 equívoca
       3 entusiasmo
       3 entreter
-      3 entregoulhe
-      3 entrarlhe
+      3 entregou-lhe
+      3 entrar-lhe
       3 entrada
       3 entendo
       3 enigma
@@ -1988,10 +1987,10 @@
       3 diário
       3 diverso
       3 ditas
-      3 dispôsse
+      3 dispôs-se
       3 disfarçada
       3 dirigiu
-      3 dirigindose
+      3 dirigindo-se
       3 dirigia
       3 dignidade
       3 digna
@@ -2005,19 +2004,20 @@
       3 desengano
       3 desejos
       3 desejava
+      3 desculpa
       3 desconfiado
       3 descobri
       3 derradeira
       3 deram
       3 delicada
-      3 deixeme
+      3 deixe-me
       3 deixava
       3 deixado
       3 defeito
       3 dedução
       3 declarou
       3 decidida
-      3 darte
+      3 dar-me
       3 cético
       3 cálculo
       3 cumprimentou
@@ -2040,7 +2040,7 @@
       3 contemplava
       3 constituinte
       3 constante
-      3 conservarse
+      3 conservar-se
       3 consentir
       3 conquista
       3 conhecimento
@@ -2064,8 +2064,7 @@
       3 cem
       3 cela
       3 caçoada
-      3 cavalo
-      3 casouse
+      3 casou-se
       3 casca
       3 casas
       3 cartinha
@@ -2078,7 +2077,6 @@
       3 brigue
       3 brandura
       3 bota
-      3 bomba
       3 bens
       3 belos
       3 beijou
@@ -2090,7 +2088,7 @@
       3 assinatura
       3 assentada
       3 arma
-      3 apresentouse
+      3 apresentou-se
       3 apreciar
       3 apaixonar
       3 anunciar
@@ -2098,13 +2096,13 @@
       3 ansiosa
       3 animação
       3 animada
-      3 amorpróprio
+      3 amor-próprio
       3 amasse
-      3 amarme
       3 amargura
+      3 amar-me
       3 amabilidade
       3 altiva
-      3 alegrouse
+      3 alegrou-se
       3 alegres
       3 alcançava
       3 afabilidade
@@ -2113,7 +2111,7 @@
       3 acudia
       3 acreditar
       3 acontecer
-      3 achavamse
+      3 achavam-se
       3 aborrece
       3 abalo
       3 abaixo
@@ -2122,11 +2120,11 @@
       3 Usava
       3 Tá
       3 Três
-      3 Tratavase
+      3 Tratava-se
       3 Tirei
       3 Tirando
-      3 Tinhase
-      3 Tinhaos
+      3 Tinha-se
+      3 Tinha-os
       3 Somos
       3 Ri
       3 Receberam
@@ -2136,19 +2134,18 @@
       3 Punha
       3 Pudera
       3 Podiam
-      3 Podese
+      3 Pode-se
       3 Pergunto
       3 Perguntar
       3 Percebi
       3 Pede
-      3 Passouse
+      3 Passou-se
       3 Passei
       3 Passe
       3 Paro
-      3 Pareceulhe
+      3 Pareceu-lhe
       3 Olhei
       3 Note
-      3 Nobre
       3 Nessas
       3 Negar
       3 Morreram
@@ -2184,13 +2181,14 @@
       3 Bento
       3 Aquiles
       3 Aonde
-      3 Anunciouse
-      3 Amame
+      3 Anunciou-se
+      3 Ama-me
       3 Almoçou
-      3 Agradeçolhe
-      3 Admirouse
+      3 Agradeço-lhe
+      3 Admirou-se
       3 Acreditas
       3 21
+      3 'Que
       2 úmidos
       2 ó
       2 águas
@@ -2198,7 +2196,7 @@
       2 zombar
       2 xícara
       2 vésperas
-      2 voume
+      2 vou-me
       2 voltaria
       2 voar
       2 viveu
@@ -2210,7 +2208,7 @@
       2 vigilância
       2 viajante
       2 vestígios
-      2 vestirse
+      2 vestir-se
       2 vestidos
       2 vestia
       2 verão
@@ -2218,8 +2216,8 @@
       2 versão
       2 versos
       2 vermelhos
-      2 verme
-      2 vencêlo
+      2 ver-me
+      2 vencê-lo
       2 vencida
       2 vencer
       2 vela
@@ -2234,6 +2232,7 @@
       2 uso
       2 universal
       2 título
+      2 tê-lo
       2 trêmulo
       2 tropeiro
       2 triunfar
@@ -2262,9 +2261,9 @@
       2 teto
       2 testemunhas
       2 terríveis
-      2 terme
       2 teriam
       2 terem
+      2 ter-me
       2 tentar
       2 temperamento
       2 temores
@@ -2274,7 +2273,7 @@
       2 talento
       2 taciturno
       2 taciturnidade
-      2 sêlo
+      2 sê-lo
       2 sândalo
       2 suspeitoso
       2 suponha
@@ -2283,7 +2282,7 @@
       2 sozinhas
       2 sozinha
       2 souber
-      2 sorriuse
+      2 sorriu-se
       2 sons
       2 sonhando
       2 solícita
@@ -2306,25 +2305,25 @@
       2 serpente
       2 seriedade
       2 sequer
-      2 separaramse
+      2 separaram-se
       2 separada
       2 sentir
       2 sentindo
-      2 sentiase
       2 sentiam
-      2 sentarme
+      2 sentia-se
+      2 sentar-me
       2 semanal
       2 seguiram
       2 sedas
       2 saúde
       2 satisfeito
-      2 sanguefrio
+      2 sangue-frio
       2 salão
       2 salvava
-      2 salvarme
+      2 salvar-me
       2 salvar
       2 saciedade
-      2 sabêlo
+      2 sabê-lo
       2 sabido
       2 saberei
       2 sabendo
@@ -2336,7 +2335,7 @@
       2 romana
       2 rodar
       2 rival
-      2 riuse
+      2 riu-se
       2 risonha
       2 risada
       2 rigor
@@ -2345,14 +2344,14 @@
       2 revelar
       2 reunir
       2 retribuiu
-      2 retireime
+      2 retirei-me
       2 retire
-      2 retirarse
+      2 retirar-se
       2 retirada
       2 resumo
       2 restituir
       2 ressuscitar
-      2 respondeume
+      2 respondeu-me
       2 respeitava
       2 resistência
       2 resignação
@@ -2376,7 +2375,7 @@
       2 reinava
       2 regras
       2 regaço
-      2 reformouse
+      2 reformou-se
       2 reflexões
       2 refiro
       2 referiu
@@ -2404,7 +2403,7 @@
       2 qualidade
       2 público
       2 põe
-      2 pôrdosol
+      2 pôr-do-sol
       2 pérola
       2 pássaros
       2 pusera
@@ -2461,11 +2460,11 @@
       2 personagem
       2 perigosa
       2 perigo
-      2 perguntoume
-      2 pergunteilhe
+      2 perguntou-me
+      2 perguntei-lhe
       2 perguntava
       2 perguntas
-      2 perguntaramlhe
+      2 perguntaram-lhe
       2 perfeito
       2 perdoaria
       2 perdidas
@@ -2480,10 +2479,10 @@
       2 pele
       2 pedra
       2 pedisse
-      2 pedirlhe
+      2 pedir-lhe
       2 pedindo
       2 pedicuro
-      2 pedialhe
+      2 pedia-lhe
       2 pedem
       2 pecados
       2 pecador
@@ -2510,15 +2509,15 @@
       2 pagão
       2 pagar
       2 ouvira
-      2 ouvila
-      2 ouviaa
+      2 ouvia-a
+      2 ouvi-la
       2 originalidade
       2 orgulhoso
       2 oração
       2 opor
       2 olhares
       2 oferecimento
-      2 oferecendolhe
+      2 oferecendo-lhe
       2 oferecendo
       2 ofendo
       2 ocupo
@@ -2539,6 +2538,7 @@
       2 novel
       2 noturno
       2 noites
+      2 nobre
       2 ninho
       2 nervoso
       2 nervos
@@ -2554,7 +2554,7 @@
       2 médicos
       2 mágoa
       2 murmúrio
-      2 mostroulhe
+      2 mostrou-lhe
       2 mostrou
       2 mostrando
       2 mortos
@@ -2571,7 +2571,7 @@
       2 mistérios
       2 misteriosa
       2 minuta
-      2 meteuse
+      2 meteu-se
       2 mestres
       2 mestra
       2 mesmos
@@ -2594,8 +2594,8 @@
       2 manifestação
       2 manifestava
       2 mania
-      2 mandouo
-      2 mandoua
+      2 mandou-o
+      2 mandou-a
       2 mando
       2 mandamento
       2 maliciosamente
@@ -2604,8 +2604,8 @@
       2 magro
       2 lógica
       2 lírica
-      2 lêla
-      2 luademel
+      2 lê-la
+      2 lua-de-mel
       2 louca
       2 loja
       2 lindíssima
@@ -2616,13 +2616,13 @@
       2 lido
       2 libertino
       2 lha
-      2 leválo
+      2 levá-lo
       2 levantava
       2 levantar
       2 levantando
       2 leque
       2 lentamente
-      2 lembrate
+      2 lembra-te
       2 lembra
       2 leito
       2 leite
@@ -2644,7 +2644,7 @@
       2 intimamente
       2 interrupção
       2 interrompido
-      2 interrompeuse
+      2 interrompeu-se
       2 interrogações
       2 interrogação
       2 interpretação
@@ -2674,7 +2674,7 @@
       2 incógnito
       2 inculpo
       2 incredulidade
-      2 inclinouse
+      2 inclinou-se
       2 incapaz
       2 império
       2 impunha
@@ -2692,7 +2692,7 @@
       2 humanidade
       2 humanas
       2 humana
-      2 houvese
+      2 houve-se
       2 horror
       2 honrado
       2 hidra
@@ -2760,12 +2760,12 @@
       2 fecunda
       2 fechando
       2 faço
-      2 façame
-      2 faziamme
+      2 faça-me
+      2 faziam-me
       2 faziam
-      2 fazerse
-      2 fazerme
-      2 fazerlhe
+      2 fazer-se
+      2 fazer-me
+      2 fazer-lhe
       2 fazendas
       2 fazenda
       2 fatos
@@ -2775,10 +2775,10 @@
       2 famílias
       2 faltasse
       2 falso
-      2 faloume
+      2 falou-me
       2 faleceu
-      2 falarte
       2 falaria
+      2 falar-te
       2 fadiga
       2 faces
       2 face
@@ -2786,7 +2786,7 @@
       2 exteriores
       2 expôs
       2 expressões
-      2 exporlhe
+      2 expor-lhe
       2 expliquei
       2 explica
       2 expectativa
@@ -2805,7 +2805,7 @@
       2 estranha
       2 estivera
       2 estiver
-      2 estirouse
+      2 estirou-se
       2 estendia
       2 estação
       2 estabelecer
@@ -2824,7 +2824,7 @@
       2 espada
       2 escrita
       2 escrevi
-      2 escreverlhe
+      2 escrever-lhe
       2 escravos
       2 esconder
       2 escolhidos
@@ -2832,9 +2832,9 @@
       2 escassear
       2 erros
       2 ermo
-      2 eralhe
-      2 entroulhe
-      2 entregavase
+      2 era-lhe
+      2 entrou-lhe
+      2 entregava-se
       2 entraste
       2 entrasse
       2 entendeu
@@ -2842,13 +2842,13 @@
       2 energias
       2 encontravam
       2 encontrasse
-      2 encontrarse
-      2 encontraramse
-      2 encontrandose
+      2 encontraram-se
+      2 encontrar-se
+      2 encontrando-se
       2 encomendas
       2 encher
       2 encantado
-      2 encaminhouse
+      2 encaminhou-se
       2 empregado
       2 empenho
       2 empalidecia
@@ -2872,16 +2872,16 @@
       2 doméstico
       2 domésticas
       2 doentes
-      2 dizialhe
-      2 dizerte
-      2 dizerme
-      2 dizendome
+      2 dizia-lhe
+      2 dizer-te
+      2 dizer-me
+      2 dizendo-me
       2 dize
       2 divórcio
       2 divino
       2 divertida
       2 diversos
-      2 distrairse
+      2 distrair-se
       2 distrair
       2 distintas
       2 dissipações
@@ -2911,7 +2911,7 @@
       2 destinava
       2 despertou
       2 despediu
-      2 despediramse
+      2 despediram-se
       2 despedida
       2 desonra
       2 desmaio
@@ -2928,7 +2928,7 @@
       2 desanimou
       2 desairosa
       2 derrota
-      2 deralhe
+      2 dera-lhe
       2 dentes
       2 demônio
       2 delito
@@ -2938,9 +2938,10 @@
       2 decidido
       2 decerto
       2 data
+      2 dar-te
       2 daqueles
       2 dançava
-      2 dandolhe
+      2 dando-lhe
       2 damas
       2 dada
       2 cômica
@@ -2948,7 +2949,7 @@
       2 célebres
       2 cárcere
       2 custasse
-      2 custame
+      2 custa-me
       2 curto
       2 curso
       2 curioso
@@ -2977,17 +2978,17 @@
       2 contrária
       2 continuava
       2 conter
-      2 contentouse
+      2 contentou-se
       2 contentamento
       2 contemplou
       2 contei
       2 contanto
-      2 contandolhe
+      2 contando-lhe
       2 contado
       2 consternação
       2 consolou
       2 consolações
-      2 conservouse
+      2 conservou-se
       2 conservou
       2 conseqüências
       2 conseqüência
@@ -3004,7 +3005,7 @@
       2 concluído
       2 concedeu
       2 comunidade
-      2 comunicarlhe
+      2 comunicar-lhe
       2 comprometer
       2 compridas
       2 compreendendo
@@ -3033,7 +3034,7 @@
       2 chicotinho
       2 cheirando
       2 cheios
-      2 chegouse
+      2 chegou-se
       2 chegaram
       2 chegara
       2 chamou
@@ -3047,6 +3048,7 @@
       2 ceder
       2 caído
       2 caía
+      2 cavalo
       2 casto
       2 castigada
       2 cases
@@ -3058,10 +3060,10 @@
       2 campo
       2 caminhava
       2 camarotes
-      2 calouse
+      2 calou-se
       2 calcular
       2 calcanhar
-      2 cairlhe
+      2 cair-lhe
       2 caindo
       2 café
       2 cadáver
@@ -3082,6 +3084,7 @@
       2 borboleta
       2 bonecas
       2 bondade
+      2 bomba
       2 bocejo
       2 binóculo
       2 bigode
@@ -3097,7 +3100,7 @@
       2 bancos
       2 balbuciou
       2 azuis
-      2 avemarias
+      2 ave-marias
       2 austeridade
       2 aurora
       2 aumentava
@@ -3105,7 +3108,7 @@
       2 atraía
       2 atravessou
       2 atrair
-      2 atirouse
+      2 atirou-se
       2 atirou
       2 aterrado
       2 atenções
@@ -3115,12 +3118,12 @@
       2 assomou
       2 assomo
       2 assiduidade
-      2 assemelhase
+      2 assemelha-se
       2 aspiro
       2 asno
       2 arriscado
       2 arrependi
-      2 arrependeuse
+      2 arrependeu-se
       2 arranjo
       2 arranjar
       2 armada
@@ -3128,10 +3131,10 @@
       2 apreço
       2 apressado
       2 apressadamente
-      2 apresentálo
+      2 apresentá-lo
       2 apresentações
       2 apresentasse
-      2 apresentarse
+      2 apresentar-se
       2 apresentado
       2 aprendiz
       2 apreciador
@@ -3177,13 +3180,13 @@
       2 afiançar
       2 afetuoso
       2 afeições
-      2 afastouse
+      2 afastou-se
       2 afastava
       2 adquiriu
       2 admirável
       2 admire
-      2 admirase
       2 admirador
+      2 admira-se
       2 adiantava
       2 adiantar
       2 acrescentava
@@ -3192,17 +3195,17 @@
       2 acontecimento
       2 acontecia
       2 acontecendo
-      2 acompanhálo
-      2 acompanharme
+      2 acompanhá-lo
+      2 acompanhar-me
       2 acompanhada
-      2 achála
-      2 achome
+      2 achá-la
+      2 acho-me
       2 achei
       2 achaste
       2 achasse
       2 acharam
       2 acendeu
-      2 aceitálo
+      2 aceitá-lo
       2 acalmar
       2 acabasse
       2 acabas
@@ -3210,12 +3213,12 @@
       2 absurda
       2 absoluto
       2 absolutamente
-      2 abriuse
+      2 abriu-se
       2 abrisse
       2 abrir
       2 abrindo
-      2 abraçála
-      2 abraçarte
+      2 abraçá-la
+      2 abraçar-te
       2 aborrecidas
       2 aborrecem
       2 aberto
@@ -3227,7 +3230,7 @@
       2 X
       2 Voltei
       2 Voltarei
-      2 Vio
+      2 Vi-o
       2 Vermelha
       2 Valeu
       2 VSa
@@ -3239,24 +3242,24 @@
       2 Tornara
       2 Tira
       2 Sétimo
-      2 Surgiulhe
+      2 Surgiu-lhe
       2 Soubemos
       2 Sorria
       2 Shakespeare
       2 Serás
-      2 Sentaramse
-      2 Seguiramse
+      2 Sentaram-se
+      2 Seguiram-se
       2 Saem
       2 SIMÃO
       2 S
       2 Rocio
-      2 Retirome
+      2 Retiro-me
       2 Resolvi
       2 Repara
       2 Referindo
       2 Recusas
       2 Reconhecia
-      2 Recebeuo
+      2 Recebeu-o
       2 Rafael
       2 Quitanda
       2 Querias
@@ -3266,8 +3269,8 @@
       2 Pretendo
       2 Preferiu
       2 Pondo
-      2 Perdôolhe
-      2 Perdoeme
+      2 Perdôo-lhe
+      2 Perdoe-me
       2 Perdoe
       2 Perdera
       2 Pendem
@@ -3275,10 +3278,10 @@
       2 Paulo
       2 Pastorinha
       2 Pareces
-      2 Parecelhe
+      2 Parece-lhe
       2 Pacífico
-      2 Ouçame
-      2 Ouviuse
+      2 Ouça-me
+      2 Ouviu-se
       2 Ouvidor
       2 Olharam
       2 Notou
@@ -3289,7 +3292,7 @@
       2 Marion
       2 MOÇA
       2 Levantei
-      2 Lembrame
+      2 Lembra-me
       2 Lancei
       2 Iorque
       2 Insistiu
@@ -3304,12 +3307,11 @@
       2 Galgo
       2 Fume
       2 Freqüentava
-      2 Foime
+      2 Foi-me
       2 Fluminenses
-      2 Fila
       2 Ferino
       2 Fechou
-      2 Faziame
+      2 Fazia-me
       2 Falsos
       2 Faculdade
       2 Exprimia
@@ -3320,27 +3322,27 @@
       2 Estimei
       2 Estavas
       2 Escuta
-      2 Escrevilhe
+      2 Escrevi-lhe
       2 Entras
       2 Entraram
       2 Elvira
-      2 Dême
-      2 Doulhe
+      2 Dê-me
+      2 Dou-lhe
       2 Dormia
       2 Dormi
       2 Dores
       2 Diógenes
-      2 Dizeme
-      2 Disseramme
-      2 Dissemo
-      2 Disselhes
-      2 Dispunhase
-      2 Dirigiramse
-      2 Digame
+      2 Dize-me
+      2 Disseram-me
+      2 Disse-mo
+      2 Disse-lhes
+      2 Dispunha-se
+      2 Dirigiram-se
+      2 Diga-me
       2 Deputados
-      2 Deixese
       2 Deixemos
-      2 Deixate
+      2 Deixe-se
+      2 Deixa-te
       2 Debalde
       2 Da
       2 Cumpre
@@ -3350,7 +3352,7 @@
       2 Cornélia
       2 Corcovado
       2 Convenha
-      2 Convenceuse
+      2 Convenceu-se
       2 Conto
       2 Conte
       2 Conservava
@@ -3364,36 +3366,38 @@
       2 China
       2 Cheguei
       2 Catumbi
-      2 Casarme
+      2 Casar-me
       2 Calcula
       2 Cajueiros
       2 Botafogo
-      2 Beijeia
+      2 Beijei-a
       2 Bastava
-      2 BarbeBleue
-      2 Assustouse
+      2 Barbe-Bleue
+      2 Assustou-se
       2 Artemisas
       2 Aproveitou
       2 Aprecio
-      2 Apearamse
+      2 Apearam-se
       2 Ando
       2 Amélia
-      2 Amoa
-      2 Amao
+      2 Amo-a
+      2 Ama-o
       2 Altos
       2 Almoças
       2 Agradeço
-      2 Afirmolhe
+      2 Afirmo-lhe
       2 Afirmo
       2 Adiou
       2 Acrescia
-      2 Aconteceume
+      2 Aconteceu-me
       2 Acode
-      2 Abriua
-      2 Abrirme
-      2 Abatêlo
+      2 Abriu-a
+      2 Abrir-me
+      2 Abatê-lo
       2 1870
       2 186
+      2 'É
+      2 'Onde
       1 útil
       1 únicos
       1 únicas
@@ -3416,9 +3420,9 @@
       1 Ódio
       1 Ítaca
       1 Éramos
-      1 Éme
-      1 Élhe
       1 Édipo
+      1 É-me
+      1 É-lhe
       1 Ângelo
       1 “Tudo
       1 zumbaias
@@ -3427,8 +3431,8 @@
       1 zombe
       1 zombaria
       1 zangado
-      1 vêse
-      1 vêlos
+      1 vê-se
+      1 vê-los
       1 véu
       1 vãos
       1 vás
@@ -3448,8 +3452,8 @@
       1 volvesse
       1 volvendo
       1 volumes
-      1 voltavamse
-      1 voltavamme
+      1 voltavam-se
+      1 voltavam-me
       1 voltasse
       1 voltaram
       1 voltam
@@ -3463,7 +3467,7 @@
       1 viviam
       1 vivesse
       1 vivera
-      1 viuo
+      1 viu-o
       1 visivelmente
       1 visito
       1 visitava
@@ -3475,7 +3479,7 @@
       1 virem
       1 virei
       1 violetas
-      1 violentarlhe
+      1 violentar-lhe
       1 violentamente
       1 vinténs
       1 vingativo
@@ -3492,9 +3496,9 @@
       1 viera
       1 vidraça
       1 viajam
-      1 viaa
+      1 via-a
       1 veículo
-      1 vexavase
+      1 vexava-se
       1 vexado
       1 vestígio
       1 vestuário
@@ -3506,36 +3510,36 @@
       1 versou
       1 versava
       1 verossimilhança
-      1 verlhe
-      1 verificouse
+      1 verificou-se
       1 verificou
-      1 verificarse
+      1 verificar-se
       1 veremos
       1 verde
       1 verdades
       1 verbo
       1 veras
-      1 veraefígie
+      1 vera-efígie
+      1 ver-lhe
       1 venturosos
       1 venturoso
       1 venturas
       1 venial
       1 veniais
       1 venerava
-      1 vendose
-      1 vendoo
+      1 vendo-se
+      1 vendo-o
       1 vendido
       1 vendida
       1 venderemos
       1 vender
-      1 vencêla
+      1 vencê-la
       1 vencidos
       1 venceram
       1 velhas
       1 velhacos
       1 velas
       1 velarei
-      1 vejome
+      1 vejo-me
       1 vasos
       1 variar
       1 variada
@@ -3544,13 +3548,13 @@
       1 valsava
       1 valiam
       1 valia
-      1 valerlhe
+      1 valer-lhe
       1 valentes
       1 valente
-      1 vaite
       1 vaidosas
       1 vaidadezinha
       1 vaidades
+      1 vai-te
       1 vago
       1 vagarosamente
       1 vacilava
@@ -3575,6 +3579,7 @@
       1 ufana
       1 títulos
       1 tínhamos
+      1 tê-lo'
       1 térreo
       1 tédio
       1 turva
@@ -3584,8 +3589,8 @@
       1 trágica
       1 truncados
       1 trouxeram
-      1 trouxeo
-      1 trouxelhe
+      1 trouxe-o
+      1 trouxe-lhe
       1 trono
       1 troféu
       1 trocou
@@ -3605,36 +3610,36 @@
       1 tremendos
       1 tremenda
       1 trem
-      1 traílo
       1 traído
       1 traía
+      1 traí-lo
       1 traços
       1 traçada
-      1 trazêlo
+      1 trazê-lo
       1 trazido
-      1 traziamno
-      1 trazerme
-      1 trazerlhe
+      1 traziam-no
+      1 trazer-me
+      1 trazer-lhe
       1 trazer
       1 trazendo
       1 travesseiro
       1 travado
-      1 tratavao
-      1 tratavame
       1 tratavam
+      1 tratava-o
+      1 tratava-me
       1 trataste
       1 trataria
-      1 tratandoo
-      1 tratame
+      1 tratando-o
       1 tratados
+      1 trata-me
       1 transição
       1 transformar
       1 transforma
       1 transfiguração
       1 transeuntes
       1 transbordavam
-      1 tranqüilizálo
-      1 tranqüilizoua
+      1 tranqüilizá-lo
+      1 tranqüilizou-a
       1 tranqüilizavam
       1 tramavam
       1 trajo
@@ -3642,7 +3647,7 @@
       1 traição
       1 trairia
       1 trago
-      1 tragame
+      1 traga-me
       1 tradicional
       1 trabalhozinho
       1 trabalham
@@ -3656,45 +3661,46 @@
       1 torturas
       1 torturado
       1 torrencial
-      1 tornálo
-      1 tornavaselhe
+      1 torná-lo
+      1 tornava-se-lhe
       1 tornava
-      1 tornarseia
-      1 tornarse
+      1 tornar-se-ia
+      1 tornar-se
       1 tormento
       1 torcer
       1 tonto
       1 tonel
       1 tomasse
-      1 tomase
       1 tomarem
       1 tomaram
       1 tomada
+      1 toma-se
       1 tolices
       1 tolher
-      1 tocouse
+      1 tocou-se
       1 tocavam
-      1 tocarlhe
       1 tocara
+      1 tocar-lhe
       1 tocando
       1 tocado
       1 toa
       1 to
       1 tivesses
       1 tiveres
-      1 tirouo
+      1 tirou-o
       1 tiro
-      1 tireilhe
+      1 tirei-lhe
       1 tirava
       1 tirar
       1 tirai
       1 tios
       1 tinta
       1 tino
-      1 tinhaselhe
-      1 tinhao
-      1 tinhame
+      1 tinha-se-lhe
+      1 tinha-o
+      1 tinha-me
       1 timorato
+      1 tido'
       1 tez
       1 textuais
       1 testemunhos
@@ -3706,16 +3712,16 @@
       1 ternamente
       1 terna
       1 termine
-      1 terlhe
       1 teres
       1 terceira
+      1 ter-lhe
       1 teorias
       1 teoria
       1 tentei
       1 tentava
       1 tentado
       1 tentada
-      1 tenhoa
+      1 tenho-a
       1 tenham
       1 tendência
       1 tenacidade
@@ -3752,11 +3758,11 @@
       1 sábado
       1 susto
       1 sustentar
-      1 sussurroume
+      1 sussurrou-me
       1 suspiros
       1 suspirar
       1 suspensa
-      1 suspeitasteo
+      1 suspeitaste-o
       1 suspeitada
       1 suscetível
       1 suscetibilidade
@@ -3771,11 +3777,11 @@
       1 supõe
       1 supérfluo
       1 supusesse
-      1 suprimialhe
+      1 suprimia-lhe
       1 supremo
       1 suposto
       1 suposição
-      1 suportálo
+      1 suportá-lo
       1 suponho
       1 suplício
       1 suplantara
@@ -3784,7 +3790,8 @@
       1 superficial
       1 superficiais
       1 sujos
-      1 sujeitarme
+      1 sujeito'
+      1 sujeitar-me
       1 sujeita
       1 sugerir
       1 sugerida
@@ -3800,10 +3807,10 @@
       1 substitui
       1 subsistência
       1 submissão
-      1 subjugavame
+      1 subjugava-me
       1 subisse
-      1 subirme
       1 subira
+      1 subir-me
       1 subdelegados
       1 suba
       1 suave
@@ -3814,16 +3821,16 @@
       1 sotaina
       1 sossego
       1 sorvete
-      1 sorriulhe
+      1 sorriu-lhe
       1 sorrisse
-      1 sorriase
+      1 sorria-se
       1 sorrateiramente
       1 sopra
       1 sonhei
       1 sonhavas
       1 sonhar
       1 sonetos
-      1 sondálo
+      1 sondá-lo
       1 sondava
       1 sombrias
       1 sombria
@@ -3858,10 +3865,10 @@
       1 sobrava
       1 sobrancelhas
       1 sobra
-      1 sobese
       1 soberano
       1 soberanas
       1 sobem
+      1 sobe-se
       1 situadas
       1 sistema
       1 sintam
@@ -3877,38 +3884,39 @@
       1 sinetes
       1 sine
       1 sinais
-      1 simulandose
+      1 simulando-se
       1 simplicidades
       1 simpatizo
       1 simpatizei
       1 simpatizar
       1 silenciosamente
+      1 si'
       1 setenta
       1 setas
       1 sestros
       1 sessenta
-      1 serviuse
-      1 serviulhe
-      1 servirme
+      1 serviu-se
+      1 serviu-lhe
       1 serviria
       1 serviram
+      1 servir-me
       1 servilismo
-      1 servila
       1 servido
-      1 serviase
       1 serviam
+      1 servia-se
+      1 servi-la
       1 servas
       1 serra
       1 serpe
-      1 serme
       1 serenos
       1 serenidade
       1 serenatas
       1 seremos
       1 serafim
+      1 ser-me
       1 sequiosos
       1 sepultis
-      1 separouse
+      1 separou-se
       1 separados
       1 separadas
       1 senões
@@ -3918,8 +3926,8 @@
       1 sentida
       1 sentenciosamente
       1 sentem
-      1 sentarte
-      1 sentamse
+      1 sentar-te
+      1 sentam-se
       1 sensual
       1 senda
       1 semente
@@ -3943,7 +3951,7 @@
       1 secos
       1 secamente
       1 seca
-      1 saíramme
+      1 saíram-me
       1 saí
       1 saudosas
       1 satânica
@@ -3959,7 +3967,7 @@
       1 salões
       1 salvou
       1 salvasse
-      1 salvarlhe
+      1 salvar-lhe
       1 salvadora
       1 salva
       1 saltou
@@ -4002,12 +4010,12 @@
       1 rosas
       1 românticas
       1 romântica
-      1 rompêlo
+      1 rompê-lo
       1 rompia
       1 romancistas
       1 rolou
       1 rolava
-      1 rolarme
+      1 rolar-me
       1 rogando
       1 rodeava
       1 roceira
@@ -4029,23 +4037,23 @@
       1 ridículas
       1 ridícula
       1 ricos
-      1 riase
-      1 riame
+      1 ria-se
+      1 ria-me
       1 reúno
       1 rezam
       1 reza
       1 revolta
       1 reverberantes
-      1 revelouse
+      1 revelou-se
       1 revelou
       1 revele
-      1 revelavase
-      1 revelarse
+      1 revelava-se
+      1 revelar-se
       1 revelado
       1 revela
       1 reuniu
-      1 reunirase
       1 reuniram
+      1 reunira-se
       1 reunindo
       1 reunidas
       1 reumáticos
@@ -4057,48 +4065,48 @@
       1 retive
       1 retirasse
       1 retirar
-      1 retinhao
+      1 retinha-o
       1 retinha
       1 reticências
-      1 resumese
+      1 resume-se
       1 resultava
       1 resulta
       1 restos
       1 restituíssem
       1 restituísse
-      1 restituíla
       1 restituído
+      1 restituí-la
       1 restituí
       1 restavam
       1 restava
-      1 restaurálo
+      1 restaurá-lo
       1 restaurasse
-      1 restaurarlhe
+      1 restaurar-lhe
       1 restaurar
       1 restam
       1 restabelecimento
       1 resta
       1 ressurgir
-      1 respondêlo
+      1 respondê-lo
       1 respondido
-      1 respondiame
-      1 respondeulhe
-      1 respondese
-      1 responderme
-      1 responderlhe
+      1 respondia-me
+      1 respondeu-lhe
       1 respondera
+      1 responder-me
+      1 responder-lhe
       1 respondendo
+      1 responde-se
       1 respirou
       1 respirava
       1 respirasse
       1 respeitável
       1 respeitos
-      1 respeitoa
+      1 respeito-a
       1 respeitar
       1 respeitada
       1 respectivos
-      1 resolvêla
-      1 resolveuse
+      1 resolvê-la
+      1 resolveu-se
       1 resolvera
       1 resolvendo
       1 resolvam
@@ -4123,8 +4131,8 @@
       1 repolho
       1 replicou
       1 repetição
-      1 repetiramse
-      1 repetiaa
+      1 repetiram-se
+      1 repetia-a
       1 repentina
       1 repente
       1 repeliu
@@ -4132,7 +4140,7 @@
       1 repelida
       1 repelia
       1 repassava
-      1 reparálo
+      1 repará-lo
       1 repartir
       1 reparação
       1 reparava
@@ -4141,7 +4149,7 @@
       1 renunciar
       1 rendosas
       1 rendida
-      1 rendezvous
+      1 rendez-vous
       1 renda
       1 renascentes
       1 renascendo
@@ -4150,13 +4158,13 @@
       1 reminiscências
       1 remessa
       1 remediado
-      1 rematálo
+      1 rematá-lo
       1 relíquia
       1 religioso
       1 religiosamente
       1 relativos
       1 relativa
-      1 relacionaramse
+      1 relacionaram-se
       1 rejeitado
       1 rei
       1 regímen
@@ -4173,7 +4181,7 @@
       1 reforma
       1 reflexos
       1 refletir
-      1 referiuas
+      1 referiu-as
       1 referir
       1 referidos
       1 referido
@@ -4185,7 +4193,7 @@
       1 reduzirmos
       1 reduzido
       1 redigiu
-      1 recusálo
+      1 recusá-lo
       1 recusei
       1 recusava
       1 recusaria
@@ -4199,11 +4207,11 @@
       1 recorreria
       1 recordo
       1 recordará
-      1 recordarme
+      1 recordar-me
       1 recordar
       1 reconstruísse
-      1 reconstruíla
       1 reconstruída
+      1 reconstruí-la
       1 reconstrução
       1 reconstruir
       1 reconheço
@@ -4212,24 +4220,24 @@
       1 reconhecendo
       1 recomendado
       1 recolhido
-      1 recolhiase
-      1 recolheuse
+      1 recolhia-se
+      1 recolheu-se
       1 recolheram
       1 reclinada
       1 reclamação
       1 reclamasse
       1 reclama
-      1 recitarlhe
+      1 recitar-lhe
       1 reciprocidade
       1 reciprocamente
       1 receoso
       1 recendia
       1 recendente
       1 receios
-      1 recebêla
+      1 recebê-la
       1 recebias
-      1 recebiao
-      1 recebeuos
+      1 recebia-o
+      1 recebeu-os
       1 receberá
       1 receberem
       1 recebera
@@ -4246,7 +4254,7 @@
       1 reanimou
       1 realçar
       1 realizável
-      1 realizála
+      1 realizá-la
       1 realizou
       1 realizasse
       1 realizam
@@ -4262,12 +4270,12 @@
       1 ratoneiro
       1 rateiros
       1 rateira
-      1 raspandose
-      1 rasgouas
+      1 raspando-se
+      1 rasgou-as
       1 rasgou
-      1 rasgase
       1 rasgando
-      1 rasgaa
+      1 rasga-se
+      1 rasga-a
       1 rascunho
       1 raríssimas
       1 raro
@@ -4276,22 +4284,23 @@
       1 rapazola
       1 raparigas
       1 rancores
-      1 ralarme
+      1 ralar-me
       1 raiou
       1 rabugices
       1 rabicho
+      1 quê'
       1 quinta
       1 quimera
       1 questiono
-      1 querolhe
-      1 querme
+      1 quero-lhe
       1 quererá
       1 querem
+      1 quer-me
       1 queixou
       1 queixo
-      1 queixarme
+      1 queixar-me
       1 queixa
-      1 queimeime
+      1 queimei-me
       1 queimei
       1 queimava
       1 quedo
@@ -4305,10 +4314,10 @@
       1 púlpito
       1 públicos
       1 pública
-      1 pôslhe
-      1 pôslhas
-      1 pôlos
-      1 pôdese
+      1 pôs-lhe
+      1 pôs-lhas
+      1 pôde-se
+      1 pô-los
       1 póstuma
       1 pêsames
       1 pérfidos
@@ -4323,7 +4332,7 @@
       1 pulso
       1 pulsações
       1 pulsasse
-      1 pulsarlhe
+      1 pulsar-lhe
       1 pulando
       1 publicaram
       1 publicados
@@ -4344,7 +4353,7 @@
       1 proveio
       1 provavelmente
       1 provava
-      1 provarte
+      1 provar-te
       1 provar
       1 provado
       1 protesto
@@ -4377,7 +4386,7 @@
       1 prometem
       1 prolongava
       1 prolongasse
-      1 prolongarse
+      1 prolongar-se
       1 prolongado
       1 projeto
       1 projetava
@@ -4395,13 +4404,14 @@
       1 produzia
       1 produzem
       1 prodigiosa
-      1 procurálo
+      1 procurá-lo
+      1 procurava'
       1 procurarei
       1 procuram
       1 procurado
       1 processar
       1 procedi
-      1 procedeuse
+      1 procedeu-se
       1 procedeu
       1 proceder
       1 probidade
@@ -4433,28 +4443,28 @@
       1 presentemente
       1 presenciava
       1 presenciar
-      1 prescreveulhe
+      1 prescreveu-lhe
       1 prescindir
-      1 preparála
+      1 prepará-la
       1 preparos
       1 preparatórios
       1 preparativos
-      1 preparase
-      1 preparar
+      1 preparar-
       1 preparando
       1 preparado
+      1 prepara-se
       1 preocupações
       1 preocupava
       1 preocupa
-      1 prendêlo
-      1 prendiame
+      1 prendê-lo
       1 prendiam
+      1 prendia-me
       1 prendia
       1 premeditada
       1 prematura
       1 prelúdio
       1 preliminares
-      1 pregavame
+      1 pregava-me
       1 pregar
       1 pregadores
       1 prefácio
@@ -4467,8 +4477,8 @@
       1 precária
       1 preconceitos
       1 precisar
-      1 precipitouse
-      1 precipitandose
+      1 precipitou-se
+      1 precipitando-se
       1 precipitado
       1 precipitada
       1 preciosa
@@ -4484,7 +4494,7 @@
       1 poço
       1 pousaram
       1 pousada
-      1 poupoulhe
+      1 poupou-lhe
       1 poupado
       1 posteriores
       1 posta
@@ -4499,7 +4509,7 @@
       1 portinhola
       1 porte
       1 portas
-      1 portarse
+      1 portar-se
       1 portador
       1 poria
       1 pontas
@@ -4532,7 +4542,7 @@
       1 pitorescos
       1 pisou
       1 piscava
-      1 pisaramme
+      1 pisaram-me
       1 pisada
       1 piores
       1 pintura
@@ -4543,7 +4553,7 @@
       1 pieguice
       1 piar
       1 pia
-      1 peçolhes
+      1 peço-lhes
       1 pexotes
       1 petrificado
       1 pessoalmente
@@ -4557,25 +4567,25 @@
       1 pesada
       1 pesa
       1 perverso
-      1 perturbavame
+      1 perturbava-me
       1 perturbar
       1 pertinente
       1 pertencia
       1 pertence
       1 persuasiva
-      1 persuadirme
+      1 persuadir-me
       1 persuadir
       1 perspicaz
       1 perspectiva
       1 persistência
       1 persistia
       1 persistente
-      1 persignouse
-      1 persignandose
+      1 persignou-se
+      1 persignando-se
       1 perseguidor
       1 perseguido
       1 perseguidas
-      1 perpetuarse
+      1 perpetuar-se
       1 perpetuar
       1 perpassam
       1 permite
@@ -4587,19 +4597,19 @@
       1 perguntaste
       1 perguntasse
       1 perguntara
-      1 perfumouse
+      1 perfumou-se
       1 perfumes
       1 perfeição
       1 perfeitas
       1 peremptoriamente
-      1 perdêla
+      1 perdê-la
       1 perdoarei
       1 perdoa
       1 perdidamente
       1 perdida
-      1 perdiame
+      1 perdia-me
       1 perderam
-      1 percorreuas
+      1 percorreu-as
       1 percorreu
       1 perceber
       1 perceba
@@ -4608,7 +4618,7 @@
       1 pequeníssima
       1 penúltima
       1 penteados
-      1 pensálo
+      1 pensá-lo
       1 pensem
       1 pensavam
       1 pensativo
@@ -4618,23 +4628,23 @@
       1 pensando
       1 penhora
       1 penetração
-      1 pendialhe
+      1 pendia-lhe
       1 pende
       1 pelica
       1 peixe
       1 pegava
       1 pegando
-      1 pediuos
-      1 pediume
-      1 pediuma
-      1 pedirlheia
-      1 pedindolhes
-      1 pedindolhe
-      1 pedila
+      1 pediu-os
+      1 pediu-me
+      1 pediu-ma
+      1 pedir-lhe-ia
+      1 pedindo-lhes
+      1 pedindo-lhe
       1 pedidos
       1 pedida
       1 pediam
-      1 pedelhe
+      1 pedi-la
+      1 pede-lhe
       1 pedaços
       1 pedaço
       1 pedacinhos
@@ -4647,15 +4657,15 @@
       1 pausa
       1 pau
       1 patulae
-      1 pateálo
+      1 pateá-lo
       1 pateta
       1 pateado
       1 patamar
       1 passeadores
       1 passasse
-      1 passamse
-      1 passame
+      1 passam-se
       1 passageiros
+      1 passa-me
       1 pasmado
       1 parêntesis
       1 partícula
@@ -4670,12 +4680,12 @@
       1 paremos
       1 parelha
       1 parecias
-      1 pareciamme
+      1 pareciam-me
       1 parecesse
-      1 parecerlhe
       1 pareceram
+      1 parecer-lhe
       1 parecendo
-      1 parecemme
+      1 parecem-me
       1 parecem
       1 parce
       1 parasitas
@@ -4693,31 +4703,32 @@
       1 paizinho
       1 pairando
       1 pagã
-      1 pagála
+      1 pagá-la
       1 paguei
-      1 pagoulhe
+      1 pagou-lhe
       1 pagodeando
       1 pago
       1 pagava
       1 pagamento
       1 paga
       1 padrinho
-      1 padresmestres
+      1 padres-mestres
       1 padecia
       1 padecesse
       1 paciente
       1 ouço
       1 ouçam
       1 ouça
-      1 ouvite
       1 ouviste
-      1 ouvirte
       1 ouviram
-      1 ouvindolhe
-      1 ouvilo
-      1 ouvilas
-      1 ouviao
+      1 ouvir-te
+      1 ouvindo-lhe
       1 ouviam
+      1 ouvia-o
+      1 ouvi-te
+      1 ouvi-lo
+      1 ouvi-las
+      1 outros'
       1 outrora
       1 ousou
       1 ouso
@@ -4725,17 +4736,17 @@
       1 ousava
       1 ousada
       1 ouro
-      1 ostentavamse
+      1 ostentavam-se
       1 ostentar
       1 oscilações
       1 orquestra
-      1 ornavamlhe
+      1 ornavam-lhe
       1 ornato
       1 ornamento
       1 ornada
       1 originalmente
       1 origem
-      1 orientálo
+      1 orientá-lo
       1 orgulhosa
       1 organizar
       1 orelhas
@@ -4750,7 +4761,7 @@
       1 opostos
       1 oposto
       1 oportuno
-      1 oporse
+      1 opor-se
       1 operou
       1 operações
       1 operação
@@ -4761,26 +4772,26 @@
       1 ofícios
       1 oficioso
       1 oficial
-      1 ofereçolhe
+      1 ofereço-lhe
       1 oferecera
       1 oferece
       1 ofensa
       1 ofendida
       1 ofendia
-      1 odiála
+      1 odiá-la
       1 odiosa
       1 odiasse
       1 odiando
       1 ocupações
-      1 ocupavalhe
-      1 ocupase
-      1 ocuparme
+      1 ocupava-lhe
+      1 ocupar-me
       1 ocupados
       1 ocupado
+      1 ocupa-se
       1 ocultei
       1 ocultavam
-      1 ocultarlhe
       1 ocultarei
+      1 ocultar-lhe
       1 ocorrências
       1 ocorria
       1 ocorrem
@@ -4790,24 +4801,24 @@
       1 obteve
       1 observou
       1 observo
-      1 observao
       1 observadores
       1 observador
       1 observado
+      1 observa-o
       1 obsequiosidade
       1 obscuros
       1 obscuro
       1 obscura
-      1 obrigoume
+      1 obrigou-me
       1 obrigações
       1 obrigavam
       1 obrigasse
-      1 obrigarme
+      1 obrigar-me
       1 objetava
       1 objetaram
       1 obediência
       1 obedeço
-      1 obedecerlhe
+      1 obedecer-lhe
       1 obedecendo
       1 núncios
       1 núncia
@@ -4815,6 +4826,7 @@
       1 nuvem
       1 nutre
       1 nupcial
+      1 nunca'
       1 numerosa
       1 nulos
       1 nulo
@@ -4826,7 +4838,7 @@
       1 novamente
       1 noutras
       1 notícias
-      1 notarlhe
+      1 notar-lhe
       1 notando
       1 notado
       1 notada
@@ -4834,14 +4846,14 @@
       1 nomeara
       1 nomeado
       1 nomeada
-      1 nolos
       1 noiva
+      1 no-los
       1 nhonhô
       1 nexo
       1 netos
       1 nesses
       1 nesga
-      1 negálo
+      1 negá-lo
       1 negras
       1 negra
       1 nego
@@ -4871,6 +4883,7 @@
       1 namorada
       1 nadas
       1 nadando
+      1 nada'
       1 mútua
       1 móvel
       1 máxima
@@ -4882,8 +4895,8 @@
       1 mutantur
       1 museus
       1 musa
-      1 muro
-      1 murmuroume
+      1 muro'
+      1 murmurou-me
       1 murmurei
       1 multiplicado
       1 mui
@@ -4904,8 +4917,8 @@
       1 mover
       1 mote
       1 mostrasse
-      1 mostrarlhe
       1 mostraria
+      1 mostrar-lhe
       1 mostrado
       1 mortificava
       1 mortalmente
@@ -4914,7 +4927,7 @@
       1 morremos
       1 morrem
       1 morena
-      1 morderlhe
+      1 morder-lhe
       1 morasse
       1 moras
       1 moralista
@@ -4956,15 +4969,15 @@
       1 minguante
       1 mimo
       1 metida
-      1 meteuo
+      1 meteu-o
       1 meteu
       1 meteste
-      1 meterse
+      1 meter-se
       1 metades
       1 meta
       1 mesclado
       1 mereciam
-      1 merecialhe
+      1 merecia-lhe
       1 mereceu
       1 merecessem
       1 mereceria
@@ -5002,12 +5015,13 @@
       1 maçante
       1 maxixe
       1 matérias
-      1 matouse
-      1 matouo
+      1 matou-se
+      1 matou-o
       1 matemática
       1 mastigando
       1 massa
       1 marujos
+      1 marido'
       1 marciais
       1 marchavam
       1 marcara
@@ -5023,24 +5037,24 @@
       1 manter
       1 mansa
       1 mano
-      1 manifestouse
+      1 manifestou-se
       1 manifesto
-      1 manifestarse
+      1 manifestar-se
       1 manifesta
       1 mangue
       1 mangas
-      1 mandálo
-      1 mandála
-      1 mandoulha
+      1 mandá-lo
+      1 mandá-la
+      1 mandou-lha
       1 mandemos
-      1 mandemolo
+      1 mandemo-lo
       1 mande
-      1 mandarmeás
       1 mandaria
       1 mandarem
       1 mandarei
       1 mandaram
-      1 mandandolhe
+      1 mandar-me-ás
+      1 mandando-lhe
       1 malvas
       1 malfadada
       1 maledicência
@@ -5048,8 +5062,8 @@
       1 mala
       1 majestade
       1 magreza
-      1 magoálo
-      1 magoouo
+      1 magoá-lo
+      1 magoou-o
       1 magnólia
       1 magníficos
       1 magnético
@@ -5076,6 +5090,7 @@
       1 loucamente
       1 lorde
       1 lord
+      1 longe'
       1 longanimidade
       1 loiras
       1 logrou
@@ -5087,7 +5102,7 @@
       1 literária
       1 literato
       1 literata
-      1 lisonjeouse
+      1 lisonjeou-se
       1 lisonjeou
       1 lisonjeira
       1 lisonjeiam
@@ -5096,11 +5111,11 @@
       1 linho
       1 lindíssimos
       1 lindíssimo
-      1 limitouse
-      1 limitese
-      1 limiteime
+      1 limitou-se
+      1 limitei-me
+      1 limite-se
       1 limite
-      1 limitavase
+      1 limitava-se
       1 limitar
       1 ligeiro
       1 ligeiramente
@@ -5111,31 +5126,32 @@
       1 libertinos
       1 libertar
       1 libelo
+      1 li-a
       1 lhos
-      1 levála
-      1 levoua
-      1 levolhe
+      1 levá-la
+      1 levou-a
+      1 levo-lhe
       1 leviano
       1 leviandade
       1 leves
       1 levemente
-      1 levea
+      1 leve-a
       1 levarei
-      1 levantarse
+      1 levantar-se
       1 levantado
       1 levanta
-      1 leulhe
-      1 lerte
+      1 leu-lhe
+      1 ler-te
       1 leques
       1 lenta
-      1 lembroulhe
+      1 lembrou-lhe
       1 lembrou
       1 lembres
       1 lembrei
       1 lembre
       1 lembrava
       1 lembrassem
-      1 lembrarse
+      1 lembrar-se
       1 lembrar
       1 lembrando
       1 lembrado
@@ -5163,12 +5179,12 @@
       1 lares
       1 laranjeira
       1 laranjas
-      1 lançoume
-      1 lançoulhe
-      1 lançate
+      1 lançou-me
+      1 lançou-lhe
       1 lançasse
       1 lanças
       1 lançando
+      1 lança-te
       1 lances
       1 lamentou
       1 lagruístas
@@ -5177,13 +5193,13 @@
       1 justificação
       1 justa
       1 jurou
-      1 jurolhe
-      1 juravamse
+      1 juro-lhe
+      1 juravam-se
       1 jurasse
       1 juramento
       1 juntar
       1 juntamente
-      1 julgálo
+      1 julgá-lo
       1 julgou
       1 julgava
       1 julgasse
@@ -5204,10 +5220,9 @@
       1 irão
       1 irás
       1 irá
-      1 irse
       1 irritação
       1 irritava
-      1 irritanos
+      1 irrita-nos
       1 irrita
       1 irresistível
       1 irrecusável
@@ -5215,9 +5230,10 @@
       1 irmãs
       1 irmãmente
       1 irmos
-      1 irme
       1 irias
       1 iremos
+      1 ir-se
+      1 ir-me
       1 involuntário
       1 involuntária
       1 involuntariamente
@@ -5235,7 +5251,7 @@
       1 inutilmente
       1 inutilizasse
       1 inutilidade
-      1 introduziuse
+      1 introduziu-se
       1 introduzindo
       1 intrigar
       1 intriga
@@ -5246,9 +5262,9 @@
       1 intervenção
       1 intervalos
       1 interrompida
-      1 interrompesteme
+      1 interrompeste-me
       1 interrompe
-      1 interrogála
+      1 interrogá-la
       1 interroguei
       1 interrogasse
       1 interrogador
@@ -5267,19 +5283,19 @@
       1 intactas
       1 insônias
       1 insurjo
-      1 insurgirme
+      1 insurgir-me
       1 insuficientes
       1 instruídos
-      1 instruirse
+      1 instruir-se
       1 instituir
       1 instinto
       1 instaurar
       1 instasse
       1 instantâneo
       1 inspiração
-      1 inspirase
-      1 inspirarlhe
+      1 inspirar-lhe
       1 inspiradas
+      1 inspira-se
       1 insistisse
       1 insistiram
       1 insisti
@@ -5302,7 +5318,7 @@
       1 infundir
       1 infrações
       1 infortúnios
-      1 informálo
+      1 informá-lo
       1 informação
       1 influía
       1 influxos
@@ -5337,22 +5353,22 @@
       1 indecifrável
       1 indagara
       1 indagar
-      1 indagame
+      1 indaga-me
       1 incômodos
       1 incêndio
-      1 incumbirme
       1 incumbirei
+      1 incumbir-me
       1 incumbir
-      1 incumbilo
       1 incumbido
-      1 incumbiase
+      1 incumbia-se
+      1 incumbi-lo
       1 incrível
       1 inconveniente
       1 incontestáveis
       1 inconsolável
       1 incompletos
       1 incompleta
-      1 incomodavame
+      1 incomodava-me
       1 incomodará
       1 incomodar
       1 incomoda
@@ -5380,7 +5396,7 @@
       1 imposto
       1 impossibilitava
       1 importuno
-      1 importouse
+      1 importou-se
       1 impor
       1 imponho
       1 implacável
@@ -5390,10 +5406,10 @@
       1 imperfeições
       1 imperfeitas
       1 impelia
-      1 impediume
+      1 impediu-me
       1 impedira
       1 impassível
-      1 impacientarse
+      1 impacientar-se
       1 imitou
       1 imensidade
       1 imensas
@@ -5408,7 +5424,7 @@
       1 ilustres
       1 ilustre
       1 iludido
-      1 iludiase
+      1 iludia-se
       1 ilharga
       1 ilha
       1 iguais
@@ -5422,8 +5438,8 @@
       1 ida
       1 iatagã
       1 ias
-      1 iamse
-      1 ialhe
+      1 iam-se
+      1 ia-lhe
       1 hóspede
       1 hábito
       1 hábeis
@@ -5457,11 +5473,11 @@
       1 herdeiros
       1 herdeiro
       1 hediondo
-      1 havêla
+      1 havê-la
       1 havidas
       1 haverá
-      1 haverme
       1 haveres
+      1 haver-me
       1 havemos
       1 harém
       1 harpa
@@ -5471,9 +5487,9 @@
       1 guturais
       1 guardei
       1 guardar
-      1 guardame
-      1 guardalivros
       1 guardado
+      1 guarda-me
+      1 guarda-livros
       1 grupo
       1 gritou
       1 gritos
@@ -5508,16 +5524,16 @@
       1 gelo
       1 geladas
       1 gavião
-      1 gastase
       1 gastara
       1 gastando
+      1 gasta-se
       1 garços
       1 garganta
       1 gargalhadas
       1 ganhou
       1 ganho
       1 ganhasse
-      1 ganhase
+      1 ganha-se
       1 ganha
       1 galinhas
       1 galho
@@ -5526,7 +5542,7 @@
       1 galera
       1 galas
       1 gaiteiro
-      1 gabarse
+      1 gabar-se
       1 fúnebres
       1 fôssemos
       1 fósforo
@@ -5535,7 +5551,7 @@
       1 férvidas
       1 fértil
       1 fé
-      1 fáloei
+      1 fá-lo-ei
       1 furtivo
       1 furtivas
       1 furioso
@@ -5550,8 +5566,8 @@
       1 fulgor
       1 fugitivas
       1 fugiste
-      1 fugirlhe
       1 fugiria
+      1 fugir-lhe
       1 frívolos
       1 frívolo
       1 fronteiros
@@ -5579,7 +5595,7 @@
       1 fortaleza
       1 forrado
       1 foro
-      1 forneceulhe
+      1 forneceu-lhe
       1 formoso
       1 formando
       1 formalidade
@@ -5587,25 +5603,25 @@
       1 formado
       1 folhetim
       1 folgazão
-      1 foite
-      1 foise
-      1 fogueiras
+      1 foi-te
+      1 foi-se
+      1 fogueiras'
       1 fogosa
       1 fogos
       1 foge
       1 focinho
       1 fluminense
       1 floresta
-      1 fizeramme
+      1 fizeram-me
       1 fixos
       1 fixa
-      1 fitouos
+      1 fitou-os
       1 fitando
       1 fisionomia
       1 fiscal
       1 firme
       1 finíssimas
-      1 fingiuse
+      1 fingiu-se
       1 fingira
       1 fingir
       1 fingimento
@@ -5614,6 +5630,7 @@
       1 filosófica
       1 filhinho
       1 filhinha
+      1 fila
       1 figurinos
       1 figurava
       1 figuraste
@@ -5622,22 +5639,22 @@
       1 ficassem
       1 ficarão
       1 ficará
-      1 ficarlhe
       1 ficaria
       1 ficaremos
       1 ficarem
-      1 ficaralhe
+      1 ficara-lhe
       1 ficara
+      1 ficar-lhe
       1 ficam
-      1 fezse
-      1 fezlhe
+      1 fez-se
+      1 fez-lhe
       1 festins
       1 festim
       1 festejava
       1 ferro
       1 ferozes
       1 feroz
-      1 ferirme
+      1 ferir-me
       1 ferido
       1 feras
       1 fenômeno
@@ -5647,7 +5664,7 @@
       1 felicito
       1 feição
       1 fecundas
-      1 fechálo
+      1 fechá-lo
       1 fechava
       1 fechasse
       1 fecharam
@@ -5655,15 +5672,16 @@
       1 fechadura
       1 febril
       1 faísca
-      1 fazse
-      1 fazme
-      1 faziao
-      1 fazerte
-      1 fazerlha
-      1 fazendolhe
+      1 fazia-o
+      1 fazer-te
+      1 fazer-lha
+      1 fazer'
+      1 fazendo-lhe
       1 faze
+      1 faz-se
+      1 faz-me
       1 fatídicas
-      1 fatigome
+      1 fatigo-me
       1 fatigar
       1 fatigada
       1 fatiga
@@ -5685,16 +5703,16 @@
       1 faltará
       1 faltado
       1 falsidade
-      1 faloulhe
+      1 falou-lhe
       1 falhas
       1 falhar
       1 falei
       1 falas
       1 falarás
-      1 falarme
       1 falara
+      1 falar-me
       1 falam
-      1 falalhe
+      1 fala-lhe
       1 fadas
       1 facilidade
       1 faceirice
@@ -5711,10 +5729,9 @@
       1 extenuada
       1 extensão
       1 extenso
-      1 exromancista
-      1 expôla
-      1 exprobrarlhe
-      1 exprimiase
+      1 expô-la
+      1 exprobrar-lhe
+      1 exprimia-se
       1 expressamente
       1 exposta
       1 exportou
@@ -5722,26 +5739,26 @@
       1 expor
       1 exponho
       1 explicáveis
-      1 explicouse
-      1 explicoulho
-      1 explicoulhes
-      1 explicoulhe
+      1 explicou-se
+      1 explicou-lho
+      1 explicou-lhes
+      1 explicou-lhe
       1 explico
       1 explicações
-      1 explicate
       1 explicasse
-      1 explicarse
-      1 explicarme
       1 explicarei
-      1 explicaramlhe
-      1 explicanos
-      1 explicame
+      1 explicaram-lhe
+      1 explicar-se
+      1 explicar-me
+      1 explica-te
+      1 explica-nos
+      1 explica-me
       1 expirara
       1 experimentavam
       1 experimentava
       1 experimentado
       1 expatriado
-      1 exortandoo
+      1 exortando-o
       1 existências
       1 exijo
       1 exigências
@@ -5765,8 +5782,9 @@
       1 exausta
       1 exatas
       1 exata
-      1 examinála
-      1 examinalhe
+      1 examiná-la
+      1 examina-lhe
+      1 ex-romancista
       1 evos
       1 evocação
       1 evocar
@@ -5782,7 +5800,7 @@
       1 eternamente
       1 etc
       1 et
-      1 esvaeceramse
+      1 esvaeceram-se
       1 estupefato
       1 estudes
       1 estudava
@@ -5810,19 +5828,19 @@
       1 estimável
       1 estimou
       1 estimação
-      1 estimavao
+      1 estimava-o
       1 estimam
       1 estimadíssimo
       1 estimado
       1 estimada
       1 esterlinas
       1 estendido
-      1 estendeuse
+      1 estendeu-se
       1 estendeu
-      1 estendese
-      1 estenderse
-      1 estenderme
-      1 estendendolhe
+      1 estender-se
+      1 estender-me
+      1 estendendo-lhe
+      1 estende-se
       1 estende
       1 estatuetas
       1 estaria
@@ -5830,18 +5848,19 @@
       1 estantes
       1 estando
       1 estacou
-      1 estabelecerse
+      1 estabelecer-se
       1 essências
       1 essência
       1 essencial
-      1 esquivandose
+      1 esquivando-se
       1 esquiva
       1 esqueças
       1 esqueçam
       1 esqueça
-      1 esquecêla
+      1 esquecê-la
       1 esquecidas
-      1 esquecerase
+      1 esqueci-a
+      1 esquecera-se
       1 esposos
       1 espontâneo
       1 espontânea
@@ -5850,10 +5869,10 @@
       1 espinhosa
       1 espinho
       1 esperto
-      1 esperouo
-      1 espereio
-      1 esperavate
-      1 esperavao
+      1 esperou-o
+      1 esperei-o
+      1 esperava-te
+      1 esperava-o
       1 esperarás
       1 esperará
       1 esperaria
@@ -5897,16 +5916,16 @@
       1 escondido
       1 escondida
       1 escondeu
-      1 esconderse
-      1 escondeme
+      1 esconder-se
+      1 esconde-me
       1 escolhido
       1 escolhi
       1 escolheu
       1 escolherem
       1 escassa
-      1 escapavaselhe
-      1 escapavamselhes
-      1 escaparse
+      1 escapavam-se-lhes
+      1 escapava-se-lhe
+      1 escapar-se
       1 escapado
       1 escadas
       1 esbulhar
@@ -5916,7 +5935,7 @@
       1 errado
       1 errada
       1 ermitão
-      1 eramlhe
+      1 eram-lhe
       1 equívocas
       1 epístolas
       1 epigramas
@@ -5937,31 +5956,31 @@
       1 entrever
       1 entretêm
       1 entretendo
-      1 entregoume
+      1 entregou-me
       1 entregou
       1 entregava
       1 entregasse
       1 entregara
-      1 entregandoa
+      1 entregando-a
       1 entregando
-      1 entregalhe
-      1 entregalha
+      1 entrega-lhe
+      1 entrega-lha
       1 entrarias
       1 entranhada
       1 entram
       1 entrado
-      1 enterrouo
+      1 enterrou-o
       1 enterro
-      1 enterrandose
+      1 enterrando-se
       1 enterrado
       1 entendido
       1 entendia
       1 entendes
-      1 entendernosemos
       1 entenderem
+      1 entender-nos-emos
       1 entendem
       1 ensejo
-      1 ensaiarse
+      1 ensaiar-se
       1 enriquecia
       1 enormes
       1 enlaçados
@@ -5969,21 +5988,21 @@
       1 engrandecer
       1 engolia
       1 engenhoso
-      1 engendravase
+      1 engendrava-se
       1 engendrar
       1 enganei
       1 enganam
-      1 enfureceuse
-      1 enforcálos
+      1 enfureceu-se
+      1 enforcá-los
       1 enforcada
       1 enfiou
-      1 enfiavalhe
+      1 enfiava-lhe
       1 enfermidade
       1 enfermado
       1 enfeites
       1 enfeitado
-      1 enfeitadas
-      1 enfadála
+      1 enfeitadas'
+      1 enfadá-la
       1 enfado
       1 energicamente
       1 energia
@@ -5994,17 +6013,17 @@
       1 encouraçado
       1 encostados
       1 encostada
-      1 encontrála
+      1 encontrá-la
       1 encontre
-      1 encontravase
+      1 encontrava-se
       1 encontrassem
-      1 encontrarmeão
       1 encontraria
       1 encontraras
       1 encontrara
+      1 encontrar-me-ão
       1 encontrando
-      1 encontramse
       1 encontramos
+      1 encontram-se
       1 enchiam
       1 enchia
       1 encheu
@@ -6013,8 +6032,8 @@
       1 encetou
       1 encerraria
       1 encerrara
-      1 encarregouse
-      1 encarregandoo
+      1 encarregou-se
+      1 encarregando-o
       1 encarregado
       1 encarnou
       1 encaracolado
@@ -6028,8 +6047,8 @@
       1 empregou
       1 empregava
       1 empregando
-      1 empertigouse
-      1 empenhome
+      1 empertigou-se
+      1 empenho-me
       1 empenhava
       1 empenhada
       1 empalidecido
@@ -6040,7 +6059,7 @@
       1 emendando
       1 embrião
       1 embebido
-      1 embeberase
+      1 embebera-se
       1 embargos
       1 embarcou
       1 embarcasse
@@ -6061,6 +6080,7 @@
       1 elementos
       1 eleita
       1 elegantemente
+      1 ela'
       1 ego
       1 efusão
       1 efetivo
@@ -6071,9 +6091,8 @@
       1 dúzia
       1 dístico
       1 dão
-      1 dáslhe
-      1 dáme
-      1 dágua
+      1 dás-lhe
+      1 dá-me
       1 duvidasse
       1 duros
       1 duram
@@ -6081,7 +6100,7 @@
       1 dramático
       1 dramaturgo
       1 dramas
-      1 doíame
+      1 doía-me
       1 doutrina
       1 dotada
       1 dormirei
@@ -6095,29 +6114,29 @@
       1 dolorosos
       1 doloroso
       1 doges
-      1 doeuse
+      1 doeu-se
       1 doessem
       1 doer
       1 doce
       1 dobrou
-      1 dobravase
+      1 dobrava-se
       1 dobrar
       1 doada
       1 diária
-      1 dizme
       1 dizias
-      1 diziame
+      1 dizia-me
       1 dizermos
-      1 dizermo
       1 dizeres
-      1 dizendolhe
-      1 dizelhe
+      1 dizer-mo
+      1 dizendo-lhe
+      1 dize-lhe
+      1 diz-me
       1 divãs
       1 divulgado
       1 divisão
       1 divinos
       1 divinamente
-      1 dividese
+      1 divide-se
       1 divide
       1 divertido
       1 diversões
@@ -6125,37 +6144,37 @@
       1 diversa
       1 ditos
       1 distância
-      1 distraílo
       1 distraía
-      1 distrairme
+      1 distraí-lo
+      1 distrair-me
       1 distraidamente
       1 distinção
       1 distinta
       1 distante
-      1 distanciavamse
-      1 dissuadila
-      1 dissipoulhe
-      1 dissiparase
+      1 distanciavam-se
+      1 dissuadi-la
+      1 dissipou-lhe
+      1 dissipara-se
       1 dissipar
       1 dissipado
       1 dissipada
       1 dissimulou
       1 dissimular
       1 dissertação
-      1 disseramlhe
-      1 disseralhe
+      1 disseram-lhe
+      1 dissera-lhe
       1 disser
-      1 disseo
       1 dissemos
-      1 disselho
+      1 disse-o
+      1 disse-lho
       1 dissabores
-      1 dispusme
+      1 dispus-me
       1 dispunham
       1 dispunha
       1 disposta
       1 disposições
       1 disposição
-      1 dispersarase
+      1 dispersara-se
       1 dispenso
       1 dispensava
       1 discuto
@@ -6165,38 +6184,38 @@
       1 discretos
       1 discorrer
       1 dirão
-      1 dirtoei
-      1 dirteei
-      1 dirigiume
+      1 dirigiu-me
       1 dirigiram
-      1 dirigime
       1 dirigidas
       1 dirigida
+      1 dirigi-me
       1 diretor
       1 direitos
+      1 dir-to-ei
+      1 dir-te-ei
       1 diplomática
       1 diplomacia
       1 diminui
       1 dimensões
       1 dilação
       1 digressões
-      1 dignouse
+      1 dignou-se
       1 dignas
       1 diariamente
       1 diabólico
       1 devora
       1 devolvida
-      1 devolveume
+      1 devolveu-me
       1 devolveu
       1 deveres
       1 devaneios
-      1 deuse
       1 deusa
-      1 deume
+      1 deu-se
+      1 deu-me
       1 detivessem
       1 detivesse
-      1 detevese
-      1 deteveme
+      1 deteve-se
+      1 deteve-me
       1 determinou
       1 determinado
       1 desvão
@@ -6204,17 +6223,17 @@
       1 desviei
       1 desviava
       1 desviar
-      1 desvaneceramse
+      1 desvaneceram-se
       1 desvairava
       1 desusada
       1 destruída
       1 destruição
       1 destruir
       1 destreza
-      1 desprezálos
-      1 desprezouo
+      1 desprezá-los
+      1 desprezou-o
       1 desprezou
-      1 desprezeio
+      1 desprezei-o
       1 despreze
       1 desprezado
       1 despreza
@@ -6228,8 +6247,8 @@
       1 despertada
       1 desperdícios
       1 despeitozinho
-      1 despedirme
-      1 despedindose
+      1 despedir-me
+      1 despedindo-se
       1 despedidos
       1 despede
       1 despachou
@@ -6239,7 +6258,7 @@
       1 desmente
       1 desmaiar
       1 desmaiada
-      1 desligarse
+      1 desligar-se
       1 desleixado
       1 desleal
       1 desistiu
@@ -6249,21 +6268,21 @@
       1 designação
       1 designando
       1 desgostou
-      1 desfiarte
+      1 desfiar-te
       1 desfeito
       1 desfaçada
-      1 desfazerse
-      1 desfavorecerme
+      1 desfazer-se
+      1 desfavorecer-me
       1 desfarias
       1 desfalecimentos
       1 desesperada
       1 deserto
       1 desenvolvessem
-      1 desenrolarse
+      1 desenrolar-se
       1 desenlace
-      1 desenhouse
+      1 desenhou-se
       1 desenhista
-      1 desenganálo
+      1 desenganá-lo
       1 desenganos
       1 desenganaram
       1 desencantos
@@ -6276,9 +6295,10 @@
       1 desejamos
       1 desejada
       1 desdéns
-      1 desculpouse
+      1 desculpou-se
       1 desculpou
-      1 desculparse
+      1 desculpar-se
+      1 desculpa'
       1 descuidoso
       1 descuido
       1 descrédito
@@ -6308,7 +6328,7 @@
       1 descer
       1 descendo
       1 desce
-      1 descartarse
+      1 descartar-se
       1 descansar
       1 desavisar
       1 desastrada
@@ -6322,7 +6342,7 @@
       1 desalinho
       1 desalentes
       1 desairosas
-      1 desafiálo
+      1 desafiá-lo
       1 desabrido
       1 derrubar
       1 derredor
@@ -6335,9 +6355,9 @@
       1 denota
       1 denominações
       1 demão
-      1 demovêlo
+      1 demovê-lo
       1 demorou
-      1 demorarse
+      1 demorar-se
       1 demorar
       1 demorado
       1 demitidos
@@ -6347,35 +6367,35 @@
       1 delícias
       1 delicioso
       1 deliciosa
-      1 deliciavase
-      1 deliciarse
+      1 deliciava-se
+      1 deliciar-se
       1 delicadas
       1 delgado
       1 delgadas
       1 delgada
       1 delação
       1 delator
-      1 deixálo
-      1 deixouse
+      1 deixá-lo
+      1 deixou-se
       1 deixem
       1 deixei
       1 deixavam
       1 deixasse
-      1 deixasnos
+      1 deixas-nos
       1 deixará
       1 deixaria
       1 deixarei
-      1 deixaramme
+      1 deixaram-me
       1 deixara
       1 deixamos
       1 deixam
       1 deitou
       1 deito
-      1 deitavase
+      1 deitava-se
       1 deitaste
-      1 deitarse
-      1 deitarme
-      1 deitandolhe
+      1 deitar-se
+      1 deitar-me
+      1 deitando-lhe
       1 deita
       1 degredo
       1 degraus
@@ -6387,10 +6407,10 @@
       1 decorria
       1 decorou
       1 decorar
-      1 declaroulhe
-      1 declaravame
+      1 declarou-lhe
+      1 declarava-me
       1 declarava
-      1 declararlhe
+      1 declarar-lhe
       1 declarar
       1 declarado
       1 decifre
@@ -6400,20 +6420,22 @@
       1 decidi
       1 decepções
       1 decadência
-      1 davase
-      1 davamse
-      1 davalhe
+      1 davam-se
+      1 dava-se
+      1 dava-lhe
       1 darão
-      1 darseá
-      1 darnosá
-      1 darnos
+      1 dar-se-á
+      1 dar-nos-á
+      1 dar-nos
       1 daquilo
       1 daquelas
       1 dançou
-      1 dandome
-      1 dalma
+      1 dando-me
       1 dados
       1 dadas
+      1 d'água
+      1 d'arte
+      1 d'alma
       1 cúmulo
       1 cúmplice
       1 cômico
@@ -6426,29 +6448,29 @@
       1 câmaras
       1 cálculos
       1 custo
-      1 custarte
+      1 custar-te
       1 custa
       1 curvo
-      1 curvavase
-      1 curvavamse
+      1 curvavam-se
+      1 curvava-se
       1 curiosas
-      1 curavase
+      1 curava-se
       1 curada
       1 cura
       1 cunho
       1 cumpriu
-      1 cumprimentálo
-      1 cumprimentouas
+      1 cumprimentá-lo
+      1 cumprimentou-as
       1 cumprimentos
-      1 cumprimentarnos
-      1 cumprimentaramse
-      1 cumprimentandome
-      1 cumprila
+      1 cumprimentaram-se
+      1 cumprimentar-nos
+      1 cumprimentando-me
       1 cumprido
+      1 cumpri-la
       1 cumpra
       1 culto
       1 cultivo
-      1 cultivavaos
+      1 cultivava-os
       1 culpada
       1 cuides
       1 cuidavam
@@ -6456,11 +6478,11 @@
       1 cuidadosamente
       1 cuia
       1 crível
-      1 crêse
-      1 crêlo
+      1 crê-se
+      1 crê-lo
       1 crê
       1 cruelzinha
-      1 crivamme
+      1 crivam-me
       1 critério
       1 criticava
       1 cristandade
@@ -6476,7 +6498,7 @@
       1 crescidos
       1 credoras
       1 cravou
-      1 craveios
+      1 cravei-os
       1 cravados
       1 cravado
       1 crateras
@@ -6489,8 +6511,7 @@
       1 costumada
       1 costas
       1 costados
-      1 coseuse
-      1 coréu
+      1 coseu-se
       1 corujas
       1 corto
       1 cortesãos
@@ -6500,7 +6521,7 @@
       1 cortada
       1 corrigir
       1 corrigindo
-      1 corrigiase
+      1 corrigia-se
       1 corriam
       1 corria
       1 correção
@@ -6526,30 +6547,30 @@
       1 copas
       1 conviver
       1 convinha
-      1 convidouo
+      1 convidou-o
       1 convidava
       1 convidam
       1 convidada
       1 convida
       1 convertido
       1 converteu
-      1 convertendose
+      1 convertendo-se
       1 conversas
       1 conversarmos
       1 conversam
       1 conversados
       1 conversado
       1 convenção
-      1 convençase
+      1 convença-se
       1 conveniência
-      1 convencêlo
-      1 convencêla
+      1 convencê-lo
+      1 convencê-la
       1 convencionado
       1 convencida
       1 convencia
       1 convenci
       1 convenceu
-      1 contêlo
+      1 contê-lo
       1 contém
       1 controvérsia
       1 contristada
@@ -6558,8 +6579,8 @@
       1 contrastes
       1 contrariamos
       1 contraparente
-      1 contraordem
-      1 continuála
+      1 contra-ordem
+      1 continuá-la
       1 continuo
       1 continues
       1 continuei
@@ -6568,25 +6589,25 @@
       1 conteúdo
       1 contesto
       1 contestarei
-      1 contentavase
+      1 contentava-se
       1 contentava
       1 contentasse
-      1 contentarse
-      1 contentamse
+      1 contentar-se
+      1 contentam-se
       1 contemporâneos
       1 contemporâneas
-      1 contemploua
+      1 contemplou-a
       1 contemplar
       1 contemplando
       1 contavam
       1 contato
-      1 contarte
-      1 contarme
-      1 contarlhe
       1 contarei
-      1 contamse
-      1 contame
+      1 contar-te
+      1 contar-me
+      1 contar-lhe
+      1 contam-se
       1 contada
+      1 conta-me
       1 consórcio
       1 consumado
       1 consulto
@@ -6595,29 +6616,29 @@
       1 construída
       1 construção
       1 constituis
-      1 constituindose
+      1 constituindo-se
       1 constipação
       1 constar
       1 constantemente
       1 conspícuo
       1 conspira
       1 consortes
-      1 consolálo
+      1 consolá-lo
       1 consolidam
-      1 consolavame
+      1 consolava-me
       1 consolasse
-      1 consolarte
-      1 consolarse
-      1 consolarme
-      1 consolame
+      1 consolar-te
+      1 consolar-se
+      1 consolar-me
       1 consolam
+      1 consola-me
       1 consinto
       1 considerações
       1 considerava
       1 considerada
-      1 conserválo
-      1 conserveime
-      1 conservavase
+      1 conservá-lo
+      1 conservei-me
+      1 conservava-se
       1 conservar
       1 conserva
       1 consentiu
@@ -6629,46 +6650,46 @@
       1 consegues
       1 consecutivas
       1 conscienciosamente
-      1 conjurálas
+      1 conjurá-las
       1 conjurado
       1 conjunto
       1 conjeturas
       1 conheça
       1 conhecíamos
-      1 conheciao
-      1 conhecialhe
-      1 conheceuo
+      1 conhecia-o
+      1 conhecia-lhe
+      1 conheceu-o
       1 conheceu
       1 conheceste
       1 conheceria
       1 conhecera
       1 confundidas
-      1 confundiamse
+      1 confundiam-se
       1 conformidade
       1 conflito
-      1 confiálas
+      1 confiá-las
       1 confirme
       1 confirmação
       1 confirmar
-      1 confioume
-      1 confioulhe
+      1 confiou-me
+      1 confiou-lhe
       1 confins
-      1 confieite
+      1 confiei-te
       1 confidências
       1 confidência
-      1 confiavalhe
+      1 confiava-lhe
       1 confiar
       1 confiando
       1 confiada
       1 confessava
-      1 confessarse
+      1 confessar-se
       1 confessa
       1 conferências
       1 confeitos
       1 confabulação
       1 condão
       1 condigno
-      1 condenarme
+      1 condenar-me
       1 condenado
       1 concórdia
       1 concordou
@@ -6690,8 +6711,8 @@
       1 comunicava
       1 comunicar
       1 comunhão
-      1 compõese
-      1 compunhase
+      1 compõe-se
+      1 compunha-se
       1 compunha
       1 comprometa
       1 compridos
@@ -6701,7 +6722,7 @@
       1 compreendesse
       1 compreenderam
       1 compreendem
-      1 compraziase
+      1 comprazia-se
       1 comprado
       1 complicarem
       1 completava
@@ -6727,13 +6748,13 @@
       1 comediantes
       1 comece
       1 come
-      1 combatêlo
+      1 combatê-lo
       1 combater
       1 combate
       1 colunas
       1 colou
-      1 colocandose
-      1 colocamse
+      1 colocando-se
+      1 colocam-se
       1 colinas
       1 colina
       1 colhido
@@ -6744,10 +6765,11 @@
       1 coeur
       1 cocheiro
       1 cobriu
-      1 cobrialhe
+      1 cobria-lhe
       1 cobre
       1 cobertos
       1 coberta
+      1 co-réu
       1 clima
       1 classificado
       1 classe
@@ -6790,13 +6812,13 @@
       1 chave
       1 charuteira
       1 chartonistas
-      1 chamálo
-      1 chamemolo
+      1 chamá-lo
+      1 chamemo-lo
       1 chamei
-      1 chamavame
-      1 chamavalhe
+      1 chamava-me
+      1 chamava-lhe
       1 chamas
-      1 chamarte
+      1 chamar-te
       1 chamando
       1 chamam
       1 chamado
@@ -6837,13 +6859,14 @@
       1 caçada
       1 cavara
       1 cavalos
+      1 cavalo'
       1 cavalheirismo
       1 cavalheiresco
       1 cavalheiramente
       1 causou
       1 causas
-      1 causarme
       1 causara
+      1 causar-me
       1 causar
       1 causando
       1 caudinas
@@ -6852,45 +6875,46 @@
       1 cativado
       1 categoricamente
       1 cata
-      1 casálo
+      1 casá-lo
       1 casuísta
       1 castão
-      1 castigálo
-      1 castigounos
+      1 castigá-lo
+      1 castigou-nos
       1 castigaste
       1 castidade
       1 castelos
       1 castelo
       1 casou
-      1 casemse
+      1 casem-se
       1 caseira
       1 cascas
       1 casava
-      1 casate
       1 casaste
       1 casasse
-      1 casase
       1 casarás
       1 casará
-      1 casarteias
-      1 casarseá
       1 casaria
       1 casares
       1 casarem
       1 casarei
       1 casaram
       1 casara
-      1 casandose
+      1 casar-te-ias
+      1 casar-se-á
+      1 casando-se
       1 casamento”
       1 casais
       1 casados
       1 casaco
+      1 casa-te
+      1 casa-se
       1 caríssimos
       1 cartões
       1 cartão
       1 carrinho
       1 carregamento
       1 carrancuda
+      1 caro'
       1 carnes
       1 carneiro
       1 carne
@@ -6903,7 +6927,7 @@
       1 capa
       1 canção
       1 canário
-      1 cantouse
+      1 cantou-se
       1 cantores
       1 cantarolou
       1 cantarolar
@@ -6921,14 +6945,14 @@
       1 caminhar
       1 caminha
       1 calúnias
-      1 calçavaas
+      1 calçava-as
       1 caluniadora
       1 calo
       1 caldeirões
       1 calculou
       1 calculava
       1 calculado
-      1 calarse
+      1 calar-se
       1 calar
       1 calamidade
       1 calados
@@ -6936,8 +6960,8 @@
       1 cajado
       1 caixeiros
       1 caixeiro
-      1 caiulhe
-      1 cailhe
+      1 caiu-lhe
+      1 cai-lhe
       1 cadeiras
       1 cadeia
       1 cachorro
@@ -6951,8 +6975,8 @@
       1 bíblica
       1 bênção
       1 bátega
-      1 buscálo
-      1 buscála
+      1 buscá-lo
+      1 buscá-la
       1 buscava
       1 brusco
       1 brotar
@@ -6969,6 +6993,7 @@
       1 botins
       1 botina
       1 bordão
+      1 bomba'
       1 bolsa
       1 bofetadas
       1 boceta
@@ -6978,7 +7003,7 @@
       1 bicho
       1 berço
       1 benévolas
-      1 benzao
+      1 benza-o
       1 benta
       1 benigno
       1 benfazejo
@@ -6987,23 +7012,23 @@
       1 belíssimos
       1 belíssimo
       1 beira
-      1 beijoua
-      1 beijarte
-      1 beijarme
-      1 beijarlhe
+      1 beijou-a
+      1 beijar-te
+      1 beijar-me
+      1 beijar-lhe
       1 beijar
       1 beco
       1 beberiam
       1 batia
       1 bateu
       1 batesse
-      1 baterme
+      1 bater-me
       1 batendo
       1 bastos
       1 bastas
       1 bastardo
       1 bastantes
-      1 bastame
+      1 basta-me
       1 barca
       1 barba
       1 banhos
@@ -7025,7 +7050,7 @@
       1 avocando
       1 avistar
       1 aviso
-      1 aviseo
+      1 avise-o
       1 avisando
       1 aviar
       1 aves
@@ -7035,19 +7060,19 @@
       1 aventura
       1 aveludados
       1 avançada
-      1 avaliálo
+      1 avaliá-lo
       1 avaliar
       1 auxílio
       1 autêntica
-      1 autorizote
-      1 autorizavame
+      1 autorizo-te
+      1 autorizava-me
       1 autoridade
       1 ausente
-      1 ausentarse
-      1 aumentoulhe
+      1 ausentar-se
+      1 aumentou-lhe
       1 aumenta
       1 auditório
-      1 aturavao
+      1 aturava-o
       1 aturado
       1 aturada
       1 atura
@@ -7055,28 +7080,28 @@
       1 atuais
       1 atrozmente
       1 atribuiu
-      1 atribuirlhe
+      1 atribuir-lhe
       1 atribui
       1 atrevimento
-      1 atreveuse
+      1 atreveu-se
       1 atraísse
       1 atraído
       1 atração
       1 através
-      1 atravessaralhe
+      1 atravessara-lhe
       1 atravessar
       1 atormenta
-      1 atordoavamme
+      1 atordoavam-me
       1 atopetada
       1 atiça
       1 ativo
       1 ativa
       1 atitude
-      1 atiroua
-      1 atirome
-      1 atireime
-      1 atiravame
-      1 atirarse
+      1 atirou-a
+      1 atiro-me
+      1 atirei-me
+      1 atirava-me
+      1 atirar-se
       1 atira
       1 atina
       1 ateu
@@ -7086,8 +7111,8 @@
       1 atemorizava
       1 ateia
       1 atarefado
-      1 atandome
-      1 atalhouo
+      1 atando-me
+      1 atalhou-o
       1 atado
       1 atacado
       1 assíduos
@@ -7095,7 +7120,7 @@
       1 assídua
       1 assédio
       1 assustaram
-      1 assustanos
+      1 assusta-nos
       1 assusta
       1 assumiu
       1 assumiriam
@@ -7124,14 +7149,14 @@
       1 articular
       1 arruinados
       1 arruinado
-      1 arriscarse
+      1 arriscar-se
       1 arriscada
       1 arrepiar
-      1 arrependome
+      1 arrependo-me
       1 arrependimento
       1 arrependido
       1 arrependeste
-      1 arrependerase
+      1 arrependera-se
       1 arredou
       1 arredores
       1 arredondado
@@ -7141,7 +7166,7 @@
       1 arredar
       1 arredado
       1 arrebatava
-      1 arrastavame
+      1 arrastava-me
       1 arrastava
       1 arrastado
       1 arranjou
@@ -7149,16 +7174,16 @@
       1 arranjassem
       1 arranjado”
       1 arranjado
-      1 arrancálo
+      1 arrancá-lo
       1 arrancou
-      1 arrancarte
-      1 arrancarlhe
+      1 arrancar-te
+      1 arrancar-lhe
       1 arrancar
-      1 arrancandolhe
+      1 arrancando-lhe
       1 armados
       1 armado
       1 argúcia
-      1 arfavalhe
+      1 arfava-lhe
       1 ardores
       1 ardor
       1 arder
@@ -7170,44 +7195,44 @@
       1 apurar
       1 apurado
       1 apunhalar
-      1 aproximouse
+      1 aproximou-se
       1 aproximou
       1 aproximavam
       1 aproximasse
-      1 aproximase
-      1 aproximandose
+      1 aproximando-se
+      1 aproxima-se
       1 aprovou
-      1 aproveitálas
+      1 aproveitá-las
       1 aproveito
-      1 aproveitavao
+      1 aproveitava-o
       1 aproveitava
       1 aproveitar
       1 aproveitando
       1 aprove
       1 aprovação
       1 aprovarás
-      1 aprovamola
+      1 aprovamo-la
       1 aprova
-      1 aprontaramse
+      1 aprontaram-se
       1 aprontar
-      1 apressouse
+      1 apressou-se
       1 apressar
-      1 apresentoulhe
-      1 apresentoo
+      1 apresentou-lhe
+      1 apresento-o
       1 apresente
       1 apresentava
       1 apresentasses
-      1 apresentase
-      1 apresentarmo
-      1 apresentarlhes
+      1 apresentar-mo
+      1 apresentar-lhes
       1 apresentando
       1 apresentada
+      1 apresenta-se
       1 aprendi
       1 aprender
       1 aprendas
       1 apreensões
       1 apreensivo
-      1 apossouselhe
+      1 apossou-se-lhe
       1 apossou
       1 aposentos
       1 aportando
@@ -7216,20 +7241,20 @@
       1 aplicações
       1 aplicação
       1 aplaudo
-      1 aplaudindolhe
+      1 aplaudindo-lhe
       1 aplaudes
-      1 aplacarlhe
-      1 apertoulhe
-      1 apertandome
-      1 apegavase
-      1 apeandose
+      1 aplacar-lhe
+      1 apertou-lhe
+      1 apertando-me
+      1 apegava-se
+      1 apeando-se
       1 apareço
       1 aparente
       1 aparelhar
       1 aparecimento
       1 aparecido
       1 apareciam
-      1 apareceulhe
+      1 apareceu-lhe
       1 aparecerei
       1 aparecera
       1 aparece
@@ -7237,24 +7262,24 @@
       1 apanhei
       1 apanhar
       1 apalpar
-      1 apaixonouse
+      1 apaixonou-se
       1 apaixonou
       1 apaixone
-      1 apaixonarme
+      1 apaixonar-me
       1 apaga
       1 anônimo
       1 anônima
       1 análogo
       1 anuviados
-      1 anuncioulhe
-      1 anunciase
-      1 anunciarlhe
+      1 anunciou-lhe
+      1 anunciar-lhe
       1 anunciam
+      1 anuncia-se
       1 antídoto
       1 antigüidade
       1 antigos
       1 antigas
-      1 anteviase
+      1 antevia-se
       1 anteriores
       1 antemão
       1 antecipemos
@@ -7263,19 +7288,19 @@
       1 ante
       1 ansiosos
       1 ansiedade
-      1 anobom
-      1 aniquilálo
-      1 animálo
-      1 animouo
+      1 ano-bom
+      1 aniquilá-lo
+      1 animá-lo
+      1 animou-o
       1 animasse
       1 animando
-      1 animame
       1 animados
       1 animador
       1 animado
+      1 anima-me
       1 angélica
       1 angustiosa
-      1 angarialhe
+      1 angaria-lhe
       1 anedotas
       1 andou
       1 andavas
@@ -7285,30 +7310,30 @@
       1 anais
       1 anacoreta
       1 amáveis
-      1 amálo
+      1 amá-lo
       1 amparar
       1 amortecidos
       1 amoroso
       1 amorosamente
       1 amorosa
-      1 amimoua
+      1 amimou-a
       1 americanos
-      1 ameia
+      1 amei-a
       1 ame
       1 ambicioso
       1 ambicionava
       1 amavas
-      1 amavao
-      1 amavamse
+      1 amavam-se
+      1 amava-o
       1 amará
       1 amarrotei
-      1 amarmeá
       1 amaria
       1 amargou
       1 amargas
       1 amarga
       1 amarelo
       1 amara
+      1 amar-me-á
       1 amanheceu
       1 amados
       1 amador
@@ -7328,6 +7353,7 @@
       1 alojamento
       1 almocei
       1 almanaques
+      1 alma'
       1 alimentos
       1 alimentação
       1 alimentavam
@@ -7335,6 +7361,7 @@
       1 alimentado
       1 alimenta
       1 alienado
+      1 ali'
       1 alheios
       1 alheia
       1 alheava
@@ -7356,16 +7383,16 @@
       1 alagar
       1 ajuntara
       1 ajudado
-      1 ajoelhouselhe
-      1 ajoelhouse
+      1 ajoelhou-se-lhe
+      1 ajoelhou-se
       1 agudíssimas
       1 agravo
-      1 agravavase
-      1 agradeçolho
+      1 agravava-se
+      1 agradeço-lho
       1 agradecimentos
       1 agradecia
       1 agradeceu
-      1 agradecerte
+      1 agradecer-te
       1 agradecer
       1 agradavelmente
       1 agradasse
@@ -7384,10 +7411,10 @@
       1 afluência
       1 aflição
       1 aflito
-      1 afirmálo
+      1 afirmá-lo
       1 afirmava
-      1 afirmarte
-      1 afirmarlhe
+      1 afirmar-te
+      1 afirmar-lhe
       1 afirma
       1 afinco
       1 afilhados
@@ -7398,7 +7425,7 @@
       1 afetava
       1 afetado
       1 afetada
-      1 afeiçoarme
+      1 afeiçoar-me
       1 afavelmente
       1 afastamento
       1 afastado
@@ -7406,8 +7433,8 @@
       1 afagava
       1 advogado
       1 advertência
-      1 advertilo
-      1 adquiriuos
+      1 adverti-lo
+      1 adquiriu-os
       1 adquirira
       1 adquirir
       1 adquirida
@@ -7425,47 +7452,47 @@
       1 adoecera
       1 admitia
       1 admite
-      1 admitao
+      1 admita-o
       1 admiráveis
-      1 admirálo
+      1 admirá-lo
       1 admiravelmente
-      1 admiravase
       1 admiravam
-      1 admiravaas
+      1 admirava-se
+      1 admirava-as
       1 admirasse
       1 admiras
-      1 admirame
       1 admiradora
       1 admiradas
       1 admirada
+      1 admira-me
       1 adjacente
       1 adivinhem
       1 adivinhava
       1 adivinhara
       1 adivinhamos
       1 adivinhado
-      1 adicionandoselhe
+      1 adicionando-se-lhe
       1 adiasse
-      1 adiantouse
-      1 adiantandose
+      1 adiantou-se
+      1 adiantando-se
       1 adiantada
       1 acusem
-      1 acusavaa
+      1 acusava-a
       1 acumulados
-      1 acudirme
-      1 acudirlhe
+      1 acudir-me
+      1 acudir-lhe
       1 acudir
       1 acudido
       1 acrescentei
       1 acrescentando
-      1 acreditálo
+      1 acreditá-lo
       1 acredite
-      1 acreditavame
+      1 acreditava-me
       1 acreditarão
       1 acreditarás
       1 acreditariam
       1 acreditara
-      1 acostumarme
+      1 acostumar-me
       1 acostumado
       1 acordo
       1 acordei
@@ -7475,25 +7502,25 @@
       1 acorda
       1 acontecido
       1 aconselho
-      1 acompanhála
-      1 acompanhoume
+      1 acompanhá-la
+      1 acompanhou-me
       1 acompanhasse
       1 acompanhara
       1 acompanhar
-      1 acompanhao
       1 acompanhadas
+      1 acompanha-o
       1 acompanha
       1 acomodando
-      1 acolhese
+      1 acolhe-se
       1 achávamos
-      1 achoume
-      1 achoua
-      1 achavao
+      1 achou-me
+      1 achou-a
+      1 achava-o
       1 achará
-      1 acharse
       1 acharmos
       1 acharei
-      1 acharamno
+      1 acharam-no
+      1 achar-se
       1 achaque
       1 achacado
       1 acesso
@@ -7506,13 +7533,13 @@
       1 aceite
       1 aceitava
       1 aceitarás
-      1 aceitaa
+      1 aceita-a
       1 acedeu
       1 acatava
       1 acatado
-      1 acariciouo
+      1 acariciou-o
       1 acariciando
-      1 acanhavao
+      1 acanhava-o
       1 acanhamento
       1 acanhado
       1 acalmou
@@ -7528,18 +7555,18 @@
       1 absorver
       1 absolutista
       1 absolutas
-      1 abrote
-      1 abriume
-      1 abrirte
-      1 abrirse
-      1 abrirlhe
+      1 abro-te
+      1 abriu-me
+      1 abrir-te
+      1 abrir-se
+      1 abrir-lhe
       1 abrevias
-      1 abrese
       1 abrem
-      1 abraçálo
-      1 abraçouo
-      1 abraçoume
-      1 abraçoua
+      1 abre-se
+      1 abraçá-lo
+      1 abraçou-o
+      1 abraçou-me
+      1 abraçou-a
       1 abraçava
       1 abraçar
       1 abraçando
@@ -7548,13 +7575,13 @@
       1 aborreço
       1 aborrecimento
       1 aborrecida
-      1 aborreceuo
+      1 aborreceu-o
       1 aborreceu
       1 aborrecesse
-      1 aborrecerse
+      1 aborrecer-se
       1 aboletada
       1 abertamente
-      1 abençoarte
+      1 abençoar-te
       1 abdômen
       1 abatimento
       1 abatida
@@ -7574,18 +7601,18 @@
       1 abafar
       1 abafado
       1 Vítor
-      1 Vême
+      1 Vê-me
       1 Vê
       1 Voltara
       1 Viverem
-      1 Visteas
+      1 Viste-as
       1 Viste
       1 Virgínia
       1 Virgílio
       1 Vinguei
       1 Vigorava
       1 Viajou
-      1 Vestiase
+      1 Vestia-se
       1 Vejamos
       1 Varela
       1 Valparaíso
@@ -7594,42 +7621,42 @@
       1 Ulisses
       1 Tão
       1 Turgot
-      1 Trouxeramlhe
-      1 Trocaramse
+      1 Trouxeram-lhe
+      1 Trocaram-se
       1 Trocamos
-      1 Travarase
+      1 Travara-se
       1 Tratei
       1 Tratando
-      1 Tranqüilizese
-      1 Tramase
-      1 Tragolhe
+      1 Tranqüilize-se
+      1 Trama-se
+      1 Trago-lhe
       1 Torquato
-      1 Tornome
+      1 Torno-me
       1 Tornei
       1 Toca
       1 Tityre
-      1 Tinhamse
+      1 Tinham-se
       1 Teócrito
-      1 Textofonte
+      1 Texto-fonte
       1 Terás
-      1 Terseiam
       1 Terminado
-      1 Termeá
+      1 Ter-se-iam
+      1 Ter-me-á
       1 Tennyson
       1 Tempora
       1 Telêmaco
       1 Tasso
-      1 Sêloás
+      1 Sê-lo-ás
       1 Sánchez
       1 Suspeito
       1 Susana
       1 Supuseram
       1 Supus
       1 Suponhamos
-      1 Sujeiteime
+      1 Sujeitei-me
       1 Sucedeu
       1 Sentes
-      1 Sentate
+      1 Senta-te
       1 Sebastião
       1 Seabra
       1 Saímos
@@ -7645,28 +7672,28 @@
       1 Rochefoucauld
       1 Ribeyrolles
       1 Riachuelo
-      1 Retenhao
+      1 Retenha-o
       1 Resuma
-      1 Restavalhe
-      1 Respiralhe
+      1 Restava-lhe
+      1 Respira-lhe
       1 Resistirá
       1 Renasço
       1 Renan
       1 Reino
       1 Reflete
-      1 Referese
+      1 Refere-se
       1 Redobrou
       1 Recusando
       1 Recorreu
-      1 Recebio
+      1 Recebi-o
       1 Recebeste
-      1 Realizaramse
+      1 Realizaram-se
       1 Rasgue
-      1 Ralhame
+      1 Ralha-me
       1 Quixote
       1 Quereria
-      1 Queimeia
-      1 Pôrnos
+      1 Queimei-a
+      1 Pôr-nos
       1 Pérsia
       1 Páscoa
       1 Pus
@@ -7676,8 +7703,8 @@
       1 Provei
       1 Provará
       1 Proteu
-      1 Prometeume
-      1 Prometeme
+      1 Prometeu-me
+      1 Promete-me
       1 Preveniu
       1 Pretextou
       1 Prepara
@@ -7686,16 +7713,16 @@
       1 Pradier
       1 Posteriormente
       1 Pontual
-      1 Podiase
+      1 Podia-se
       1 Platão
-      1 Pintoulhe
+      1 Pintou-lhe
       1 Pintado
       1 Percebo
       1 Penélope
       1 Pensa
-      1 Penalizame
-      1 Pedilhe
-      1 Pedenos
+      1 Penaliza-me
+      1 Pedi-lhe
+      1 Pede-nos
       1 Passeava
       1 Passados
       1 Paris
@@ -7703,19 +7730,19 @@
       1 Paraíba
       1 Palmerston
       1 Ouvimos
-      1 Ouvias
+      1 Ouvi-as
       1 Ourives
       1 Oriente
-      1 Ordenolhe
-      1 Ordename
+      1 Ordeno-lhe
+      1 Ordena-me
       1 Olimpo
-      1 Ocuparase
-      1 Ocultoo
-      1 Ocorreume
+      1 Ocupara-se
+      1 Oculto-o
+      1 Ocorreu-me
       1 Ocorre
-      1 ObraPrima
+      1 Obra-Prima'
       1 Obedecia
-      1 Notavalhe
+      1 Notava-lhe
       1 Notaram
       1 Nota
       1 Newton
@@ -7725,13 +7752,13 @@
       1 México
       1 Municipal
       1 Moura
-      1 Mostralhes
+      1 Mostra-lhes
       1 Moro
       1 Molière
       1 Modestamente
       1 Milão
       1 Miguel
-      1 Metime
+      1 Meti-me
       1 Mercantil
       1 Memento
       1 Marília
@@ -7742,15 +7769,16 @@
       1 Lovelace
       1 Longfellow
       1 Londres
-      1 Lisonjeavao
-      1 Ligamse
+      1 Lisonjeava-o
+      1 Ligam-se
+      1 Lia
       1 Levarás
       1 Lerna
-      1 Lembrolhe
-      1 Lembreime
-      1 Lembravase
-      1 Lembravame
-      1 Lembraramse
+      1 Lembro-lhe
+      1 Lembrei-me
+      1 Lembrava-se
+      1 Lembrava-me
+      1 Lembraram-se
       1 Laís
       1 Lastimo
       1 Lamartine
@@ -7758,20 +7786,20 @@
       1 LUÍS
       1 Júlio
       1 Juro
-      1 Julgasme
+      1 Julgas-me
       1 Judéia
       1 Jesus
       1 Itália
       1 Interrogou
       1 Interrogada
-      1 Interessame
+      1 Interessa-me
       1 Insisto
       1 Ingrata
       1 Inglaterra
       1 Informado
       1 Indaguei
-      1 Importase
-      1 Importandose
+      1 Importando-se
+      1 Importa-se
       1 Imperatriz
       1 Ideou
       1 Ideava
@@ -7799,131 +7827,133 @@
       1 Fixei
       1 Findo
       1 Ficarei
+      1 Fi-la
       1 Feydeau
       1 Fecho
-      1 Fechase
+      1 Fecha-se
       1 Fazíamos
       1 Fanny
       1 Falhou
       1 Falha
       1 Exteriormente
-      1 Expliqueilhe
+      1 Expliquei-lhe
       1 Expansão
       1 Existem
       1 Excia
       1 Eva
       1 Euclides
-      1 Estristeceume
+      1 Estristeceu-me
       1 Estranhei
       1 Estragaste
-      1 Estavame
+      1 Estava-me
       1 Estados
       1 Espanha
-      1 Escrevame
+      1 Escreva-me
       1 Escreva
       1 Eras
       1 Erard
       1 Entusiasmado
       1 Entramos
       1 Enraiveci
-      1 Enlevome
-      1 Enganeime
-      1 Enganaste
-      1 Enganase
-      1 Enganarase
-      1 Enganamte
+      1 Enlevo-me
+      1 Enganei-me
+      1 Enganas-te
+      1 Enganara-se
+      1 Enganam-te
+      1 Engana-se
       1 Enche
       1 Encaminhou
       1 Encafuado
-      1 Eisme
+      1 Eis-me
       1 Eia
       1 Editora
       1 EMÍLIA
-      1 Dóime
-      1 Dáse
+      1 Dói-me
+      1 Dá-se
       1 Duvido
       1 Duvidas
       1 Durava
       1 Duplicar
       1 Djinns
-      1 Divirtome
+      1 Divirto-me
       1 Dividirá
       1 Dissimulada
-      1 Dissete
+      1 Disse-te
       1 Dirás
-      1 Dirseia
       1 Dirceu
-      1 Diloias
-      1 Devese
+      1 Dir-se-ia
+      1 Di-lo-ias
+      1 Deve-se
       1 Destinado
       1 Desenhado
-      1 Desencaminhouse
-      1 Desejolhe
-      1 Desculpeme
-      1 Desculpao
-      1 Desculpame
-      1 Descarteime
+      1 Desencaminhou-se
+      1 Desejo-lhe
+      1 Desculpe-me
+      1 Desculpa-o
+      1 Desculpa-me
+      1 Descartei-me
       1 Descansei
       1 Depuseste
-      1 Demoreime
-      1 Demoravase
-      1 Deixeio
-      1 Deixeia
+      1 Demorei-me
+      1 Demorava-se
+      1 Deixei-o
+      1 Deixei-a
       1 Deixas
-      1 Deixame
-      1 Deitome
-      1 Deilhe
+      1 Deixa-me
+      1 Deito-me
+      1 Dei-lhe
       1 Decorreu
       1 Decorreram
       1 Dante
       1 Danaide
       1 Curvou
-      1 Curvome
+      1 Curvo-me
       1 Cunha
-      1 Cumprase
-      1 Cruzavamse
+      1 Cumpra-se
+      1 Cruzavam-se
       1 Cruz
+      1 Costume'
       1 Corri
       1 Convidou
       1 Conversemos
       1 Convenho
-      1 Convenceramse
+      1 Convenceram-se
       1 Contribuíra
       1 Contribuamos
       1 Contrariamente
-      1 Contemplouo
-      1 Constoume
+      1 Contemplou-o
+      1 Constou-me
       1 Constitucional
-      1 Constanos
+      1 Consta-nos
       1 Conseqüentemente
-      1 Conhecese
-      1 Conhecenos
+      1 Conhece-se
+      1 Conhece-nos
       1 Conforme
       1 Confirmas
       1 Concluí
       1 Compreendi
       1 Compreendes
       1 Compreendera
-      1 Completeios
+      1 Completei-os
       1 Começas
-      1 Cometio
+      1 Cometi-o
       1 Coitada
       1 Cobri
       1 Cleópatra
       1 Citera
       1 Chile
       1 Chegamos
-      1 Chamaramse
-      1 Chamalhe
+      1 Chamaram-se
+      1 Chama-lhe
       1 Certíssimo
-      1 Causolhe
-      1 Caseime
-      1 Casarseá
-      1 Casamola
+      1 Causo-lhe
+      1 Casei-me
+      1 Casar-se-á
+      1 Casamo-la
       1 Carlos
       1 Carceller
       1 Cantos
-      1 Cantase
+      1 Canta-se
       1 Cansada
       1 Camões
       1 Campas
@@ -7938,7 +7968,7 @@
       1 Botelho
       1 Bernardo
       1 Beneditinos
-      1 Beijarteá
+      1 Beijar-te-á
       1 Bastará
       1 Barão
       1 Barroso
@@ -7948,26 +7978,26 @@
       1 Avezado
       1 Avalias
       1 Atravessei
-      1 Ativouse
+      1 Ativou-se
       1 Astúcia
       1 Assis
       1 Assinou
-      1 Asseveroume
+      1 Asseverou-me
       1 Aspásia
       1 Asco
       1 Arábia
       1 Artemisa
       1 Arranja
       1 Arcádia
-      1 Aproximavamse
-      1 Aprovolhe
+      1 Aproximavam-se
+      1 Aprovo-lhe
       1 Aprovo
       1 Aproveita
       1 Aprovam
       1 Apronta
       1 Aprofunde
       1 Apressou
-      1 Apresentavao
+      1 Apresentava-o
       1 Apre
       1 Apoiado
       1 Antônio
@@ -7975,41 +8005,40 @@
       1 Anteontem
       1 Andei
       1 América
-      1 Amáloá
-      1 Amoo
-      1 Ameio
+      1 Amo-o
+      1 Amei-o
       1 Amazonas
-      1 Amavaa
-      1 Amate
-      1 Amarmeá
-      1 Amarao
-      1 Amaramse
+      1 Amava-a
+      1 Amaram-se
+      1 Amara-o
+      1 Amar-me-á'
+      1 Ama-te
       1 Almoçava
       1 Almejava
       1 Almaviva
       1 Alexandres
       1 Alegou
       1 Alcibíades
-      1 Ajoelharse
+      1 Ajoelhar-se
       1 Aguilar
       1 Agostinho
-      1 Afiguravaseme
+      1 Afigurava-se-me
       1 Afianças
       1 Adônis
       1 Adriático
       1 Adotando
-      1 Adoroa
-      1 Admiraste
-      1 Acudiulhe
+      1 Adoro-a
+      1 Admiras-te
+      1 Acudiu-lhe
       1 Acreditavas
       1 Acostumada
-      1 Acompanhavao
-      1 Acharmeei
-      1 Aceitemolo
-      1 Aceiteio
+      1 Acompanhava-o
+      1 Achar-me-ei
+      1 Aceitemo-lo
+      1 Aceitei-o
       1 Aceitas
       1 Acabemos
-      1 Aborrecete
+      1 Aborrece-te
       1 Abandonado
       1 47
       1 40
@@ -8020,3 +8049,20 @@
       1 15
       1 11
       1 10
+      1 'homem'
+      1 'Uma
+      1 'Trezentos
+      1 'Se
+      1 'Quer
+      1 'Quem
+      1 'Os
+      1 'O
+      1 'Nobre
+      1 'Gomes
+      1 'Este
+      1 'De
+      1 'Dar-me
+      1 'Com
+      1 'Augusta
+      1 'Amá-lo-á
+      1 'A
