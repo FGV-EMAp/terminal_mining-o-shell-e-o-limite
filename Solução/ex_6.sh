@@ -1,1 +1,1 @@
-grep -E "^ *[[:digit:]]{4}" resposta_5.txt | head -n -1 > resposta_6.txt
+grep -E "^ *[[:digit:]]{4}" resposta_5.txt > resposta_6.txt

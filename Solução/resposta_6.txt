@@ -232,3 +232,4 @@
    1005 Quase
    1004 DESTA
    1001 SABE
+Binary file resposta_5.txt matches
