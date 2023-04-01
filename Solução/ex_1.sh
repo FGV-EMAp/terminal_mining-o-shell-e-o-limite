@@ -1,1 +1,1 @@
-cat ../dados/machado/*/*.txt | wc -w > resposta_1.txt
+cat ../Dados/machado/*/*.txt | wc -w > resposta_ex_1.txt
