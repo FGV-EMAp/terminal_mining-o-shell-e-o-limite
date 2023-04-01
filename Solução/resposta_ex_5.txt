@@ -3,14 +3,14 @@
   87368 a
   69474 e
   69085 o
-  35118 não
+  35046 não
   32258 UM
   31744 do
   27550 da
-  25404 —
+  25392 —
   24215 OS
-  22251 é
   22173 UMA
+  22166 é
   21152 SE
   20695 COM
   20347 EM
@@ -22,11 +22,11 @@
   12736 mas
   12186 MAIS
   11794 no
-  11787 à
+  11759 à
   11000 A
   10946 COMO
   10825 na
-  10716 Não
+  10706 Não
   10230 O
    9697 --
    9634 ELE
@@ -45,7 +45,7 @@
    4990 E
    4966 CASA
    4920 DEPOIS
-   4911 há
+   4895 há
    4805 ser
    4675 TUDO
    4572 AINDA
@@ -57,8 +57,8 @@
    4023 Coisa
    3962 OLHOS
    3955 SEU
-   3923 já
-   3907 só
+   3912 já
+   3901 só
    3878 DIA
    3822 MESMO
    3783 ESTA
@@ -71,13 +71,12 @@
    3632 nada
    3587 Este
    3586 nos
-   3538 tão
+   3534 tão
    3443 D
-   3432 Também
+   3426 Também
    3415 AOS
-   3392 Até
    3358 PORQUE
-   3349 É
+   3336 É
    3335 Homem
    3301 Assim
    3270 TODOS
@@ -85,7 +84,8 @@
    3203 POUCO
    3186 BEM
    3163 QUEM
-   3013 às
+   3077 até
+   3007 às
    2911 VIDA
    2877 MENOS
    2874 SEUS
@@ -100,29 +100,28 @@
    2675 Dizer
    2665 Alguma
    2650 SR
-   2609 Então
-   2595 são
+   2584 são
    2548 ANOS
    2522 Isto
    2517 ONDE
-   2506 Moça
+   2505 Moça
    2483 PELO
    2482 ALGUNS
    2446 Podia
    2398 amor
    2369 grande
-   2363 está
+   2358 está
    2331 Eram
    2295 ver
    2292 AQUI
-   2280 Coração
+   2276 Coração
    2239 ANTES
    2221 NOITE
    2209 OUTROS
    2198 NAS
    2183 ter
    2152 ESSE
-   2108 lá
+   2107 lá
    2101 verdade
    2049 Havia
    2025 TODAS
@@ -131,9 +130,10 @@
    2017 Melhor
    1995 Si
    1986 PAI
+   1971 então
    1957 Fazer
-   1949 mão
    1947 Sei
+   1945 mão
    1906 MESMA
    1898 COISAS
    1895 ir
@@ -150,20 +150,20 @@
    1832 NUNCA
    1795 Palavras
    1787 PARTE
-   1777 Idéia
    1775 Toda
+   1774 Idéia
    1772 algum
    1757 DELE
    1749 TAL
-   1738 três
    1738 AMIGO
+   1737 três
    1724 PRIMEIRO
    1704 Fez
    1697 TALVEZ
    1683 Sim
    1662 SOBRE
    1657 CARTA
-   1656 Espírito
+   1653 Espírito
    1632 CASO
    1631 Ali
    1621 VAI
@@ -177,12 +177,12 @@
    1582 OUTRAS
    1579 Algumas
    1558 MUNDO
-   1553 mãe
    1549 Pois
+   1545 mãe
    1530 senhor
    1521 PORTA
-   1510 Cabeça
    1507 todo
+   1507 Cabeça
    1505 Tanto
    1475 CAPÍTULO
    1459 APENAS
@@ -192,21 +192,21 @@
    1440 Parece
    1434 dar
    1413 Ninguém
-   1399 Já
+   1398 Já
    1392 Respondeu
-   1391 mãos
+   1390 mãos
    1379 MARIDO
-   1360 Há
    1359 TU
    1354 TE
+   1354 Há
    1344 Eles
    1339 Dizia
    1334 HOJE
    1325 VELHO
    1324 deu
-   1309 Razão
    1308 HOMENS
    1307 Tenho
+   1306 Razão
    1301 BOM
    1299 MODO
    1294 Creio
@@ -214,7 +214,7 @@
    1282 BOA
    1279 Seria
    1279 SENHORA
-   1277 pé
+   1275 pé
    1252 GENTE
    1236 PALAVRA
    1235 ORA
@@ -229,12 +229,12 @@
    1181 Desde
    1177 Quer
    1173 Terra
-   1173 Porém
    1171 Sala
+   1171 Porém
    1169 RAPAZ
    1152 saber
    1142 DEUS
-   1136 Céu
+   1135 Céu
    1135 AO
    1131 TARDE
    1120 Preciso
@@ -273,26 +273,25 @@
     993 MEUS
     989 Veio
     989 Quanto
-    971 Nós
     969 Ambos
-    964 Família
     963 AH
     962 PADRE
     962 FAZ
+    961 Família
     960 viúva
     955 AUTOR
     945 PESSOAS
     941 Nenhuma
-    934 José
     934 Devia
     930 Entrou
     928 VOU
+    926 José
     924 QUATRO
-    922 Próprio
     920 RIO
+    919 próprio
     915 OBRA
     914 NA
-    913 Ocasião
+    912 Ocasião
     912 Minutos
     911 mar
     901 Nenhum
@@ -302,6 +301,7 @@
     892 Luís
     889 Maior
     885 AMIGOS
+    883 nós
     880 Queria
     877 MARIA
     872 Quis
@@ -334,43 +334,43 @@
     810 João
     809 Jorge
     806 Além
-    796 aí
     796 Muitas
     796 CAUSA
     794 SEGUNDO
     793 Qualquer
-    791 força
+    791 aí
     791 ROSTO
+    789 força
     788 HELENA
     788 Cidade
-    787 Política
-    784 Situação
-    776 Própria
+    784 Política
+    781 Situação
     776 GILLIATT
     775 Naturalmente
     774 Quero
     773 sair
+    770 própria
     769 FUI
     767 Entretanto
-    765 Silêncio
+    764 Silêncio
     764 Grandes
-    763 história
     763 LEITOR
     763 Fazia
     762 Continuou
     755 NATURAL
     755 DEVE
+    753 história
     748 Enquanto
-    746 Pôde
     744 Natureza
     740 RESPOSTA
+    738 pôde
     736 São
     736 Diz
     730 estar
     729 Oh
     726 HOUVE
     726 ANO
-    723 Vão
+    721 Vão
     720 entrar
     719 V
     717 VERSOS
@@ -380,42 +380,43 @@
     710 RESPEITO
     710 Mesa
     708 TINHAM
-    706 Manhã
+    704 Manhã
     702 TUA
     701 Efeito
     697 Deles
     696 Rubião
     695 BOCA
-    691 moço
+    690 moço
     690 S
     689 Tais
-    684 Opinião
+    683 Opinião
     682 Arte
     680 RESTO
-    679 Princípio
     679 Janela
     677 Muitos
+    676 Princípio
     676 Achou
     674 Estavam
-    672 Idéias
     671 TRABALHO
     670 CENA
     668 cá
     667 Nesse
     666 Vinha
+    664 Idéias
     664 Demais
-    661 dá
     659 quê
     659 Sabia
     658 Sentimento
     656 Vontade
+    655 dá
     654 LUZ
     653 Pena
     651 Lágrimas
-    649 será
+    646 será
     643 Médico
     641 PASSO
     634 PASSADO
+    634 Então
     631 Dava
     628 semana
     627 ATO
@@ -431,12 +432,11 @@
     613 Bela
     610 VISTA
     609 DOUTOR
-    607 Esperança
     607 Certa
-    606 última
     606 FELIZ
+    605 última
+    605 Esperança
     604 QUARTO
-    604 Público
     602 Pelos
     600 Embora
     598 Dinheiro
@@ -449,15 +449,14 @@
     587 Essas
     586 Ouvir
     585 Crer
-    585 Começou
     584 caminho
-    584 Graça
     584 DAQUELE
+    584 Começou
     582 Disso
     576 Deixar
     575 enfim
     574 PRIMEIROS
-    573 Estão
+    569 Estão
     569 Estes
     569 Daquela
     568 passar
@@ -467,10 +466,11 @@
     565 vem
     564 Exemplo
     559 Senão
-    559 Impossível
-    559 Contrário
     558 vir
+    558 Contrário
+    557 Impossível
     556 pés
+    554 público
     554 MIL
     553 DO
     553 CARLOTA
@@ -493,20 +493,21 @@
     530 Tempos
     530 Posto
     529 Realmente
+    527 graça
     527 Disse-lhe
     527 DIREITO
     525 NAQUELE
     525 Estácio
     525 Acabou
     524 FUNDO
-    522 daí
-    521 Têm
-    520 último
+    521 daí
+    520 Têm
     520 Figura
+    519 último
     519 IGREJA
     518 Visto
-    518 Braços
-    517 expressão
+    517 Braços
+    516 expressão
     515 Ouviu
     515 Num
     515 MEDO
@@ -519,8 +520,8 @@
     508 Tendo
     506 DA
     505 governo
-    504 chão
     503 IDADE
+    502 chão
     501 costume
     501 Pelas
     501 DEPRESSA
@@ -534,34 +535,34 @@
     497 MANEIRA
     497 CLARA
     495 FORTUNA
-    494 Espécie
-    493 atenção
     493 TITO
-    492 Peça
+    492 atenção
     492 Pequeno
     492 Paulo
+    492 Espécie
     489 Poucos
     489 Podem
-    488 Memória
     488 CONVERSA
     487 povo
-    487 Paixão
+    487 Peça
     487 Félix
     486 Amiga
     485 alguém
     485 Só
     485 Seis
+    484 Paixão
     483 Amanhã
-    481 ação
+    482 memória
     481 Contos
     479 Minhas
     479 ALEGRIA
     478 CARRO
     476 ALTO
-    475 Consciência
-    474 Língua
+    475 ação
     471 SENTIMENTOS
+    469 Língua
     469 FLORES
+    468 Consciência
     467 Iam
     467 Cima
     467 CORONEL
@@ -573,19 +574,19 @@
     464 Trazia
     462 FORMA
     460 Questão
-    459 criança
     459 Perto
     459 PENSAMENTO
     459 Olhou
     459 Necessidade
     459 FALTA
     459 CRIADO
-    458 dúvida
+    458 criança
     458 Oito
     458 Justamente
     457 Vento
     457 Major
     457 DIABO
+    456 dúvida
     455 Dizem
     452 Nesta
     450 DAQUI
@@ -602,26 +603,26 @@
     434 NESSA
     430 Dito
     429 Cair
-    428 difícil
     428 Liberdade
     427 Teria
     426 única
+    425 difícil
     425 Vale
     425 Achava
-    424 único
+    423 único
     423 Grave
     421 Doce
-    420 impressão
     420 CONSELHO
+    419 impressão
     419 FILHOS
     419 CADEIRA
-    416 Irmã
     416 Falou
     416 ESCREVER
+    415 Irmã
     415 Igual
     415 Capitão
     413 Delas
-    413 Comédia
+    412 Comédia
     411 Tia
     411 Guerra
     411 DADO
@@ -662,7 +663,6 @@
     392 Prova
     392 Doente
     391 Cedo
-    390 Número
     390 JORNAL
     390 Esperar
     390 Esperanças
@@ -676,6 +676,7 @@
     385 PRIMA
     385 Nele
     384 Eis
+    383 número
     383 mau
     382 volta
     382 Diga
@@ -688,35 +689,34 @@
     378 Cabo
     377 achar
     377 Pareceu
-    377 Imaginação
-    376 vê
+    373 vê
     373 Estela
     373 Conta
     373 BONITA
+    372 Imaginação
     371 Instantes
-    371 Capítulo
     370 SEM
     370 Recebeu
     370 PRAZER
+    370 Capítulo
     369 Mendonça
     369 Contar
     368 Longa
     368 Boas
-    367 país
     367 PIOR
     367 Ouvi
     366 Meneses
+    364 país
     363 Espera
     362 Iaiá
     361 Poderia
-    360 Véspera
     360 Geral
+    359 Véspera
     359 Luísa
     358 OURO
     358 Negócio
     357 Dessas
     357 Acabar
-    356 caráter
     356 SORRISO
     355 SOMBRA
     355 Cuja
@@ -729,6 +729,7 @@
     353 Europa
     353 Dali
     353 Anda
+    352 caráter
     352 VALENTIM
     352 Somente
     352 SONHO
@@ -750,11 +751,11 @@
     346 Moças
     346 Cabelos
     344 Sentia
-    344 Lábios
-    344 Graças
     344 Baixo
     343 Sorriu
     343 Notícias
+    343 Lábios
+    343 Graças
     342 Podiam
     342 Explicação
     341 Honra
@@ -763,21 +764,20 @@
     340 Excelente
     340 CAPITU
     339 claro
-    339 Título
     339 SANTA
-    339 Páginas
     338 DEBAIXO
     337                
-    337 espaço
+    337 Título
+    336 espaço
     336 Propósito
     336 Fogo
     335 Vendo
     335 LUTA
     334 Sentiu
     334 Atrás
+    333 Páginas
     332 VERDADEIRO
     332 Remédio
-    331 Fácil
     331 Dessa
     331 Baile
     330 Pensava
@@ -787,6 +787,7 @@
     329 Concluiu
     328 és
     328 PEITO
+    328 Fácil
     328 CUJO
     327 Ofício
     327 LARGO
@@ -814,22 +815,22 @@
     321 Vejo
     320 FESTA
     319 pôs
-    319 fé
     319 Faria
     319 Acima
     319 AUGUSTA
     319 ARTISTA
+    318 fé
     318 Tomar
     318 Tanta
     318 Obras
     318 MENOR
     318 Certeza
     317 Pedir
-    316 pôr
     316 Presidente
     316 MENINA
     316 For
     316 FOLHAS
+    315 pôr
     315 VISITA
     315 Riso
     315 Morto
@@ -837,30 +838,31 @@
     314 TRISTEZA
     314 Nossas
     313 RAPAZES
-    313 Pública
     312 Uso
     312 Sorrindo
     312 RIR
     312 Esposa
     312 Deveras
-    312 Circunstâncias
     311 Desses
+    311 Circunstâncias
+    311 Até
     310 Frase
     310 Correu
     310 Confiança
     310 Abriu
     309 Leitores
     308 Namorado
+    307 pública
     307 Deixa
     307 Contudo
     306 Olhava
     306 Fossem
     306 Feita
     305 Poucas
-    304 justiça
     304 SAUDADES
     304 Música
     303 NACIONAL
+    302 justiça
     302 corte
     302 Tornou
     302 Sorte
@@ -878,10 +880,10 @@
     298 QUINZE
     298 Contava
     298 Amava
-    297 vá
     297 Importa
     297 GUIOMAR
     297 Deputado
+    296 vá
     295 Lembrança
     295 Cecília
     294 frio
@@ -893,12 +895,12 @@
     292 parecer
     292 dedos
     292 antigo
-    292 Ciência
     292 Acaba
     291 INTERIOR
     291 Fazendo
     291 Fazem
     291 ENTRA
+    291 Ciência
     291 Cheio
     290 Teus
     289 primeiras
@@ -915,32 +917,32 @@
     287 EDUARDO
     287 CONTO
     286 Sobretudo
-    286 Espetáculo
     286 Bonito
     285 Vestido
     285 MESMOS
     285 Comendador
     285 Acabava
     285 AZUL
-    284 forças
     284 PEDIU
     284 Livre
     284 Esteve
     284 Devo
-    283 últimos
+    283 forças
     283 Sujeito
     283 JUDEU
-    283 Daí
+    283 Espetáculo
     282 ESTADO
+    282 Daí
     282 Buscar
     281 resultado
     281 Rei
-    281 Matéria
     281 MOCIDADE
     281 Aqueles
     281 Amar
+    280 últimos
     280 vamos
     280 Olhando
+    280 Matéria
     279 velhos
     279 posição
     279 levar
@@ -949,29 +951,28 @@
     278 letras
     278 Pude
     278 Polícia
-    278 Crítica
     277 Casas
-    276 presença
     276 estivesse
     276 cavalo
-    276 afeição
     276 Provavelmente
     276 Ouvidor
-    275 À
     275 linhas
     275 Levou
     275 Dama
+    274 À
+    274 presença
     274 Senhoras
     274 AIRES
     273 viva
     273 necessário
     273 canto
+    273 afeição
     273 ELISA
     273 Culpa
     273 ADEUS
-    272 Resolução
     272 Etc
     272 CARLOS
+    271 Resolução
     271 Parou
     270 VIRTUDE
     270 Nobre
@@ -1017,9 +1018,9 @@
     262 Frente
     262 Antiga
     261 Tirou
-    261 Magalhães
     261 MACHADO
     261 Igualmente
+    260 Magalhães
     260 ERRO
     260 Aguiar
     259 SONHOS
@@ -1050,24 +1051,23 @@
     253 tirar
     253 ouvia
     253 escola
-    253 ausência
     253 PLANO
     253 Donde
     253 Camilo
     253 Café
     253 CRIATURA
+    252 ausência
     252 CAMPO
-    251 Razões
     251 Pensar
     251 Amo
     250 PASSEIO
     250 Olhe
     250 Destes
     250 Conversação
-    250 Circunstância
     249 Vivia
     249 PERDIDO
     249 Ombros
+    249 Circunstância
     248 escada
     248 Andando
     247 Vaidade
@@ -1076,10 +1076,10 @@
     247 Adiante
     246 SENHOR
     246 RETRATO
-    246 Papéis
     246 Fronte
+    245 razões
     245 Perdeu
-    245 Esforço
+    245 Papéis
     245 Dei
     245 BRASIL
     244 Venha
@@ -1088,7 +1088,7 @@
     244 Olha
     244 MENINO
     244 Fiquei
-    244 Condição
+    244 Esforço
     244 ADVOGADO
     243 próprios
     243 PONTA
@@ -1096,21 +1096,22 @@
     243 Inútil
     243 Entusiasmo
     243 Domingo
+    243 Condição
     242 caro
     242 Poetas
-    242 Faça
-    242 Conheço
     241 PERNAS
     241 Noiva
-    241 Gênero
+    241 Faça
     241 ATOS
     240 Verso
     240 Interrompeu
-    239 admiração
+    240 Conheço
     239 Trouxe
     239 Obrigado
+    239 Gênero
     239 Destas
     239 Dera
+    238 admiração
     238 Santo
     238 FALANDO
     238 ETERNO
@@ -1124,11 +1125,11 @@
     236 BEIJO
     235 Puro
     235 PIANO
-    235 Indiferença
     235 ILUSTRE
     235 ASSIS
     234 Murmurou
     234 Linguagem
+    234 Indiferença
     233 baronesa
     233 MISSA
     233 GRITO
@@ -1140,11 +1141,11 @@
     231 BELAS
     231 Andava
     231 Abrir
-    230 existência
     230 Valor
     230 Saúde
     230 MESMAS
     230 Fizeram
+    229 existência
     229 Sentou-se
     229 Possa
     229 Mamãe
@@ -1169,8 +1170,8 @@
     226 originalmente
     226 TERCEIRO
     226 Juntos
-    226 Ilusão
     225 LUÍS
+    225 Ilusão
     225 Deram
     225 ANTERIOR
     224 outrora
@@ -1178,15 +1179,13 @@
     224 Ficaram
     224 FLORA
     223 cão
-    223 Vê-lo
     223 Marques
     223 ETERNA
     223 BRANCO
-    222 observação
     222 má
+    222 Vê-lo
     222 Relógio
     222 RAQUEL
-    222 Pátria
     221 navio
     221 Vossa
     221 Pedra
@@ -1208,16 +1207,18 @@
     218 Imprensa
     217 sobrinha
     217 meios
-    217 Comoção
+    217 Pátria
     217 Breve
     217 BATISTA
-    216 últimas
     216 ânimo
+    216 observação
     216 costas
-    216 Séculos
     216 Mostrar
     216 Efetivamente
+    216 Comoção
+    215 últimas
     215 Vê-la
+    215 Séculos
     215 Pedia
     215 Namoro
     215 Fidélia
@@ -1230,12 +1231,12 @@
     213 Ministério
     213 Infeliz
     213 Compreendeu
+    212 crítica
     212 comer
     212 Declarou
     211 Mistério
     211 Esquecer
     211 ESPANTO
-    211 Cinqüenta
     210 seio
     210 Trata
     210 JANELAS
@@ -1267,8 +1268,6 @@
     206 PROMESSA
     206 Maneiras
     206 Lenço
-    206 Gonçalves
-    206 Eulália
     206 Cruz
     206 BUMBLE
     205 humano
@@ -1280,18 +1279,20 @@
     205 Aberta
     204 águas
     204 responder
-    204 dão
-    204 Vitória
+    204 cinqüenta
     204 Veja
     204 Letra
     204 Gosta
+    204 Gonçalves
     204 Devem
     204 Aquelas
     204 ARTIGO
     203 ternura
+    203 dão
     203 Municipal
     203 Mandar
     203 Haja
+    203 Eulália
     203 Dona
     203 Dar-lhe
     203 Carmo
@@ -1312,12 +1313,11 @@
     199 Loja
     199 Lembra
     199 LULU
-    199 Espíritos
     199 Desceu
-    199 César
     199 Acabado
     198 réis
     198 Sabem
+    198 Espíritos
     198 DESEMBARGADOR
     197 Procurou
     197 PROJETO
@@ -1336,7 +1336,7 @@
     195 Pedaço
     195 PRETO
     195 Felizes
-    195 Faço
+    195 César
     195 Chega
     194 sós
     194 SUBIR
@@ -1347,7 +1347,6 @@
     193 narração
     193 Virgília
     193 SAUDADE
-    193 Político
     193 Pessoal
     193 Cuidado
     193 Começava
@@ -1357,12 +1356,12 @@
     192 Verde
     192 Vaga
     192 TERESA
+    192 Político
     192 Ouvidos
     192 ORIGINAL
     192 Licença
     192 Cólera
     192 Coelho
-    191 ódio
     191 Despeito
     191 Bacharel
     190 fatos
@@ -1373,7 +1372,7 @@
     190 Fernanda
     190 EMÍLIA
     190 CHEFE
-    189 Solidão
+    189 ódio
     189 Gomes
     189 GRANDE
     189 Distância
@@ -1382,6 +1381,8 @@
     188 Oficial
     188 Dou
     188 DUMONT
+    187 vitória
+    187 Solidão
     187 Simpatia
     187 Real
     187 Portanto
@@ -1402,7 +1403,6 @@
     185 Disto
     184 todavia
     184 TESTA
-    184 Opiniões
     184 Fizera
     184 EXa
     184 -
@@ -1412,20 +1412,20 @@
     183 Justo
     183 Indiferente
     183 ENCONTRO
-    183 Começa
     182 Verdadeiramente
     182 Respondia
     182 Quiser
     182 Perguntou-lhe
-    182 Inspiração
     182 Esperou
+    182 Começa
     182 Cheguei
     181 quisesse
+    181 opiniões
     181 câmara
-    181 convicção
     181 SUA
     181 Rico
     181 LEVA
+    181 Inspiração
     181 Crianças
     181 Contou
     181 Antônia
@@ -1454,11 +1454,12 @@
     178 Cada
     178 Bastava
     177 Sistema
-    177 Petrópolis
     177 Nasceu
     177 Melancolia
     177 Estremeceu
+    176 convicção
     176 Vira
+    176 Petrópolis
     176 Carreira
     175 Vá
     175 Vive
@@ -1470,6 +1471,7 @@
     175 Corações
     174 possuía
     174 máquina
+    174 faço
     174 Ventura
     174 Sabendo
     174 Relação
@@ -1477,7 +1479,6 @@
     174 Fluminense
     174 Disposto
     174 Brasileira
-    174 Após
     173 termo
     173 Valia
     173 Sejam
@@ -1532,20 +1533,19 @@
     169 AURORA
     168 perdão
     168 Tão
-    168 Sacrifício
     168 Rosas
     168 Revolução
-    168 Impressões
     168 FOME
-    168 Direção
     168 Aconteceu
     167 calado
     167 SERVIR
     167 NOVIDADE
     167 Estudos
+    167 Direção
     167 Borba
     166 satisfação
     166 Será
+    166 Sacrifício
     166 Morava
     166 Cenas
     165 Subiu
@@ -1555,12 +1555,12 @@
     165 Rara
     165 ROMUALDO
     165 QUINCAS
-    165 Paixões
     165 Ordens
     165 Glória
     165 GESTOS
     165 Declaração
     165 Data
+    164 impressões
     164 composição
     164 SOM
     164 Políticos
@@ -1600,18 +1600,17 @@
     160 PERDE
     160 Leitora
     160 Jamais
+    159 paixões
     159 lho
     159 Paris
     159 ENTRANDO
     159 Dizer-lhe
     159 DURVAL
     159 Curioso
-    159 Através
     158 finado
     158 algibeira
     158 TERROR
     158 Observou
-    158 Influência
     158 Horizonte
     158 Existe
     158 Estrada
@@ -1620,19 +1619,20 @@
     158 Ardente
     158 ALVAREZ
     157 ó
-    157 políticas
     157 humanidade
     157 PROMETEU
     157 Onze
     157 Conversar
     157 Benefício
+    157 Através
     156 Úrsula
     156 tornar
-    156 literária
+    156 políticas
     156 lia
     156 Venho
     156 Lido
     156 Lembrar
+    156 Influência
     156 Haviam
     156 FINAL
     156 FINA
@@ -1651,7 +1651,6 @@
     154 Madrinha
     154 LINHA
     154 Imediatamente
-    154 Ginásio
     154 FRANCISCO
     154 Completamente
     154 Cemitério
@@ -1659,13 +1658,14 @@
     153 Ângela
     153 séria
     153 rochedo
-    153 dramática
+    153 literária
     153 atual
     153 Sincero
     153 Papai
     153 MATAR
     153 Lembrou-se
     153 INTIMIDADE
+    153 Ginásio
     153 CORTE
     152 Voltava
     152 Tiveram
@@ -1683,7 +1683,6 @@
     151 Acordou
     150 vantagem
     150 termos
-    150 necessária
     150 lição
     150 Franqueza
     150 Eternidade
@@ -1692,20 +1691,19 @@
     150 Armas
     149 serem
     149 origem
+    149 necessária
     149 Virtudes
     149 Supor
-    149 Religião
     149 Passando
     149 Moleque
     149 Filósofo
-    149 Fenômeno
     149 Entraram
-    149 Diálogo
     149 Dentes
     148 Valença
     148 Tranqüilo
     148 Senti
     148 SEMANA
+    148 Religião
     148 Peças
     148 Literatura
     148 Desejos
@@ -1722,8 +1720,10 @@
     147 Multidão
     147 Fita
     147 Espero
+    147 Diálogo
     147 Casado
     147 BARÃO
+    146 dramática
     146 comprar
     146 Viria
     146 Reparou
@@ -1734,18 +1734,17 @@
     146 ABRIL
     145 pagar
     145 haverá
+    145 fenômeno
     145 doutrina
     145 Vergonha
     145 VEM
     145 Olho
-    145 Lírico
     145 Inveja
     145 Fechou
     145 Facilmente
     145 Cândido
     145 Belos
     144                      
-    144 educação
     144 companheiro
     144 autoridade
     144 Viram
@@ -1766,11 +1765,12 @@
     143 Incidente
     143 Fernando
     143 ESTRELA
-    143 Desdém
     143 Aventura
     143 ALENCAR
+    142 ï¿½
     142 volume
     142 visse
+    142 educação
     142 corda
     142 Valadares
     142 TROCA
@@ -1780,6 +1780,7 @@
     142 Melchior
     142 Estranho
     142 Diziam
+    142 Desdém
     142 Confessou
     142 BARBEIRO
     142 Academia
@@ -1805,12 +1806,10 @@
     140 Profundamente
     140 Lágrima
     140 Julião
-    140 Inglês
     140 Engano
     140 Doido
     140 Chorar
     140 Carne
-    140 Antônio
     140 Absolutamente
     140 APARECER
     139 proposta
@@ -1822,11 +1821,12 @@
     139 Procurar
     139 Passaram
     139 LENDO
-    139 Estação
+    139 Inglês
     139 Encontrar
     139 Criaturas
     139 Conforme
     139 BRASILEIRO
+    139 Antônio
     138 vós
     138 dificuldade
     138 descobrir
@@ -1842,16 +1842,15 @@
     138 Guarda
     138 Estaria
     138 Contas
-    138 Conclusão
     138 Chamou
     138 Aguilar
     138 1994
     137 Seriam
     137 Recusou
-    137 Próxima
     137 Pensei
     137 Pança
     137 PADRINHO
+    137 Estação
     137 Entrei
     137 Deixou-se
     137 Convite
@@ -1868,9 +1867,10 @@
     136 Ficara
     136 Ficando
     136 Faltava
+    136 Conclusão
     136 CUSTA
     136 Ações
-    135 nação
+    135 próxima
     135 grupo
     135 demora
     135 Tibério
@@ -1889,6 +1889,7 @@
     134 PROGRAMA
     134 Ouvira
     133 ocasiões
+    133 nação
     133 chave
     133 Podendo
     133 Escrivão
@@ -1926,7 +1927,6 @@
     131 Inimigo
     131 Ilha
     131 Gaspar
-    131 Dramático
     131 Divino
     131 Colégio
     131 CAVALCANTE
@@ -1946,6 +1946,7 @@
     129 Morre
     129 Maiores
     129 Joelhos
+    129 Dramático
     128 rapariga
     128 amada
     128 XAVIER
@@ -1978,11 +1979,10 @@
     126 Casaca
     126 COSME
     126 CHAMADO
-    125 episódio
     125 conosco
+    125 após
     125 alcova
     125 Valem
-    125 Princípios
     125 Nascer
     125 MAL
     125 Ficam
@@ -1990,15 +1990,14 @@
     125 EMPREGADO
     125 Dignidade
     125 DESCOBERTA
-    125 Civilização
     125 Cargo
     125 Camila
+    124 episódio
     124 altura
     124 Vênus
     124 Tamanho
     124 Musas
     124 MARCELINA
-    124 Inteligência
     124 Harmonia
     124 Estranha
     124 Ergueu-se
@@ -2009,24 +2008,27 @@
     124 Causas
     124 Cantos
     124 CHEGADA
-    123 começar
     123 Prestes
     123 OUTUBRO
     123 Ministros
     123 Meteu
     123 LEVADO
+    123 Inteligência
     123 DOUVRES
     123 DIOGO
+    123 Civilização
     123 CURTO
     123 ACEITO
     122 Ó
     122 tardou
     122 lentamente
     122 compreender
+    122 começar
     122 calças
     122 Serve
     122 Sepultura
     122 Rocha
+    122 Princípios
     122 Precisava
     122 Obrigação
     122 Infinito
@@ -2038,7 +2040,6 @@
     121 solução
     121 segundos
     121 morta
-    121 discussão
     121 ardor
     121 acontecimento
     121 Vários
@@ -2052,7 +2053,6 @@
     121 Juro
     121 Humanas
     121 Francesa
-    121 Experiência
     121 ESCURO
     121 Andam
     121 ACHADO
@@ -2068,6 +2068,7 @@
     120 Imagina
     120 Graciosa
     120 Fique
+    120 Experiência
     120 Descobriu
     120 Convém
     120 André
@@ -2075,6 +2076,7 @@
     120 AGOSTO
     119 sofá
     119 leito
+    119 discussão
     119 VII
     119 Todavia
     119 Sentado
@@ -2089,7 +2091,6 @@
     119 Contigo
     119 CADEIRAS
     119 Aberto
-    118  
     118 visão
     118 sessão
     118 penso
@@ -2109,15 +2110,12 @@
     118 Consolação
     118 Compreendo
     118 Almoçar
-    118 Agradável
     117 saíram
-    117 dê
     117 artistas
     117 Voltou-se
     117 Refletiu
     117 Prática
     117 Mônica
-    117 Literário
     117 Importante
     117 Feitos
     117 Falavam
@@ -2129,6 +2127,7 @@
     117 Acontece
     116 reunião
     116 perguntar
+    116 dê
     116 alienista
     116 Trabalhar
     116 Sentia-se
@@ -2141,18 +2140,20 @@
     116 PONTOS
     116 Mostrou
     116 Manda
+    116 Literário
     116 Fiel
     116 Engenho
     116 Dura
     116 Doze
+    116 Agradável
     116 Admira
+    115  
     115 vagas
     115 custo
     115 Velhice
     115 RICA
     115 Parece-me
     115 PECADO
-    115 Missão
     115 Malvina
     115 Luiza
     115 Indignação
@@ -2160,18 +2161,17 @@
     115 ENTREGUE
     115 Delírio
     115 Deixo
-    115 Criação
     115 Centro
     115 Angélica
     115 Amélia
     114 sinais
-    114 irmãos
     114 dúzia
     114 Voltando
     114 Soubesse
     114 Pertence
     114 Perfeição
     114 Passara
+    114 Missão
     114 Magro
     114 LIMA
     114 Ganhar
@@ -2179,6 +2179,7 @@
     114 Espantado
     114 DEZEMBRO
     114 DEUSES
+    114 Criação
     114 Contando
     114 Concluir
     114 Ante
@@ -2239,7 +2240,6 @@
     110 vizinhança
     110 soma
     110 repetir
-    110 instituição
     110 enorme
     110 diferentes
     110 União
@@ -2252,13 +2252,12 @@
     110 MATEUS
     110 Herança
     110 Despediu-se
-    110 Crê
     110 Chamava-se
     110 Busca
     110 Assaz
     110 ANIMAIS
     109 loucura
-    109 célebre
+    109 instituição
     109 Votos
     109 Representação
     109 Nestes
@@ -2273,12 +2272,11 @@
     109 Censura
     109 Capricho
     109 Cansado
-    108 véu
     108 sinceridade
     108 saída
-    108 período
     108 duro
     108 disposição
+    108 célebre
     108 Verdade
     108 VERDES
     108 Peso
@@ -2287,8 +2285,9 @@
     108 Fechar
     108 Estômago
     108 Desgosto
+    108 Crê
     108 ARTIGOS
-    107 íntima
+    107 véu
     107 fê-lo
     107 beijos
     107 Vocês
@@ -2307,6 +2306,8 @@
     107 Camões
     107 Augusto
     106 trecho
+    106 período
+    106 irmãos
     106 bond
     106 Vítima
     106 Vede
@@ -2325,6 +2326,7 @@
     106 CARIDADE
     106 Aparecia
     106 Abre
+    105 íntima
     105 vapor
     105 naturais
     105 medida
@@ -2349,7 +2351,6 @@
     105 BOTAS
     105 BOTA
     105 BORGES
-    104 época
     104 tiver
     104 rio
     104 VENÂNCIO
@@ -2372,6 +2373,7 @@
     104 Bengala
     104 Bateu
     104 10
+    103 época
     103 poderá
     103 dormia
     103 TEORIA
@@ -2388,7 +2390,6 @@
     103 CRISTO
     103 Acompanhar
     103 Abrindo
-    102 poética
     102 notar
     102 escrava
     102 cumprir
@@ -2430,7 +2431,6 @@
     101 Cuidou
     101 Camargo
     101 Batia
-    100 índole
     100 verão
     100 terreno
     100 salão
@@ -2446,15 +2446,14 @@
     100 Flávio
     100 Contemplação
     100 Campos
+     99 índole
      99 tipo
-     99 situações
+     99 poética
      99 orelhas
-     99 literárias
      99 imaginar
      99 falar-lhe
      99 escritório
      99 encanto
-     99 compensação
      99 TRATA-SE
      99 Seda
      99 Professor
@@ -2479,6 +2478,7 @@
      99 1
      98 íntimo
      98 vício
+     98 literárias
      98 conveniente
      98 cerimônia
      98 carros
@@ -2496,7 +2496,7 @@
      98 2
      97 virá
      97 lê
-     97 dedicação
+     97 compensação
      97 cavalheiro
      97 camarote
      97 anedotas
@@ -2524,7 +2524,7 @@
      97 Anúncio
      97 Ambições
      96 árvores
-     96 títulos
+     96 situações
      96 saí
      96 sabor
      96 parlamento
@@ -2536,7 +2536,6 @@
      96 Provas
      96 Projetos
      96 Porquanto
-     96 Moços
      96 MURO
      96 Luto
      96 Lucinda
@@ -2549,10 +2548,12 @@
      96 BORDO
      96 20
      95 visitar
+     95 títulos
      95 perda
      95 movimentos
      95 mortal
      95 latim
+     95 dedicação
      95 baixinho
      95 alcance
      95 Voltei
@@ -2566,6 +2567,7 @@
      95 PERDIDA
      95 Necessidades
      95 Muda
+     95 Moços
      95 Misericórdia
      95 Magnífico
      95 Dans
@@ -2646,7 +2648,6 @@
      92 Trocar
      92 Tranqüilamente
      92 Tranqüila
-     92 Tragédia
      92 Suplício
      92 Seco
      92 SONETO
@@ -2676,11 +2677,9 @@
      91 confusão
      91 cabeças
      91 Tédio
+     91 Tragédia
      91 Tornou-se
-     91 Terão
-     91 Suicídio
      91 Príncipe
-     91 Prêmio
      91 Paraíso
      91 PRESENTES
      91 Obscuro
@@ -2703,7 +2702,6 @@
      90 ombro
      90 massa
      90 lembrava
-     90 irá
      90 evitar
      90 eleitoral
      90 cálculo
@@ -2716,8 +2714,11 @@
      90 alcançar
      90 Vender
      90 Trago
+     90 Terão
+     90 Suicídio
      90 Rompeu
      90 RESUMO
+     90 Prêmio
      90 PERSONAGEM
      90 Modelo
      90 MONTANHA
@@ -2734,9 +2735,9 @@
      90 Acabo
      90 Acabada
      90 5
-     89 àquela
      89 olhares
      89 membros
+     89 irá
      89 excesso
      89 escândalo
      89 classe
@@ -2758,12 +2759,12 @@
      89 Criada
      89 Claramente
      89 Abalo
+     88 àquela
      88 saído
      88 república
      88 preocupação
      88 paquete
      88 paletó
-     88 comércio
      88 composições
      88 brilhantes
      88 Vieira
@@ -2782,7 +2783,6 @@
      88 Caminhou
      88 Belezas
      88 Aproximou-se
-     88 Análise
      87 óculos
      87 árvore
      87 sucesso
@@ -2791,6 +2791,7 @@
      87 lições
      87 gostar
      87 fio
+     87 comércio
      87 VERBO
      87 VARANDA
      87 Trono
@@ -2809,12 +2810,12 @@
      87 Faces
      87 Debate
      87 Apaixonado
+     87 Análise
      87 Amaro
      87 7
      87 3
      86 És
      86 sombras
-     86 platéia
      86 mistura
      86 grau
      86 Vê
@@ -2826,6 +2827,7 @@
      86 Pondo
      86 Perpétua
      86 Perdi
+     86 Nós
      86 Moreira
      86 Lopes
      86 Lembro
@@ -2854,7 +2856,6 @@
      85 Torna
      85 Sinceramente
      85 SEGUINTES
-     85 Rápida
      85 Instituições
      85 Genoveva
      85 Eleições
@@ -2864,12 +2865,13 @@
      85 CHINA
      85 Adolfo
      84 “Não
+     84 platéia
      84 gozo
      84 frieza
      84 colegas
-     84 abraço
      84 Universo
      84 Súbito
+     84 Rápida
      84 População
      84 Pesar
      84 Negros
@@ -2890,16 +2892,15 @@
      83 dívida
      83 decreto
      83 aplauso
+     83 abraço
      83 Verdadeiros
      83 Trezentos
      83 Tibúrcio
      83 Tarefa
      83 SECRETA
-     83 Revelação
      83 Recebera
      83 Proferiu
      83 PLENO
-     83 Napoleão
      83 Imensa
      83 Falam
      83 Estudante
@@ -2916,6 +2917,7 @@
      82 Venceu
      82 Vejamos
      82 Titia
+     82 Revelação
      82 Refletir
      82 ROCHEDOS
      82 Queriam
@@ -2928,7 +2930,6 @@
      82 FEIA
      82 Evidentemente
      82 Estátua
-     82 Diário
      82 Cláudia
      82 Buraco
      81 verá
@@ -2947,16 +2948,15 @@
      81 Sombrio
      81 Sentença
      81 Sensações
+     81 Napoleão
      81 Mercês
      81 Laço
-     81 Independência
      81 Impaciência
      81 Havendo
      81 Grosso
      81 Grego
      81 EZEQUIEL
      81 Convencido
-     81 Ciúme
      81 CASTRO
      81 Beber
      80 fuga
@@ -2978,10 +2978,11 @@
      80 Providência
      80 Partiu
      80 Ossos
-     80 Operação
      80 Olhei
+     80 Lírico
      80 Juntas
      80 Inocente
+     80 Independência
      80 Gritos
      80 Fechado
      80 Fatalidade
@@ -2993,7 +2994,6 @@
      80 CAMPANHA
      80 Brisa
      80 Acreditava
-     79 violência
      79 verdadeiras
      79 santos
      79 reserva
@@ -3011,6 +3011,7 @@
      79 Planos
      79 Paróquia
      79 PERGUNTAS
+     79 Operação
      79 Obedeceu
      79 JULIETA
      79 Exceto
@@ -3022,6 +3023,7 @@
      79 Beatriz
      79 Bancos
      78 àquele
+     78 violência
      78 religiosa
      78 mister
      78 meias
@@ -3044,7 +3046,6 @@
      78 Exata
      78 Dados
      78 Cópia
-     78 Cristão
      78 Cheias
      78 Chapéus
      78 Bradou
@@ -3067,13 +3068,13 @@
      77 Lançar
      77 Inclinou-se
      77 Impaciente
-     77 Guimarães
      77 Fez-lhe
      77 Falaram
      77 Existia
      77 Estendeu
      77 Donzela
      77 Deu-me
+     77 Cristão
      77 Convidados
      77 Consentiu
      77 Colo
@@ -3088,7 +3089,6 @@
      76 essencial
      76 empregar
      76 copo
-     76 ameaça
      76 aborrecida
      76 Severo
      76 Padecer
@@ -3100,6 +3100,7 @@
      76 Luzes
      76 Luar
      76 JÚPITER
+     76 Guimarães
      76 Exigir
      76 Egoísmo
      76 Cortesia
@@ -3117,7 +3118,9 @@
      75 fidelidade
      75 exclusivamente
      75 desempenho
+     75 ciúme
      75 aspirações
+     75 ameaça
      75 Trato
      75 Solene
      75 Sexta-Feira
@@ -3160,7 +3163,6 @@
      74 Concerto
      74 Charutos
      74 Antunes
-     74 Animação
      74 Andaraí
      74 24
      73 íntimas
@@ -3169,7 +3171,6 @@
      73 indivíduo
      73 ficará
      73 escapar
-     73 cômico
      73 Voltando-se
      73 TINOCO
      73 Sozinho
@@ -3200,8 +3201,10 @@
      73 13
      73 12
      72 reconhecer
+     72 nï¿½o
      72 ignorância
      72 encontrado
+     72 cômico
      72 criados
      72 camisa
      72 bigode
@@ -3227,6 +3230,7 @@
      72 Contei
      72 CONVIVAS
      72 Biblioteca
+     72 Animação
      72 Acendeu
      72 AVENTURAS
      72 9
@@ -3251,7 +3255,6 @@
      71 Ruim
      71 Pérola
      71 Produzir
-     71 Português
      71 PRINCESA
      71 Nasce
      71 Mudo
@@ -3308,11 +3311,9 @@
      70 Protestos
      70 Paço
      70 Parece-lhe
-     70 Melancólico
      70 Lembrou-me
      70 Famoso
      70 Explicações
-     70 Episódios
      70 Ebenezer
      70 ESCAPOU
      70 Deixaram
@@ -3332,11 +3333,11 @@
      69 Suspiros
      69 Sessenta
      69 Serás
-     69 Ruínas
      69 Quinta-feira
      69 Questões
      69 Quaisquer
      69 QUERIDO
+     69 Português
      69 PROFETA
      69 PARASITA
      69 Milhões
@@ -3368,15 +3369,14 @@
      68 edifício
      68 documento
      68 capa
-     68 apreciação
      68 amarela
      68 afetos
-     68 adversários
      68 achasse
      68 Vergueiro
      68 Vejam
      68 Totalmente
      68 Sente-se
+     68 Ruínas
      68 Presidência
      68 Pega
      68 Lindo
@@ -3391,7 +3391,6 @@
      68 Cristã
      68 Comida
      68 Bolsa
-     68 Basílio
      68 Aviso
      68 Antero
      68 Admirável
@@ -3400,13 +3399,13 @@
      67 superioridade
      67 solitário
      67 pieuvre
+     67 melancólico
      67 louvor
      67 largas
      67 infortúnio
      67 extraordinária
      67 exige
      67 escadas
-     67 crítico
      67 cheios
      67 acanhamento
      67 Zelo
@@ -3440,6 +3439,7 @@
      67 Cidadãos
      67 Chorava
      67 CONFLITO
+     67 Basílio
      67 Acrescentar
      67 21
      66 sobra
@@ -3451,9 +3451,12 @@
      66 marinha
      66 lento
      66 exprime
+     66 episódios
      66 duvidar
      66 distinção
      66 caras
+     66 apreciação
+     66 adversários
      66 Vizinhos
      66 Tomo
      66 Sales
@@ -3474,7 +3477,6 @@
      66 Falamos
      66 Excelência
      66 Eternamente
-     66 Eloqüente
      66 Depende
      66 Coutinho
      66 Concurso
@@ -3503,6 +3505,7 @@
      65 eminente
      65 destruir
      65 cunhado
+     65 crítico
      65 credores
      65 correio
      65 candidatos
@@ -3518,7 +3521,6 @@
      65 Note-se
      65 Máxima
      65 Mentalmente
-     65 Melancólica
      65 Liberais
      65 Joaninha
      65 Invisível
@@ -3527,7 +3529,6 @@
      65 Entendi
      65 Dizes
      65 Diversa
-     65 Distração
      65 Céus
      65 Cumprimentos
      65 Comprou
@@ -3544,8 +3545,9 @@
      64 propriedade
      64 passageiro
      64 norte
-     64 lógica
+     64 lírico
      64 intelectual
+     64 eloqüente
      64 conveniência
      64 condenado
      64 acabasse
@@ -3564,12 +3566,12 @@
      64 Jantares
      64 Imagens
      64 Honrado
+     64 Distração
      64 Disposta
      64 Destinos
      64 Definição
      64 Dando-lhe
      64 Contrato
-     64 Compaixão
      64 Come
      64 CORREIO
      64 Buscava
@@ -3587,6 +3589,7 @@
      63 relevo
      63 passeios
      63 originalidade
+     63 lógica
      63 gêmeos
      63 férias
      63 frade
@@ -3640,10 +3643,10 @@
      63 Câmbio
      63 Criar
      63 Confessa
+     63 Compaixão
      63 CUBAS
      63 B
      63 Aposto
-     63 Afeições
      63 ADIVINHOU
      63 18
      62 vosso
@@ -3692,6 +3695,7 @@
      62 CAIXEIRO
      62 BARBAS
      62 Atravessou
+     62 Afeições
      61 voltasse
      61 vivamente
      61 testemunhas
@@ -3735,7 +3739,6 @@
      61 Lança
      61 JURAMENTO
      61 Gota
-     61 Glórias
      61 GALERIA
      61 Fizeste
      61 Ficavam
@@ -3762,7 +3765,7 @@
      60 observar
      60 objeção
      60 militar
-     60 estréia
+     60 melancólica
      60 estrofes
      60 espantada
      60 elevada
@@ -3771,7 +3774,6 @@
      60 confidência
      60 audácia
      60 admitir
-     60 Vínculo
      60 Vemos
      60 Usar
      60 Tirando
@@ -3794,6 +3796,7 @@
      60 Elisiário
      60 Elevado
      60 Duque
+     60 Diário
      60 Diverso
      60 Disposições
      60 Discreto
@@ -3811,13 +3814,13 @@
      59 passasse
      59 negativa
      59 morar
+     59 glórias
      59 fazê-la
      59 fadiga
      59 exercício
      59 estiver
      59 elogios
      59 deveres
-     59 descrição
      59 contrária
      59 cláusula
      59 alusão
@@ -3827,7 +3830,6 @@
      59 Treze
      59 Sociedades
      59 Seguiu-se
-     59 Prefácio
      59 Positivamente
      59 Ponte
      59 Parabéns
@@ -3841,7 +3843,6 @@
      59 Convento
      59 Contou-me
      59 Chegamos
-     59 Catástrofe
      59 CURSO
      59 Bronze
      59 Bacamarte
@@ -3863,6 +3864,7 @@
      58 estará
      58 espectadores
      58 desenho
+     58 descrição
      58 delito
      58 conceito
      58 companheira
@@ -3871,6 +3873,7 @@
      58 assinatura
      58 administração
      58 acordar
+     58 Vínculo
      58 Tribunal
      58 Solteira
      58 Quitanda
@@ -3891,6 +3894,7 @@
      58 Diretor
      58 Declarar
      58 Contou-lhe
+     58 Catástrofe
      58 Calados
      58 Caindo
      58 Boatos
@@ -3912,7 +3916,6 @@
      57 insistência
      57 estrangeiro
      57 derradeiro
-     57 delícias
      57 cortinas
      57 contentamento
      57 casco
@@ -3926,8 +3929,8 @@
      57 TRATADO
      57 Sábio
      57 Secretário
-     57 Resignação
      57 Quintanilha
+     57 Prefácio
      57 Poderiam
      57 Parava
      57 Obscura
@@ -3973,9 +3976,10 @@
      56 golpes
      56 fê-la
      56 fidalgo
+     56 estréia
      56 esqueleto
      56 doçura
-     56 desconfiança
+     56 delícias
      56 cortar
      56 consórcio
      56 comédias
@@ -3990,6 +3994,7 @@
      56 Sagrado
      56 Restos
      56 Resoluto
+     56 Resignação
      56 Rapé
      56 Promete
      56 Planta
@@ -3997,7 +4002,6 @@
      56 Negociante
      56 LA
      56 Jogar
-     56 Ingênua
      56 Ia-se
      56 Fáceis
      56 Esperei
@@ -4029,8 +4033,6 @@
      55 pistola
      55 peixe
      55 morrido
-     55 manifestação
-     55 lícito
      55 gravemente
      55 foro
      55 ferida
@@ -4055,7 +4057,7 @@
      55 MENDES
      55 Irmãs
      55 Iniciativa
-     55 Hábil
+     55 Ingênua
      55 Guerreiro
      55 Gozar
      55 Fitou
@@ -4073,12 +4075,10 @@
      55 Carlinhos
      55 Brás
      55 Bonds
-     55 Anúncios
      55 Americano
      55 Acudir
      55 1863
      55 17
-     54 vê-se
      54 viúvo
      54 vidro
      54 vertigem
@@ -4087,19 +4087,19 @@
      54 sinceros
      54 satisfazer
      54 responsabilidade
-     54 pó
      54 publicar
      54 possam
      54 penetrar
      54 ocupa
      54 neve
+     54 manifestação
+     54 lícito
      54 furor
      54 esperasse
      54 daquilo
      54 crimes
      54 canapé
      54 aparências
-     54 adoração
      54 Variedade
      54 Tocou
      54 Terno
@@ -4109,7 +4109,6 @@
      54 SOUSA
      54 Recolheu-se
      54 Pássaro
-     54 Prudência
      54 Preferiu
      54 Pimentel
      54 Palma
@@ -4123,9 +4122,11 @@
      54 Leste
      54 LINDOS
      54 Inquieta
+     54 Hábil
      54 Houvera
      54 Gás
      54 Grossas
+     54 Graça
      54 Generoso
      54 Friamente
      54 Foi-se
@@ -4142,6 +4143,7 @@
      54 Ditos
      54 Dita
      54 Digo-lhe
+     54 Crítica
      54 Cria
      54 Correspondência
      54 Convivência
@@ -4152,14 +4154,14 @@
      54 Buenos
      54 Bernardo
      54 Ave
-     54 Aliança
+     53 vê-se
      53 regras
+     53 pó
      53 posteridade
      53 possibilidade
      53 parenta
      53 ordinário
      53 ordenado
-     53 monólogo
      53 laços
      53 inspirar
      53 habitual
@@ -4168,10 +4170,13 @@
      53 empréstimo
      53 elevação
      53 dificuldades
+     53 desconfiança
      53 cozinha
      53 calçada
      53 aves
+     53 anúncios
      53 amasse
+     53 adoração
      53 Verei
      53 Tão-somente
      53 Tristezas
@@ -4183,10 +4188,10 @@
      53 Secretaria
      53 Saí
      53 SEGE
-     53 Repartição
      53 ROMEU
      53 RECONHECIMENTO
      53 Quieto
+     53 Prudência
      53 Pretos
      53 Preguiça
      53 Postos
@@ -4201,7 +4206,6 @@
      53 Itaguaí
      53 Ironia
      53 Indagar
-     53 Escrúpulo
      53 Entanto
      53 Encostado
      53 Eleito
@@ -4213,25 +4217,24 @@
      53 Corridas
      53 Corriam
      53 Coluna
-     53 Capítulos
      53 Calmo
      53 Briga
      53 Bastou
      53 Ausente
      53 Aniversário
      53 Andavam
+     53 Aliança
      53 Acabaram
+     53 1866
      52 violento
      52 terem
      52 segura
      52 sacristia
      52 respirar
-     52 repetição
      52 remota
-     52 proteção
      52 poltrona
      52 parecesse
-     52 necessários
+     52 monólogo
      52 mestres
      52 mandado
      52 lembrar-se
@@ -4249,7 +4252,6 @@
      52 clarão
      52 arrependimento
      52 Vestir
-     52 Traços
      52 Supôs
      52 Subindo
      52 Soluços
@@ -4259,6 +4261,7 @@
      52 Sabiam
      52 Riu
      52 Respeitável
+     52 Repartição
      52 Puras
      52 Pretende
      52 Prazeres
@@ -4280,6 +4283,7 @@
      52 Cálculos
      52 Concepção
      52 Cheiro
+     52 Capítulos
      52 Brincar
      52 Bentinho
      52 Ayres
@@ -4287,16 +4291,17 @@
      52 Adoeceu
      52 Acreditou
      52 AJUDA
-     52 1866
      52 'A
      51 vê-los
      51 tardes
      51 soltas
      51 semelhantes
-     51 produção
+     51 repetição
+     51 proteção
      51 produzido
      51 prendas
      51 orçamento
+     51 necessários
      51 nacionais
      51 mortais
      51 metia
@@ -4326,6 +4331,7 @@
      51 Viva
      51 Visconde
      51 Vexado
+     51 Traços
      51 Tornei
      51 Serviu
      51 Pudera
@@ -4336,11 +4342,9 @@
      51 Pareça
      51 Pares
      51 PASSADAS
-     51 Nações
      51 Mortas
      51 Marcos
      51 Magnífica
-     51 Lírica
      51 Lojas
      51 Lindas
      51 Jucunda
@@ -4349,7 +4353,6 @@
      51 Furtado
      51 Expor
      51 Exigia
-     51 Esplêndida
      51 Escrevera
      51 Emenda
      51 ENCONTRA
@@ -4369,19 +4372,17 @@
      51 BASTOS
      51 Angústia
      51 Ame
-     51 Alfândega
      51 Adivinha
      51 Abatida
      51 ART
      50 “Que
      50 vestuário
      50 urgente
-     50 traço
      50 testemunha
-     50 sérios
      50 singularmente
      50 ridícula
      50 respostas
+     50 produção
      50 produto
      50 prestar
      50 pago
@@ -4394,6 +4395,7 @@
      50 generosidade
      50 freguês
      50 estabelecimento
+     50 escrúpulo
      50 encheu
      50 dose
      50 distraído
@@ -4420,6 +4422,7 @@
      50 Mata-Cavalos
      50 Mando
      50 MONSTRO
+     50 Lírica
      50 Lembra-se
      50 Inquieto
      50 Injúria
@@ -4433,7 +4436,6 @@
      50 Diz-se
      50 Desculpe
      50 Crescia
-     50 Crença
      50 Contradição
      50 Continuei
      50 Caprichos
@@ -4444,6 +4446,7 @@
      50 Atirou
      50 Apresentar
      50 Aparecem
+     50 Alfândega
      50 Agradeceu
      50 Adjetivo
      50 Achamos
@@ -4451,10 +4454,10 @@
      50 ALMADA
      49 veneração
      49 tê-lo
+     49 traço
      49 regiões
      49 prático
      49 portador
-     49 legítimo
      49 indiferentes
      49 fios
      49 espuma
@@ -4489,6 +4492,7 @@
      49 Prefere
      49 Pertencia
      49 Pagou
+     49 Nações
      49 Meninas
      49 Martim
      49 Maquinalmente
@@ -4510,10 +4514,12 @@
      49 Extinta
      49 Eternas
      49 Esquisito
+     49 Esplêndida
      49 Escrevente
      49 Descanse
      49 Definitivo
      49 Dadas
+     49 Crença
      49 Comeu
      49 Classes
      49 BEATRIZ
@@ -4530,7 +4536,6 @@
      48 revelou
      48 reter
      48 pérolas
-     48 pára
      48 pesado
      48 obriga
      48 natal
@@ -4545,7 +4550,6 @@
      48 científica
      48 aroma
      48 aprovou
-     48 ancião
      48 agradecimento
      48 agente
      48 afabilidade
@@ -4565,7 +4569,6 @@
      48 Saco
      48 Sabe-se
      48 Resolver
-     48 Razoável
      48 Prende
      48 Pedindo-lhe
      48 Negreiros
@@ -4603,19 +4606,20 @@
      48 Aceitava
      48 AQUILES
      48 AMOR
-     47 ânsia
      47 ÍNDICE
      47 vaso
+     47 sérios
      47 suficiente
      47 quintal
+     47 pára
      47 pensado
      47 pancadas
      47 município
      47 moléstias
      47 ligeira
+     47 legítimo
      47 lar
      47 l'on
-     47 inventário
      47 humanos
      47 freqüentes
      47 entranhas
@@ -4627,6 +4631,7 @@
      47 clero
      47 beiços
      47 aposento
+     47 ancião
      47 acrescentando
      47 Votar
      47 Vinda
@@ -4642,6 +4647,7 @@
      47 Riam
      47 Resulta
      47 Recreio
+     47 Razoável
      47 Rangel
      47 Quiseram
      47 Quimeras
@@ -4668,7 +4674,6 @@
      47 EVARISTO
      47 Dirão
      47 Deusa
-     47 Desgraçado
      47 Declara
      47 Corpos
      47 Chamada
@@ -4678,14 +4683,15 @@
      47 Atribuir
      47 Atado
      47 Assustado
+     47 Após
      47 Anônima
      47 Ana
      47 Adriano
      47 AHASVERUS
      47 ACORDADO
      47 1878
+     46 ânsia
      46 viuvez
-     46 transformação
      46 tostões
      46 soberano
      46 resultados
@@ -4698,6 +4704,7 @@
      46 mental
      46 joelho
      46 irem
+     46 inventário
      46 galinha
      46 familiares
      46 entrasse
@@ -4712,7 +4719,6 @@
      46 atender
      46 arrancou
      46 aparecesse
-     46 Vê-se
      46 Vossos
      46 Vagamente
      46 Trechos
@@ -4722,6 +4728,7 @@
      46 Referir
      46 Rato
      46 QUINTO
+     46 Público
      46 Provincial
      46 Preparou-se
      46 Preferência
@@ -4741,7 +4748,6 @@
      46 Hamlet
      46 Globo
      46 Finanças
-     46 Filósofos
      46 Falcão
      46 Eça
      46 Escala
@@ -4773,6 +4779,7 @@
      45 ímpeto
      45 álbum
      45 ver-me
+     45 transformação
      45 suíças
      45 seriedade
      45 rapto
@@ -4799,6 +4806,7 @@
      45 apreço
      45 amorosas
      45 acanhado
+     45 Vê-se
      45 VIAJANTE
      45 Tenente-coronel
      45 Sertão
@@ -4835,7 +4843,6 @@
      45 Derrota
      45 Debalde
      45 DOLLAR
-     45 Crônicas
      45 Cresce
      45 Conte
      45 Comparar
@@ -4866,6 +4873,7 @@
      44 mencionar
      44 interrompido
      44 interrogação
+     44 filósofos
      44 faltou
      44 escondidas
      44 dupla
@@ -4956,7 +4964,6 @@
      43 pesada
      43 pedi-la
      43 orações
-     43 ocupação
      43 números
      43 margem
      43 louvores
@@ -4999,10 +5006,8 @@
      43 Ingratidão
      43 Impostos
      43 Ilhas
-     43 Heroína
      43 Gastava
      43 Ganha
-     43 Física
      43 Fechando
      43 Eusébia
      43 Entrega
@@ -5037,6 +5042,7 @@
      42 perfume
      42 perderam
      42 orquestra
+     42 ocupação
      42 nutria
      42 novela
      42 nervos
@@ -5090,9 +5096,9 @@
      42 Interiormente
      42 Indicar
      42 História
-     42 Gerações
      42 Gasto
      42 Galante
+     42 Física
      42 Ferrari
      42 Estradas
      42 Estivessem
@@ -5185,11 +5191,9 @@
      41 Pedia-lhe
      41 Passeava
      41 Pasmado
-     41 Pajé
      41 Noutra
      41 Ne
      41 Nasci
-     41 Mobília
      41 Milagres
      41 Matos
      41 Lua-de-mel
@@ -5201,6 +5205,7 @@
      41 Imaginem
      41 Ignoro
      41 Humanitas
+     41 Gerações
      41 Galerias
      41 Fugia
      41 Floresta
@@ -5236,7 +5241,6 @@
      41 ANUNCIA
      41 29
      41 27
-     40 ódios
      40 íamos
      40 vocações
      40 vestir-se
@@ -5248,7 +5252,6 @@
      40 restituir
      40 quadra
      40 proceder
-     40 pretensão
      40 pianista
      40 perfídia
      40 parlamentares
@@ -5260,7 +5263,7 @@
      40 legado
      40 inventado
      40 incerto
-     40 histórica
+     40 heroína
      40 generosa
      40 gargalhada
      40 fábula
@@ -5273,6 +5276,7 @@
      40 encontrava
      40 d’água
      40 dramáticos
+     40 desgraçado
      40 der
      40 defunta
      40 decano
@@ -5351,6 +5355,7 @@
      40 Agulha
      40 Acabara
      40 1855
+     39 ódios
      39 vagarosamente
      39 tratasse
      39 tarda
@@ -5364,6 +5369,7 @@
      39 recepção
      39 pudessem
      39 proferir
+     39 pretensão
      39 polidez
      39 passeando
      39 osso
@@ -5371,10 +5377,9 @@
      39 moedas
      39 mel
      39 maço
-     39 martírio
-     39 júbilo
      39 indivíduos
      39 houvessem
+     39 histórica
      39 hipocrisia
      39 havido
      39 fraude
@@ -5387,7 +5392,6 @@
      39 cedendo
      39 cauda
      39 casasse
-     39 carícias
      39 carinho
      39 careta
      39 cabos
@@ -5420,10 +5424,11 @@
      39 Perdoe
      39 Perdendo
      39 Perante
-     39 Oxalá
+     39 Pajé
      39 Obteve
      39 Nasceram
      39 Mucama
+     39 Mobília
      39 Mercúrio
      39 MORALIDADE
      39 LATA
@@ -5468,9 +5473,11 @@
      38 nobres
      38 nascente
      38 morrendo
+     38 martírio
      38 locais
      38 leão
      38 lama
+     38 júbilo
      38 interlocutor
      38 intensidade
      38 insuportável
@@ -5488,14 +5495,13 @@
      38 deixavam
      38 culpado
      38 convencer
-     38 contemporâneos
      38 compreendido
      38 celebrar
+     38 carícias
      38 canção
      38 candidatura
      38 aproveitar
      38 afirmativa
-     38 admiráveis
      38 achar-se
      38 Vestígios
      38 Valha
@@ -5509,7 +5515,6 @@
      38 Serafina
      38 Rijo
      38 Ribeiro
-     38 Revelações
      38 Respeitoso
      38 Refúgio
      38 Recorreu
@@ -5526,7 +5531,6 @@
      38 ORIGINAIS
      38 Ninho
      38 Negras
-     38 Mãe
      38 Mortes
      38 Monsenhor
      38 Modelos
@@ -5562,7 +5566,6 @@
      38 Deitado
      38 Declarando
      38 Crepúsculo
-     38 Conversações
      38 Conservava
      38 Conhecera
      38 Comunicou
@@ -5578,7 +5581,6 @@
      38 CRESCENDO
      38 CASINHA
      38 BRINDE
-     38 Açúcar
      38 Atenas
      38 Apontando
      38 Agradeço
@@ -5616,13 +5618,13 @@
      37 fada
      37 exemplares
      37 exceções
-     37 exageração
      37 efusão
      37 doutrinas
      37 diamantes
      37 diamante
      37 d'O
-     37 combinação
+     37 crônicas
+     37 contemporâneos
      37 casca
      37 burlesco
      37 bem-aventurança
@@ -5632,6 +5634,7 @@
      37 arranjo
      37 aposta
      37 amá-lo
+     37 admiráveis
      37 acrescentava
      37 acesso
      37 XVI
@@ -5652,6 +5655,7 @@
      37 SECRETAS
      37 SARAU
      37 SANCHA
+     37 Revelações
      37 Representava
      37 Reinado
      37 Refletia
@@ -5703,6 +5707,7 @@
      37 Câmaras
      37 Crispim
      37 Credo
+     37 Conversações
      37 Contemplou
      37 Conceição
      37 Compra
@@ -5715,6 +5720,7 @@
      37 CURVA
      37 Batismo
      37 Barriga
+     37 Açúcar
      37 Atônito
      37 Assassino
      37 Ardia
@@ -5723,10 +5729,8 @@
      37 Acabe
      37 AVE-MARIAS
      37 1877
-     36 ânimos
      36 vocábulo
      36 to
-     36 súplica
      36 sótão
      36 sossego
      36 sorrisos
@@ -5746,13 +5750,12 @@
      36 interessa
      36 inconveniente
      36 imaginações
-     36 histórico
      36 guernesiano
      36 guarda-livros
      36 fumar
      36 fixo
+     36 exageração
      36 escuridão
-     36 escravidão
      36 enfado
      36 devera
      36 destinada
@@ -5764,6 +5767,7 @@
      36 conheciam
      36 congresso
      36 comerciante
+     36 combinação
      36 caíam
      36 causava
      36 cata
@@ -5803,7 +5807,6 @@
      36 Peitos
      36 Pedem
      36 PAZES
-     36 Oráculo
      36 On
      36 Nóbrega
      36 Notei
@@ -5852,6 +5855,7 @@
      36 AGITADA
      36 1861
      35 órgão
+     35 ânimos
      35 “Meu
      35 verás
      35 trágico
@@ -5861,6 +5865,7 @@
      35 tiros
      35 tenor
      35 teima
+     35 súplica
      35 sutil
      35 soltar
      35 sobremesa
@@ -5876,13 +5881,11 @@
      35 parceiro
      35 obediência
      35 mole
-     35 meditação
      35 meditar
      35 manso
      35 licor
      35 julgava
      35 irritação
-     35 impõe
      35 importava
      35 idílio
      35 galinhas
@@ -5941,8 +5944,8 @@
      35 Parecido
      35 Padeceu
      35 Ouso
+     35 Oráculo
      35 OTELO
-     35 Notáveis
      35 Nomeado
      35 Moralmente
      35 Modestamente
@@ -6006,7 +6009,6 @@
      34 voltado
      34 violentamente
      34 trovão
-     34 tradições
      34 tomam
      34 tenacidade
      34 singela
@@ -6029,7 +6031,7 @@
      34 ouvintes
      34 organismo
      34 morresse
-     34 misérias
+     34 meditação
      34 mangas
      34 lápis
      34 literalmente
@@ -6037,9 +6039,11 @@
      34 infinidade
      34 infalível
      34 incrível
+     34 impõe
      34 gozos
      34 fôlego
      34 esquecia
+     34 escravidão
      34 dêem
      34 dá-me
      34 dramáticas
@@ -6061,7 +6065,6 @@
      34 calcular
      34 atribuía
      34 aprovação
-     34 aparição
      34 aldeia
      34 afável
      34 abundância
@@ -6100,13 +6103,14 @@
      34 Padre-mestre
      34 Ofegante
      34 Obrigações
+     34 Notáveis
+     34 Mãe
      34 MORTE
      34 MONTEIRO
      34 MIGUEL
      34 MARECHAL
      34 Levantado
      34 Jafé
-     34 Invencível
      34 Intendência
      34 Imperatriz
      34 Grossos
@@ -6150,7 +6154,6 @@
      33 vulgaridade
      33 vossas
      33 volumes
-     33 vocabulário
      33 vidas
      33 turbilhão
      33 sólida
@@ -6161,7 +6164,6 @@
      33 romântico
      33 rivais
      33 restantes
-     33 realização
      33 raparigas
      33 ramo
      33 quiserem
@@ -6179,6 +6181,7 @@
      33 nomeação
      33 navegação
      33 mínimo
+     33 misérias
      33 menção
      33 material
      33 manifestou
@@ -6199,7 +6202,6 @@
      33 dispor
      33 desânimo
      33 deitando
-     33 cômica
      33 cozinheiro
      33 convalescença
      33 cobiça
@@ -6210,6 +6212,7 @@
      33 aumentar
      33 atrevido
      33 apressadamente
+     33 aparição
      33 animava
      33 adequada
      33 aceitação
@@ -6242,6 +6245,7 @@
      33 Jurava
      33 Joaquina
      33 Jardineiro
+     33 Invencível
      33 Indica
      33 Imediata
      33 Hesitar
@@ -6290,16 +6294,17 @@
      33 Altamente
      33 Agostinho
      32 óperas
-     32 Índia
+     32 vocabulário
      32 vivido
      32 violoncelo
+     32 tradições
      32 temor
      32 símbolo
      32 superstição
      32 sofrimento
      32 soberania
-     32 seção
      32 ruidosa
+     32 realização
      32 ratos
      32 pulo
      32 proprietário
@@ -6326,6 +6331,7 @@
      32 indício
      32 individualidade
      32 indigno
+     32 histórico
      32 graciosas
      32 garrafa
      32 frescura
@@ -6340,8 +6346,8 @@
      32 destroços
      32 desordem
      32 descrever
-     32 desagradável
      32 deixaria
+     32 cômica
      32 confusa
      32 confirmação
      32 condenação
@@ -6398,7 +6404,6 @@
      32 Ofensa
      32 Ocorreu
      32 Mísero
-     32 Máximas
      32 Mostrava-se
      32 Mete
      32 Matriz
@@ -6452,6 +6457,7 @@
      32 'O
      32 'Não
      31 óleo
+     31 Índia
      31 versão
      31 trem
      31 tiram
@@ -6472,7 +6478,6 @@
      31 placidez
      31 parada
      31 padrinhos
-     31 mínima
      31 murmúrio
      31 modernos
      31 manto
@@ -6494,8 +6499,8 @@
      31 enérgico
      31 dá-lhe
      31 dissolução
-     31 dimensões
      31 desaparecido
+     31 desagradável
      31 dar-te
      31 convida
      31 continuando
@@ -6590,7 +6595,6 @@
      31 Combates
      31 Cito
      31 Chico
-     31 Ceará
      31 Buracos
      31 Bois
      31 Barata
@@ -6613,10 +6617,10 @@
      30 tentativas
      30 supressão
      30 sopa
+     30 seção
      30 salvou
      30 saleta
      30 relatório
-     30 recíproca
      30 recompensa
      30 quebra-mar
      30 preconceito
@@ -6635,6 +6639,7 @@
      30 ocupações
      30 núpcias
      30 notado
+     30 mínima
      30 monta
      30 mocinha
      30 ministerial
@@ -6657,6 +6662,7 @@
      30 eficaz
      30 divisão
      30 dinheiros
+     30 dimensões
      30 deva
      30 desvairado
      30 denominação
@@ -6675,7 +6681,6 @@
      30 chamá-lo
      30 casar-se
      30 carrasco
-     30 característico
      30 breves
      30 borboletas
      30 aversão
@@ -6715,6 +6720,7 @@
      30 Normal
      30 Norma
      30 NATAL
+     30 Máximas
      30 Mon
      30 MORADOR
      30 Lume
@@ -6722,7 +6728,6 @@
      30 Levou-o
      30 Jacinta
      30 JORNADA
-     30 Inspirações
      30 Incrédulo
      30 Goza
      30 Gouveia
@@ -6780,6 +6785,7 @@
      29 ricos
      29 reúne
      29 repulsa
+     29 recíproca
      29 rebelde
      29 quererá
      29 presta
@@ -6839,6 +6845,7 @@
      29 condutor
      29 choque
      29 chamavam
+     29 característico
      29 cabeceira
      29 atordoado
      29 atendeu
@@ -6872,6 +6879,7 @@
      29 Prometi
      29 Pontual
      29 Passemos
+     29 Oxalá
      29 Organizar
      29 Olimpo
      29 Obscuros
@@ -7019,7 +7027,6 @@
      28 aventurou
      28 atrevia
      28 astúcia
-     28 aptidão
      28 aprendiz
      28 aplicar
      28 apagou
@@ -7081,6 +7088,7 @@
      28 Laborioso
      28 Jogos
      28 Jogava
+     28 Inspirações
      28 Ingênuo
      28 Infante
      28 Hope
@@ -7116,6 +7124,7 @@
      28 Civil
      28 Chumbo
      28 Chicote
+     28 Ceará
      28 Casaria
      28 Califa
      28 Cabeleira
@@ -7204,7 +7213,6 @@
      27 durar
      27 domésticas
      27 divulgação
-     27 diplomática
      27 devagarinho
      27 desejado
      27 demonstrações
@@ -7219,6 +7227,7 @@
      27 casual
      27 calafrio
      27 arriscado
+     27 aptidão
      27 anarquia
      27 aluguéis
      27 afiançar
@@ -7400,7 +7409,6 @@
      26 farão
      26 fantástico
      26 falte
-     26 exílio
      26 extraordinários
      26 exclamei
      26 exclamações
@@ -7415,6 +7423,7 @@
      26 dobrar
      26 divinos
      26 discretamente
+     26 diplomática
      26 devedor
      26 detestável
      26 dessem
@@ -7496,7 +7505,6 @@
      26 NOIVADO
      26 Mustre
      26 Mordia
-     26 Mercê
      26 Marocas
      26 Mano
      26 MEIO-TERMO
@@ -7510,7 +7518,6 @@
      26 Justos
      26 Ir-se
      26 Invisíveis
-     26 Invasão
      26 Insensivelmente
      26 Igualdade
      26 Hesitei
@@ -7520,7 +7527,6 @@
      26 Garrett
      26 Ganhava
      26 Fragmentos
-     26 Forçado
      26 Fernandinha
      26 Felicidades
      26 Fatais
@@ -7661,7 +7667,6 @@
      25 cuidadosamente
      25 cruzados
      25 crueldade
-     25 criações
      25 corresponde
      25 corar
      25 convênio
@@ -7741,6 +7746,7 @@
      25 Murmurar
      25 Moreirinha
      25 Mirando
+     25 Mercê
      25 Memorial
      25 Medroso
      25 MENINICE
@@ -7780,7 +7786,6 @@
      25 Diretores
      25 Deveria
      25 Deve-se
-     25 Desgraçada
      25 Democracia
      25 Deixava-se
      25 Correspondia
@@ -7849,7 +7854,6 @@
      24 pressão
      24 pregador
      24 predição
-     24 poéticos
      24 polcas
      24 podido
      24 poderoso
@@ -7890,7 +7894,6 @@
      24 fantástica
      24 espontâneo
      24 esperá-lo
-     24 erudição
      24 entendimento
      24 emoções
      24 dócil
@@ -7933,7 +7936,6 @@
      24 acudiram
      24 aborrece
      24 abalado
-     24 Voluntário
      24 Vivemos
      24 Visitou
      24 Vende
@@ -7988,6 +7990,7 @@
      24 Kalaphangko
      24 Irritada
      24 Involuntariamente
+     24 Invasão
      24 Idiota
      24 Identidade
      24 Guarani
@@ -7997,13 +8000,13 @@
      24 Gabriel
      24 Fênix
      24 Frívolo
+     24 Forçado
      24 Fluminenses
      24 Fiscal
      24 Feminino
      24 FOTOGRAFIA
      24 Explico
      24 Estúpido
-     24 Espádua
      24 Entenderam
      24 Encomenda
      24 Embaixador
@@ -8015,6 +8018,7 @@
      24 Devota
      24 Devida
      24 Deu-nos
+     24 Desgraçada
      24 Dentre
      24 Deitar-se
      24 Crês
@@ -8052,7 +8056,6 @@
      23 únicas
      23 órfã
      23 ângulo
-     23 vírgula
      23 vivaz
      23 vissem
      23 viela
@@ -8080,6 +8083,7 @@
      23 prendeu
      23 preconceitos
      23 praticou
+     23 poéticos
      23 pincel
      23 paterno
      23 passará
@@ -8109,8 +8113,6 @@
      23 intuição
      23 intruso
      23 inteligências
-     23 infortúnios
-     23 indígena
      23 incomodada
      23 iludir
      23 hipóteses
@@ -8125,12 +8127,14 @@
      23 fidalgos
      23 festim
      23 faltasse
+     23 exílio
      23 explicará
      23 expediente
      23 esqueças
      23 espreita
      23 espontaneidade
      23 espiar
+     23 erudição
      23 engraçada
      23 empregos
      23 diária
@@ -8184,6 +8188,7 @@
      23 Zanga
      23 ZALUAR
      23 Volveu
+     23 Voluntário
      23 Viam-se
      23 Verás
      23 Vai-se
@@ -8273,6 +8278,7 @@
      23 Fatigado
      23 Experimentar
      23 Estavas
+     23 Espádua
      23 Escusado
      23 Enseada
      23 Encarregado
@@ -8305,7 +8311,6 @@
      23 Cita
      23 Chegados
      23 Carregar
-     23 Capitólio
      23 Cantora
      23 Calvário
      23 CLA
@@ -8332,6 +8337,7 @@
      22 âncora
      22 ÓPERA
      22      
+     22 vírgula
      22 vultos
      22 vitórias
      22 viajantes
@@ -8344,7 +8350,6 @@
      22 temperatura
      22 tapamento
      22 súplicas
-     22 sucessão
      22 submissão
      22 semente
      22 seiscentos
@@ -8401,6 +8406,7 @@
      22 insinuação
      22 insignificante
      22 inicial
+     22 infortúnios
      22 industrial
      22 incógnito
      22 idêntica
@@ -8419,7 +8425,6 @@
      22 fabricante
      22 exigência
      22 exausta
-     22 estímulo
      22 estendido
      22 estariam
      22 estarem
@@ -8443,13 +8448,13 @@
      22 delícia
      22 cópias
      22 culpada
+     22 criações
      22 cotovelos
      22 continente
      22 constituem
      22 constantemente
      22 conciliação
      22 conceitos
-     22 compõem
      22 complicado
      22 chamar-se
      22 centenário
@@ -8590,6 +8595,7 @@
      22 Casá-la
      22 Castelos
      22 Casara
+     22 Capitólio
      22 Canudos
      22 Caetaninha
      22 CRÔNICA
@@ -8636,6 +8642,7 @@
      21 tanque
      21 sílabas
      21 sumo
+     21 sucessão
      21 subdelegado
      21 soltava
      21 soberana
@@ -8742,6 +8749,7 @@
      21 critério
      21 contesto
      21 conhecê-lo
+     21 compõem
      21 complacência
      21 cisne
      21 cicerone
@@ -8833,7 +8841,6 @@
      21 MATILDE
      21 Lívido
      21 Locução
-     21 Literária
      21 Levantada
      21 Legislador
      21 Leandrinho
@@ -8936,7 +8943,6 @@
      20 venturoso
      20 venturas
      20 valsas
-     20 usurário
      20 tremor
      20 transportar
      20 transe
@@ -9024,6 +9030,7 @@
      20 expedição
      20 exclamaram
      20 ex-ministro
+     20 estímulo
      20 estrondo
      20 estrangeiras
      20 estio
@@ -9039,7 +9046,6 @@
      20 eletricidade
      20 edital
      20 donzelas
-     20 domésticos
      20 dobras
      20 dividida
      20 diversões
@@ -9057,7 +9063,6 @@
      20 darem
      20 dançou
      20 cóleras
-     20 círculos
      20 curiosas
      20 cumprimentar
      20 cumplicidade
@@ -9108,7 +9113,6 @@
      20 Viola
      20 Verdi
      20 Vencia
-     20 Tupã
      20 Trajava
      20 Timidamente
      20 Teimoso
@@ -9161,6 +9165,7 @@
      20 Madureira
      20 Luzia
      20 Louro
+     20 Literária
      20 Levantava-se
      20 Lancei
      20 LUDOVINA
@@ -9255,13 +9260,10 @@
      20 Aconselho
      20 Abençoado
      20 AJUSTE
-     19 órfão
      19 “Uma
      19 “Mas
-     19 voltará
      19 vigilância
      19 veículos
-     19 variações
      19 vagaroso
      19 vacilante
      19 trote
@@ -9361,7 +9363,6 @@
      19 expressivo
      19 explicam
      19 expectativa
-     19 existências
      19 evocação
      19 estudantes
      19 esquadra
@@ -9378,6 +9379,8 @@
      19 emboscada
      19 educar
      19 dá-la
+     19 domésticos
+     19 diário
      19 dissessem
      19 devorar
      19 devidas
@@ -9391,6 +9394,7 @@
      19 delicados
      19 dedicada
      19 cócegas
+     19 círculos
      19 cumprido
      19 criminosos
      19 criadas
@@ -9435,7 +9439,6 @@
      19 afinco
      19 adornos
      19 abraçá-lo
-     19 abnegação
      19 abismos
      19 abas
      19 abalou
@@ -9447,6 +9450,7 @@
      19 Voluntária
      19 Voluntariamente
      19 Vasco
+     19 Tupã
      19 Trovador
      19 Tribunais
      19 Trazê-lo
@@ -9594,16 +9598,18 @@
      19 1892
      19 1873
      19 1869
-     18 ínfimo
+     18 órfão
      18 índios
      18 ângulos
      18 ÚNICO
      18 Ásia
      18 “Eu
      18 volubilidade
+     18 voltará
      18 vocábulos
      18 vistos
      18 vestes
+     18 variações
      18 uniforme
      18 tê-las
      18 tribos
@@ -9662,7 +9668,6 @@
      18 perdê-la
      18 percorrer
      18 paisagem
-     18 padrão
      18 ousado
      18 ocupou
      18 náufrago
@@ -9686,7 +9691,6 @@
      18 maduro
      18 lês
      18 linho
-     18 ligação
      18 libelo
      18 levar-me
      18 levados
@@ -9729,6 +9733,7 @@
      18 exteriores
      18 explicar-se
      18 expansões
+     18 existências
      18 exigiu
      18 exerce
      18 essenciais
@@ -9768,7 +9773,6 @@
      18 conformidade
      18 complexo
      18 complacente
-     18 comparações
      18 cofre
      18 chafariz
      18 carpinteiro
@@ -9806,6 +9810,7 @@
      18 acabrunhado
      18 abri-la
      18 aborrecidas
+     18 abnegação
      18 abala
      18 XERXES
      18 Wells
@@ -9903,6 +9908,7 @@
      18 Folgo
      18 Fi-lo
      18 Fechamento
+     18 Faço
      18 Fazenda
      18 Falei-lhe
      18 Fabiana
@@ -9969,6 +9975,7 @@
      18 40
      18 1906
      18 1874
+     17 ínfimo
      17 âncoras
      17 Ângelo
      17 “Por
@@ -9979,6 +9986,7 @@
      17 vi-a
      17 vendem
      17 vazias
+     17 usurário
      17 túnica
      17 transcrição
      17 tranqüilos
@@ -10040,6 +10048,7 @@
      17 paroquial
      17 parecera
      17 param
+     17 padrão
      17 pachorra
      17 opinou
      17 observado
@@ -10059,11 +10068,13 @@
      17 límpido
      17 lutando
      17 locuções
+     17 ligação
      17 licenciado
      17 laboratório
      17 interrogatório
      17 instância
      17 inimiga
+     17 indígena
      17 individual
      17 incertezas
      17 impressionou
@@ -10147,6 +10158,7 @@
      17 compreenderá
      17 compositor
      17 comparável
+     17 comparações
      17 coligir
      17 cofres
      17 clavinoteiros
@@ -10276,7 +10288,6 @@
      17 MATERNIDADE
      17 Limpa
      17 Ligeiros
-     17 Juízos
      17 Juram
      17 Judeus
      17 Jesuítas
@@ -10528,6 +10539,7 @@
      16 impunha
      16 impele
      16 impediu
+     16 hï¿½
      16 hortelão
      16 gênios
      16 gravíssimo
@@ -10536,8 +10548,6 @@
      16 goste
      16 galhos
      16 gado
-     16 função
-     16 fundação
      16 fugiram
      16 fugira
      16 frívolos
@@ -10606,7 +10616,6 @@
      16 crendo
      16 convicções
      16 convencê-lo
-     16 controvérsia
      16 contrabandistas
      16 contornos
      16 contestou
@@ -10685,7 +10694,6 @@
      16 abrir-lhe
      16 Vulgarmente
      16 Votava
-     16 Volúvel
      16 Voam
      16 Viveram
      16 Virgindade
@@ -10712,7 +10720,6 @@
      16 SOMBRAS
      16 Régio
      16 Rija
-     16 Revisão
      16 Revistas
      16 Reverendíssimo
      16 Reservas
@@ -10770,6 +10777,7 @@
      16 Lembra-te
      16 Legião
      16 Kelly
+     16 Juízos
      16 Itaboraí
      16 Iríamos
      16 Inspetor
@@ -10854,7 +10862,6 @@
      16 Capim
      16 Capelas
      16 Cantam
-     16 Calúnias
      16 Calígula
      16 Caberia
      16 CEGONHAS
@@ -10989,7 +10996,6 @@
      15 navegar
      15 nascia
      15 nacionalidade
-     15 míngua
      15 médio
      15 máquinas
      15 mácula
@@ -11039,13 +11045,14 @@
      15 gentleman
      15 gancho
      15 féretro
+     15 função
+     15 fundação
      15 fundamentos
      15 fugisse
      15 frouxidão
      15 frescos
      15 fratura
      15 frasco
-     15 formação
      15 folhetins
      15 fogos
      15 fiscais
@@ -11087,7 +11094,6 @@
      15 dissipar
      15 disparou
      15 difusa
-     15 diabólico
      15 determinado
      15 desvarios
      15 desposar
@@ -11116,6 +11122,7 @@
      15 coroar
      15 cordialidade
      15 convenientemente
+     15 controvérsia
      15 continuada
      15 contida
      15 constantes
@@ -11176,7 +11183,6 @@
      15 apoteose
      15 aposentadoria
      15 aplicada
-     15 aperfeiçoamento
      15 apagado
      15 apagada
      15 amigavelmente
@@ -11219,7 +11225,6 @@
      15 Tinha-me
      15 Tenra
      15 Tamoio
-     15 Sóbrio
      15 Sucedia
      15 Substantivos
      15 Soou
@@ -11230,6 +11235,7 @@
      15 Sentava-se
      15 SARDOU
      15 Romero
+     15 Revisão
      15 Restituiu
      15 Resignado
      15 Repliquei
@@ -11428,6 +11434,7 @@
      14 zombaria
      14 votara
      14 votado
+     14 volúvel
      14 visíveis
      14 vistosa
      14 vermes
@@ -11530,7 +11537,6 @@
      14 participação
      14 padecido
      14 ouvem
-     14 oráculos
      14 ornamento
      14 ocorrido
      14 oblíquo
@@ -11541,6 +11547,7 @@
      14 naufrágios
      14 narrações
      14 mórbida
+     14 míngua
      14 mutuamente
      14 muralhas
      14 mudez
@@ -11610,10 +11617,10 @@
      14 fugitivas
      14 forrado
      14 formiga
+     14 formação
      14 folheando
      14 fingindo
      14 finamente
-     14 fiança
      14 fenda
      14 fechou-a
      14 falange
@@ -11654,6 +11661,7 @@
      14 distribui
      14 dissimulou
      14 dispensam
+     14 diabólico
      14 despropósito
      14 despir-se
      14 desmente
@@ -11742,6 +11750,7 @@
      14 aprazível
      14 apoiando
      14 apito
+     14 aperfeiçoamento
      14 aparecimento
      14 apanhados
      14 andaria
@@ -11774,8 +11783,8 @@
      14 XXI
      14 Volver
      14 Voando
-     14 Viçoso
      14 Viuvinha
+     14 Vitória
      14 Vitalidade
      14 Virtualmente
      14 Vinde
@@ -12030,6 +12039,7 @@
      13 temores
      13 telhas
      13 teimasse
+     13 sóbrio
      13 suscetível
      13 surpreender
      13 sumida
@@ -12112,6 +12122,7 @@
      13 partidários
      13 papelão
      13 p
+     13 oráculos
      13 oferecer-lhe
      13 ofendida
      13 ocupada
@@ -12121,7 +12132,6 @@
      13 obstar
      13 negam
      13 narrando
-     13 mútua
      13 mulas
      13 mudanças
      13 mostre
@@ -12196,6 +12206,7 @@
      13 ficarão
      13 ficarem
      13 fibras
+     13 fiança
      13 fia
      13 ferrolho
      13 fazendo-se
@@ -12288,7 +12299,6 @@
      13 contá-la
      13 contrição
      13 contribuintes
-     13 contração
      13 contrastava
      13 contrair
      13 contemporânea
@@ -12330,6 +12340,7 @@
      13 cantado
      13 canoas
      13 canal
+     13 calúnias
      13 calendário
      13 caixeiros
      13 caipora
@@ -12404,6 +12415,7 @@
      13 Waterloo
      13 Washington
      13 Voltei-me
+     13 Viçoso
      13 Vives
      13 Visivelmente
      13 Vilalobos
@@ -12432,7 +12444,6 @@
      13 Tecidos
      13 Sultão
      13 Substitui
-     13 Srª
      13 Spencer
      13 Sossega
      13 Serk
@@ -12593,7 +12604,6 @@
      13 DESTINO
      13 DAVID
      13 DAMASCO
-     13 Críticos
      13 Corta
      13 Corrido
      13 Cordeiro
@@ -12781,7 +12791,6 @@
      12 propriedades
      12 proibição
      12 professora
-     12 procurá-la
      12 procuraria
      12 procurarei
      12 presidentes
@@ -12892,7 +12901,6 @@
      12 jejum
      12 isenta
      12 irremediável
-     12 investigações
      12 inventa
      12 invariavelmente
      12 intérprete
@@ -13053,6 +13061,7 @@
      12 corado
      12 conviesse
      12 contrito
+     12 contração
      12 contradições
      12 continuação
      12 continuaria
@@ -13140,7 +13149,6 @@
      12 antecedentes
      12 aniquilamento
      12 amigável
-     12 ameaçar
      12 ameaçador
      12 ambiente
      12 amará
@@ -13203,7 +13211,6 @@
      12 Sanches
      12 Sacra
      12 SELVAS
-     12 Românticas
      12 Ridículas
      12 Ribas
      12 Ri-se
@@ -13225,7 +13232,6 @@
      12 Previamente
      12 Preste
      12 Prendem
-     12 Precipitação
      12 Pousava
      12 Poupou
      12 Possuindo
@@ -13288,7 +13294,6 @@
      12 Interrompidos
      12 Interrogando
      12 Integridade
-     12 Indígenas
      12 Imaginam
      12 Ia-lhe
      12 IGNOTO
@@ -13359,6 +13364,7 @@
      12 Custaria
      12 Curvado
      12 Cuba
+     12 Críticos
      12 Crédulo
      12 Croner
      12 Criaram
@@ -13422,7 +13428,6 @@
      12 Aceitara
      12 Acabemos
      12 Abrem
-     12 Abraçou-a
      12 Abrantes
      12 Abominável
      12 ASSADO
@@ -13482,6 +13487,7 @@
      11 tambor
      11 tacões
      11 súplice
+     11 sï¿½o
      11 sê
      11 sutileza
      11 suspensão
@@ -13560,6 +13566,7 @@
      11 prostração
      11 prosaica
      11 prolongamento
+     11 procurá-la
      11 procurara
      11 privação
      11 prisioneiro
@@ -13597,7 +13604,6 @@
      11 pegado
      11 pavões
      11 patrulha
-     11 patriótico
      11 patrimônio
      11 patacas
      11 passeia
@@ -13629,6 +13635,7 @@
      11 naturalista
      11 nativa
      11 nababo
+     11 mútua
      11 mística
      11 multas
      11 mostrará
@@ -13679,6 +13686,7 @@
      11 lavradores
      11 lancha
      11 labutação
+     11 jï¿½
      11 juiz-de-fora
      11 jaqueta
      11 jantado
@@ -13688,6 +13696,7 @@
      11 inéditos
      11 inédito
      11 involuntário
+     11 investigações
      11 invectivas
      11 intolerância
      11 intitulado
@@ -13944,7 +13953,6 @@
      11 apreciam
      11 apreciada
      11 apostólico
-     11 aperfeiçoar
      11 apareçam
      11 aparecera
      11 apanhava
@@ -13959,6 +13967,7 @@
      11 analogia
      11 amostras
      11 amontoado
+     11 ameaçar
      11 amassem
      11 amarelos
      11 aliado
@@ -14021,6 +14030,7 @@
      11 Subscrição
      11 Sublimidade
      11 Suba
+     11 Srª
      11 Sorocaba
      11 Sopra
      11 Solidões
@@ -14039,6 +14049,7 @@
      11 Roxo
      11 Roxas
      11 Rotas
+     11 Românticas
      11 Rigoroso
      11 Ri-me
      11 Reunida
@@ -14070,6 +14081,7 @@
      11 Primaveras
      11 Prezado
      11 Pretextos
+     11 Precipitação
      11 Potente
      11 Possante
      11 Pitt
@@ -14242,7 +14254,6 @@
      11 Cariocas
      11 Caramanchão
      11 Capoeiras
-     11 Capitães
      11 Cansam
      11 Canjicas
      11 Caneca
@@ -14293,6 +14304,7 @@
      11 Achava-me
      11 Acerbo
      11 Abusar
+     11 Abraçou-a
      11 AUGIER
      11 72
      11 34
@@ -14489,6 +14501,7 @@
      10 pendurar
      10 pendurada
      10 pegou-me
+     10 patriótico
      10 passeou
      10 parêntesis
      10 palheta
@@ -14567,7 +14580,6 @@
      10 involuntária
      10 inventos
      10 invejar
-     10 intérpretes
      10 introduziu
      10 interrompeu-me
      10 interrompendo
@@ -14603,6 +14615,7 @@
      10 humilhada
      10 houverem
      10 honorários
+     10 histï¿½ria
      10 hipócritas
      10 hipopótamo
      10 hesitações
@@ -14861,6 +14874,7 @@
      10 apreciável
      10 aprecia
      10 aponta
+     10 aperfeiçoar
      10 apelido
      10 apatia
      10 aparentado
@@ -15031,6 +15045,7 @@
      10 Ouve-me
      10 Otomana
      10 Obedecendo
+     10 Nï¿½o
      10 Nutro
      10 Nostalgia
      10 Ninfa
@@ -15189,6 +15204,7 @@
      10 Castelhano
      10 Casou-se
      10 Caprichosas
+     10 Capitães
      10 Capelli
      10 COLOCA
      10 Buscaram
@@ -15245,7 +15261,6 @@
       9 ônus
       9 órgãos
       9 óbolo
-      9 épica
       9 é-lhe
       9 ávidos
       9 águias
@@ -15365,7 +15380,6 @@
       9 retas
       9 responsável
       9 respondiam
-      9 responderá
       9 respondera
       9 resistir-lhe
       9 requinte
@@ -15482,6 +15496,7 @@
       9 padeciam
       9 pacientes
       9 pacientemente
+      9 oxalá
       9 ouvinte
       9 ousasse
       9 ornamentos
@@ -15514,7 +15529,6 @@
       9 nascença
       9 narrado
       9 músicos
-      9 móbil
       9 mãozinhas
       9 mágicas
       9 muçulmano
@@ -15589,8 +15603,8 @@
       9 irreparável
       9 início
       9 inédita
-      9 inverossimilhança
       9 inventivo
+      9 intérpretes
       9 intrepidez
       9 interrompê-lo
       9 interrompeu-o
@@ -15606,6 +15620,7 @@
       9 injustiças
       9 informação
       9 inflexão
+      9 indígenas
       9 indireto
       9 indeciso
       9 incômoda
@@ -15743,7 +15758,6 @@
       9 emissários
       9 emendei
       9 embarca
-      9 embaraçado
       9 elos
       9 eliminação
       9 elevou
@@ -15977,7 +15991,6 @@
       9 amarra
       9 amaram
       9 amanhecer
-      9 além-mar
       9 alvitres
       9 alumiada
       9 alucinações
@@ -16023,7 +16036,6 @@
       9 abstenções
       9 absorção
       9 aborreceu
-      9 abençoou
       9 abelha
       9 abandona
       9 Zola
@@ -16175,7 +16187,6 @@
       9 Luas
       9 Lombardos
       9 Liquidado
-      9 Lindóia
       9 Lindinha
       9 Limitei-me
       9 Lia
@@ -16388,7 +16399,7 @@
       8 ósculos
       8 órbitas
       8 óleos
-      8 índio
+      8 épica
       8 âme
       8 ásperas
       8 àquilo
@@ -16399,7 +16410,6 @@
       8                                      
       8 –
       8 “Vai
-      8 “Semana
       8 “Pois
       8 “Nem
       8 “Minha
@@ -16566,6 +16576,7 @@
       8 resvalou
       8 restrita
       8 restabelecer
+      8 responderá
       8 resplendor
       8 respeitava
       8 resgate
@@ -16737,6 +16748,8 @@
       8 n'est
       8 n'O
       8 mórbido
+      8 móbil
+      8 mï¿½e
       8 míope
       8 métrica
       8 médium
@@ -16829,9 +16842,11 @@
       8 irrita
       8 irrepreensível
       8 ironias
+      8 irmï¿½os
       8 inépcia
       8 investiu
       8 investigador
+      8 inverossimilhança
       8 invejável
       8 inutilidade
       8 interrompesse
@@ -16869,6 +16884,7 @@
       8 ignoras
       8 ignomínia
       8 idôneo
+      8 idï¿½ias
       8 iam-lhe
       8 hóstia
       8 humilhante
@@ -17017,13 +17033,13 @@
       8 empregadas
       8 emendar-se
       8 emblemas
+      8 embaraçado
       8 eliminou
       8 elegantemente
       8 elefantes
       8 efetuar-se
       8 efetiva
       8 edifícios
-      8 dúbias
       8 dês
       8 duo
       8 doem
@@ -17116,6 +17132,7 @@
       8 cultivar
       8 cultiva
       8 cultas
+      8 crï¿½tica
       8 cruzado
       8 crista
       8 credenciais
@@ -17317,6 +17334,7 @@
       8 amargor
       8 amar-se
       8 amar-me
+      8 além-mar
       8 alçando
       8 alumiou
       8 alugada
@@ -17375,6 +17393,7 @@
       8 aborreça
       8 aborrecimentos
       8 aberturas
+      8 abençoou
       8 abençoe
       8 abatidas
       8 abalos
@@ -17563,7 +17582,6 @@
       8 Mirou
       8 Mirate
       8 Milão
-      8 Militão
       8 Metódico
       8 Meteu-o
       8 Mereceram
@@ -17583,9 +17601,9 @@
       8 Madama
       8 Lânguidas
       8 Loiras
-      8 Literária”
       8 Lisonjeiro
       8 Lisonjeira
+      8 Lindóia
       8 Lia-se
       8 Lembrava-me
       8 Lembraram-se
@@ -17597,6 +17615,7 @@
       8 Juvêncio
       8 Juan
       8 Jour
+      8 Josï¿½
       8 Jantas
       8 Jantaram
       8 Jantamos
@@ -17624,7 +17643,6 @@
       8 Graxa
       8 Gracejos
       8 Gomensoro
-      8 Glorificação
       8 Glacial
       8 Gertrais-Gaboureau
       8 Gemendo
@@ -17789,7 +17807,6 @@
       8 Apertei-lhe
       8 Apanhando
       8 Angustioso
-      8 Ameaçado
       8 Amava-me
       8 Amarrada
       8 Alívio
@@ -17835,12 +17852,14 @@
       8 'Como
       7 óbvia
       7 índoles
+      7 índio
       7 égloga
       7 ágeis
       7 Ódio
       7 ÉPOCA
       7                            
       7 “Você
+      7 “Semana
       7 “Este
       7 “Esse
       7 “DE
@@ -18013,7 +18032,6 @@
       7 sebo
       7 sarcasmos
       7 sangrar
-      7 salvá-lo
       7 salvei
       7 salvando
       7 saltou-lhe
@@ -18126,7 +18144,6 @@
       7 prolongada
       7 profusão
       7 profissões
-      7 proficiência
       7 proferidas
       7 proferi
       7 profanação
@@ -18141,7 +18158,6 @@
       7 preterido
       7 pressentir
       7 presidia
-      7 prescrições
       7 preparando
       7 prendem-se
       7 prejudicar
@@ -18178,7 +18194,6 @@
       7 perseguiam
       7 persa
       7 perplexidade
-      7 peripécia
       7 perigosos
       7 pergunta-lhe
       7 perfez
@@ -18378,7 +18393,6 @@
       7 inspirara
       7 insinuá-lo
       7 insinuações
-      7 inseparáveis
       7 insensatez
       7 inscrito
       7 inqualificável
@@ -18429,7 +18443,6 @@
       7 homme
       7 homeopático
       7 homem'
-      7 heróicos
       7 heresia
       7 havê-los
       7 habitações
@@ -18612,10 +18625,13 @@
       7 efetuado
       7 educou
       7 edificou
+      7 dúbias
+      7 dï¿½
       7 dão-se
       7 duvidasse
       7 duvidaria
       7 dure
+      7 dramï¿½tica
       7 dourada
       7 dosimetria
       7 donas
@@ -18633,7 +18649,6 @@
       7 dissolveu
       7 disse-nos
       7 dissabores
-      7 dispôs
       7 disponível
       7 dispensasse
       7 disfarçando
@@ -18710,7 +18725,6 @@
       7 deitar-lhe
       7 definitivos
       7 deferência
-      7 dedicações
       7 decretar
       7 declarava
       7 declarar-lhe
@@ -18722,7 +18736,6 @@
       7 dais
       7 d
       7 cônjuges
-      7 cálida
       7 custosas
       7 curvava-se
       7 curtido
@@ -18768,6 +18781,7 @@
       7 conserto
       7 consentisse
       7 consentiram
+      7 consciï¿½ncia
       7 consagrado
       7 conjectura
       7 confirmavam
@@ -18787,7 +18801,6 @@
       7 compensava
       7 compassado
       7 compará-las
-      7 compará-la
       7 compacta
       7 comovidos
       7 comidos
@@ -19039,7 +19052,6 @@
       7 abundantes
       7 absurdos
       7 absurdas
-      7 abstrações
       7 abria-se
       7 abrandar
       7 aborrecível
@@ -19168,6 +19180,7 @@
       7 Quand
       7 Qu'on
       7 Pôr
+      7 Pôde
       7 Puseram-lhe
       7 Pus-me
       7 Punge
@@ -19256,6 +19269,7 @@
       7 Mofava
       7 Misturava-se
       7 Miller
+      7 Militão
       7 Meter-lhe
       7 Melhorando
       7 Meca
@@ -19276,6 +19290,7 @@
       7 Luizinha
       7 Lucem
       7 Lousada
+      7 Literária”
       7 Levarei
       7 Levanto-me
       7 Levante-se
@@ -19505,7 +19520,6 @@
       7 Berteux
       7 Berrava
       7 Benigno
-      7 Beneficência
       7 Bem-vindo
       7 Belzebu
       7 Bellini
@@ -19597,6 +19611,7 @@
       7 'Confeitaria
       6 útero
       6 órfãos
+      6 ï¿½s
       6 íris
       6 índia
       6 ímpio
@@ -19694,7 +19709,6 @@
       6 triunfal
       6 tristíssima
       6 tremer-lhe
-      6 traçou
       6 traçava
       6 travers
       6 tratantes
@@ -19704,7 +19718,6 @@
       6 transpunha
       6 transpiração
       6 transmitida
-      6 transições
       6 transitória
       6 transformou
       6 transformam
@@ -19740,14 +19753,15 @@
       6 tente
       6 tenro
       6 tenazmente
-      6 temporário
       6 temesse
       6 telefone
       6 teimando
       6 tapar-lhe
       6 tapagem
+      6 tambï¿½m
       6 tagarelice
       6 súdito
+      6 sï¿½
       6 sustinha
       6 sustentou
       6 sustentada
@@ -19780,7 +19794,6 @@
       6 sossegados
       6 sorris
       6 sorriram
-      6 sopé
       6 sonoros
       6 sonolência
       6 sondá-lo
@@ -19832,6 +19845,7 @@
       6 santifica
       6 sanguinolento
       6 sangue-frio
+      6 salvá-lo
       6 salvos
       6 salvar-me
       6 saltavam
@@ -19937,6 +19951,7 @@
       6 quaker
       6 quadrinha
       6 quadrada
+      6 pï¿½ginas
       6 péssima
       6 pães
       6 pátrio
@@ -19986,6 +20001,7 @@
       6 pressentiu
       6 pressentimentos
       6 pressentia
+      6 prescrições
       6 preparavam
       6 prendesse
       6 premeditação
@@ -20037,6 +20053,7 @@
       6 peroração
       6 pernadas
       6 permuta
+      6 peripécia
       6 perguntará
       6 perguntaria
       6 perguntara
@@ -20118,6 +20135,7 @@
       6 obtê-la
       6 obtém
       6 observância
+      6 observaï¿½ï¿½o
       6 observadores
       6 obrigá-la
       6 obrigou-me
@@ -20141,7 +20159,6 @@
       6 nadas
       6 nadadores
       6 nada'
-      6 mútuo
       6 módico
       6 másculo
       6 muçulmana
@@ -20289,7 +20306,6 @@
       6 jantando
       6 jacarandá
       6 istmo
-      6 irrepreensíveis
       6 iras
       6 investidura
       6 investe
@@ -20319,6 +20335,7 @@
       6 inspirar-lhe
       6 inspirados
       6 insipidez
+      6 inseparáveis
       6 inquirir
       6 inovação
       6 iniqüidade
@@ -20332,6 +20349,7 @@
       6 infatigável
       6 infantes
       6 inextricável
+      6 indï¿½gena
       6 indigestão
       6 indicadas
       6 inculto
@@ -20376,6 +20394,7 @@
       6 hostil
       6 honorífico
       6 homicídio
+      6 heróicos
       6 havida
       6 haver-lhe
       6 hajas
@@ -20637,6 +20656,7 @@
       6 divagações
       6 dissolvido
       6 dissimula
+      6 dispôs
       6 dispersou-se
       6 dispensas
       6 discuto
@@ -20688,7 +20708,6 @@
       6 desdenhar
       6 desdenha
       6 descubra
-      6 descrédito
       6 descrita
       6 descrevê-lo
       6 descrevo
@@ -20723,6 +20742,7 @@
       6 definidos
       6 defesas
       6 defendiam
+      6 dedicações
       6 declarasse
       6 declaram
       6 declarados
@@ -20740,6 +20760,7 @@
       6 cênicos
       6 cênica
       6 cálidas
+      6 cálida
       6 custar-lhe
       6 curvos
       6 curvar
@@ -20844,6 +20865,7 @@
       6 comporta
       6 completado
       6 competidores
+      6 compará-la
       6 comovem
       6 comichão
       6 comera
@@ -20978,6 +21000,7 @@
       6 baladas
       6 bainha
       6 babados
+      6 aï¿½ï¿½o
       6 avisasse
       6 avenidas
       6 autorizada
@@ -21171,6 +21194,7 @@
       6 acatado
       6 acanho
       6 acabrunhava
+      6 abstrações
       6 absorvida
       6 absolutas
       6 abrissem
@@ -21183,7 +21207,6 @@
       6 abono
       6 abominação
       6 aberrações
-      6 aberração
       6 abençoava
       6 abatimentos
       6 abafados
@@ -21435,7 +21458,6 @@
       6 MARI
       6 Lúcido
       6 Líbano
-      6 Lânguidos
       6 LÍSIAS                         
       6 Lutero
       6 Lucrativo
@@ -21486,6 +21508,7 @@
       6 Impávido
       6 Ignácio
       6 Ideou
+      6 Hï¿½
       6 HÁ
       6 Hum
       6 Horário
@@ -21501,6 +21524,7 @@
       6 Grêmio
       6 Granville
       6 Good
+      6 Glorificação
       6 Gervásio
       6 George
       6 Genérico
@@ -21599,6 +21623,7 @@
       6 Deverei
       6 Detendo-se
       6 Desmontar
+      6 Desgraçado
       6 Desenganados
       6 Desencantos
       6 Descuidosa
@@ -21642,7 +21667,6 @@
       6 Congregação
       6 Confesso-te
       6 Confessamos
-      6 Condená-la
       6 Conciliava
       6 Comuniquei
       6 Compreendemos
@@ -21657,6 +21681,7 @@
       6 Cleveland
       6 Claríssimo
       6 Cinzento
+      6 Cinqüenta
       6 Cinna
       6 Cingiu
       6 Ciente
@@ -21706,6 +21731,7 @@
       6 Bocejava
       6 Bichinho
       6 Bernardim
+      6 Beneficência
       6 Bem-feito
       6 Belmonte
       6 Beijei-a
@@ -21795,7 +21821,6 @@
       6 2537
       6 1900
       6 1881
-      6 186
       6 1820
       6 1808
       6 'Meu
@@ -21923,6 +21948,7 @@
       5 trepadas
       5 traía
       5 tração
+      5 traçou
       5 traçadas
       5 trazerem
       5 trazemos
@@ -21938,6 +21964,7 @@
       5 transtornou
       5 transtornado
       5 transportou
+      5 transições
       5 transfusão
       5 transfigura
       5 transfere
@@ -21976,6 +22003,7 @@
       5 tenho-a
       5 tenebrosos
       5 temíveis
+      5 temporário
       5 tempera
       5 telegráficas
       5 teimosia
@@ -22020,6 +22048,7 @@
       5 subiria
       5 suavidade
       5 soslaio
+      5 sopé
       5 sonda
       5 somenos
       5 somando
@@ -22156,7 +22185,6 @@
       5 reservados
       5 resenha
       5 requereu
-      5 repulsão
       5 repugnâncias
       5 repugnantes
       5 repressão
@@ -22243,6 +22271,7 @@
       5 pôs-me
       5 póstumo
       5 pósteros
+      5 pï¿½tria
       5 pátrios
       5 puxá-la
       5 puxou-me
@@ -22277,6 +22306,7 @@
       5 progressiva
       5 prognósticos
       5 profissionais
+      5 proficiência
       5 profere
       5 profanar
       5 produzidos
@@ -22364,6 +22394,7 @@
       5 picar
       5 pianos
       5 pianistas
+      5 peï¿½a
       5 peão
       5 pezinhos
       5 pezinho
@@ -22518,6 +22549,7 @@
       5 nascer-lhe
       5 napolitano
       5 n
+      5 mútuo
       5 músculo
       5 múltiplas
       5 míseros
@@ -22623,6 +22655,7 @@
       5 maciez
       5 macias
       5 macacos
+      5 lï¿½ngua
       5 lívidos
       5 líricos
       5 lépidos
@@ -22703,6 +22736,7 @@
       5 jaez
       5 j'ai
       5 irritar-se
+      5 irrepreensíveis
       5 irregulares
       5 irada
       5 ir-lhe
@@ -22795,6 +22829,7 @@
       5 imolar
       5 imitá-lo
       5 imaginárias
+      5 imaginaï¿½ï¿½o
       5 imaculado
       5 ilusórias
       5 iguarias
@@ -22816,7 +22851,6 @@
       5 hidráulica
       5 hidras
       5 hesitasse
-      5 heróicas
       5 herege
       5 herdado
       5 herdada
@@ -22993,6 +23027,7 @@
       5 etc'
       5 esvaiu-se-lhe
       5 esvair-se
+      5 estï¿½
       5 estâncias
       5 estudam
       5 estudadas
@@ -23255,6 +23290,7 @@
       5 desejosa
       5 desculpava
       5 descuidoso
+      5 descrédito
       5 descrevem
       5 descontente
       5 desconsoladas
@@ -23404,6 +23440,7 @@
       5 convocar
       5 convindo
       5 convidadas
+      5 convicï¿½ï¿½o
       5 convertendo
       5 convenções
       5 convencê-la
@@ -23663,6 +23700,7 @@
       5 baixara
       5 baiano
       5 bafejo
+      5 aï¿½
       5 aéreo
       5 açucareiro
       5 açougue
@@ -23815,6 +23853,7 @@
       5 amigo”
       5 amenos
       5 ameaçavam
+      5 ameaçado
       5 amazônica
       5 amarrotada
       5 alçada
@@ -24172,6 +24211,7 @@
       5 Pan
       5 Palmerston
       5 Palmares
+      5 Paixões
       5 PATERNALISMO
       5 Oxford
       5 Ouvíamos
@@ -24186,6 +24226,7 @@
       5 Ofereço-lhe
       5 Obtida
       5 Obriga-me
+      5 Número
       5 Náuseas
       5 Nuit
       5 Noutros
@@ -24223,6 +24264,7 @@
       5 Meyerbeer
       5 Metempsicose
       5 Messalina
+      5 Memória
       5 Mecânica
       5 Maxwell
       5 Maubreuil
@@ -24246,6 +24288,7 @@
       5 Mac-Kinley
       5 MIRTO                                                               
       5 Lésbia
+      5 Lânguidos
       5 LÁGRIMAS
       5 Luziu
       5 Lovelace
@@ -24550,6 +24593,7 @@
       5 Conheceste
       5 Conhecemo-nos
       5 Confiou-me
+      5 Condená-la
       5 Concorrendo
       5 Concordamos
       5 Concedendo
@@ -24731,6 +24775,7 @@
       5 44
       5 39
       5 1901
+      5 186
       5 185
       5 1835
       5 1821
@@ -24774,7 +24819,6 @@
       4 “Tanto
       4 “São
       4 “Silêncio
-      4 “Revista
       4 “Pode
       4 “Pobre
       4 “Olha
@@ -24793,9 +24837,9 @@
       4 zombo
       4 zelosa
       4 xilindró
+      4 vï¿½
       4 víbora
       4 vêem-se
-      4 várzea
       4 votem
       4 vote
       4 votadas
@@ -24897,6 +24941,7 @@
       4 ulterior
       4 ufanos
       4 ucharia
+      4 tï¿½o
       4 títere
       4 tê-lo-ia
       4 tâmaras
@@ -25171,7 +25216,6 @@
       4 seduzido
       4 sedutores
       4 secura
-      4 secundários
       4 secreção
       4 secou
       4 seara
@@ -25282,6 +25326,7 @@
       4 reses
       4 reservatório
       4 requeria
+      4 repulsão
       4 reptos
       4 repto
       4 reproduzir-se
@@ -25411,6 +25456,8 @@
       4 qu'une
       4 púlpitos
       4 pôr-me
+      4 pï¿½blico
+      4 pï¿½blica
       4 píncaro
       4 pérfidos
       4 pé-rapado
@@ -25431,6 +25478,7 @@
       4 pudemos
       4 puberdade
       4 psicológicos
+      4 prï¿½pria
       4 prumo
       4 prudentes
       4 prová-lo
@@ -25735,7 +25783,6 @@
       4 obscena
       4 obrigou-o
       4 obrigo
-      4 obrigatória
       4 obliquamente
       4 objetava
       4 obedecida
@@ -25790,6 +25837,7 @@
       4 n'en
       4 mútuas
       4 múmia
+      4 mï¿½o
       4 míopes
       4 mínimos
       4 médica
@@ -25884,7 +25932,6 @@
       4 meados
       4 maçons
       4 maçom
-      4 matéria-prima
       4 matiz
       4 maternais
       4 mastigação
@@ -26231,10 +26278,12 @@
       4 honoríficos
       4 homônimo
       4 homens”
+      4 histï¿½rico
       4 hipotecas
       4 hipocondríacos
       4 hiena
       4 hiato
+      4 heróicas
       4 hermeticamente
       4 hereges
       4 herdamos
@@ -26500,9 +26549,11 @@
       4 esvaía-se
       4 estúrdio
       4 estúpidas
+      4 estï¿½o
       4 estática
       4 estudá-lo
       4 estudioso
+      4 estrï¿½ia
       4 estrondosos
       4 estrondoso
       4 estridente
@@ -26602,7 +26653,6 @@
       4 equívocas
       4 equivalentes
       4 equitação
-      4 epopéias
       4 epidemias
       4 enxurro
       4 enxugar-lhe
@@ -27030,6 +27080,7 @@
       4 cuidadas
       4 cuias
       4 cubículos
+      4 crï¿½nicas
       4 crê-me
       4 crédula
       4 cruzavam
@@ -27073,6 +27124,7 @@
       4 coreográfica
       4 cordoame
       4 corcéis
+      4 coraï¿½ï¿½o
       4 corajosamente
       4 corais
       4 copiá-lo
@@ -27318,6 +27370,7 @@
       4 cascos
       4 casavam
       4 casacão
+      4 carï¿½ter
       4 carvoeiro
       4 carvalhos
       4 carunchosa
@@ -27629,7 +27682,6 @@
       4 apertando-me
       4 apertam
       4 aperta-se
-      4 aperfeiçoar-se
       4 aparecia-me
       4 apareci
       4 aparece-me
@@ -27798,7 +27850,6 @@
       4 acumulada
       4 acumula
       4 acrescentaremos
-      4 acreditá-lo
       4 acreditaram
       4 acordá-la
       4 acordará
@@ -27838,6 +27889,7 @@
       4 aborrecesse
       4 aborrecer-me
       4 abolido
+      4 aberração
       4 abençoa
       4 abelhudo
       4 abana
@@ -28052,6 +28104,7 @@
       4 Rebentavam
       4 Reanimou-se
       4 Realizando
+      4 Razões
       4 Ravot
       4 Rangeu
       4 Rahn
@@ -28165,6 +28218,7 @@
       4 Naipe
       4 NUPCIAIS
       4 NOVAIS
+      4 Mï¿½e
       4 Méry
       4 Médicis
       4 Mãozinha
@@ -28190,6 +28244,7 @@
       4 Mentes
       4 Memento
       4 Melpômene
+      4 Melancólica
       4 Meirelles
       4 Mediu
       4 Medi
@@ -28310,7 +28365,6 @@
       4 Impera
       4 Imitasse
       4 Imaginemos
-      4 Ilíadas
       4 Iludiu-se
       4 Iludia-se
       4 Ilude-se
@@ -28551,6 +28605,7 @@
       4 DEBUXO
       4 DATIVO
       4 D'Auberive
+      4 Cï¿½sar
       4 Cívico
       4 Césares
       4 Célio
@@ -28562,6 +28617,8 @@
       4 Cumprimentamo-nos
       4 Cumprimentado
       4 Cubra
+      4 Crônicas
+      4 Crï¿½tica
       4 Crê-se
       4 Cresceu-lhe
       4 Crava
@@ -28682,7 +28739,6 @@
       4 Canard
       4 Campestre
       4 Cambridge
-      4 Camarão
       4 Calunga
       4 Calipso
       4 Calino
@@ -28860,6 +28916,7 @@
       3 ótica
       3 órfãs
       3 ópio
+      3 ï¿½ltimos
       3 íntegros
       3 índex
       3 ímã
@@ -28901,6 +28958,7 @@
       3 “Também
       3 “Talvez
       3 “Senhores
+      3 “Revista
       3 “Quero
       3 “Qual
       3 “Posto
@@ -28945,6 +29003,7 @@
       3 vê-lo-ia
       3 vê-la-ia
       3 vértebras
+      3 várzea
       3 válvula
       3 válida
       3 vá-se
@@ -28963,7 +29022,6 @@
       3 voltear
       3 volte-se
       3 voltava-me
-      3 voltarão
       3 voltarmos
       3 voltarem
       3 voltam-se
@@ -28978,6 +29036,7 @@
       3 vivêssemos
       3 vivifica
       3 vividos
+      3 vitï¿½ria
       3 vitela
       3 vitais
       3 visito
@@ -29066,6 +29125,7 @@
       3 vacilação
       3 utilíssima
       3 utilitário
+      3 usurï¿½rio
       3 usurários
       3 urzes
       3 uruguaias
@@ -29130,7 +29190,6 @@
       3 tremuras
       3 tremia-lhe
       3 trechozinho
-      3 traçados
       3 trava-se
       3 tratávamos
       3 tratava-a
@@ -29269,6 +29328,7 @@
       3 taberna
       3 sótãos
       3 sócia
+      3 sï¿½rios
       3 síndicos
       3 sè
       3 sátiras
@@ -29384,6 +29444,8 @@
       3 sobrados
       3 sobeja
       3 soava
+      3 situaï¿½ï¿½o
+      3 situaï¿½ï¿½es
       3 siroco
       3 sio
       3 sintática
@@ -29405,6 +29467,7 @@
       3 sextas-feiras
       3 sexagenário
       3 ses
+      3 serï¿½
       3 servir-se
       3 servilmente
       3 servilismo
@@ -29457,6 +29520,7 @@
       3 sedicioso
       3 sedento
       3 secção
+      3 secundários
       3 sebes
       3 saíssemos
       3 saíres
@@ -29726,7 +29790,6 @@
       3 rejeitasse
       3 rejeitara
       3 rejeitada
-      3 reivindicação
       3 reivindicar
       3 regurgitava
       3 regulou
@@ -29793,7 +29856,6 @@
       3 recompunha-se
       3 recompondo
       3 recompensas
-      3 recomendável
       3 recomendou-lhe
       3 recomendara
       3 recomendada
@@ -29830,6 +29892,7 @@
       3 realizava
       3 realizara
       3 realizam
+      3 razï¿½o
       3 ratio
       3 rastos
       3 rasgões
@@ -29894,6 +29957,7 @@
       3 pública”
       3 põe-me
       3 pórticos
+      3 pï¿½
       3 pírrica
       3 píncaros
       3 pêro
@@ -29944,7 +30008,6 @@
       3 proscrições
       3 proscritos
       3 prorrogar
-      3 propõe-se
       3 propícios
       3 propusera
       3 proporcionou
@@ -29980,6 +30043,8 @@
       3 pro
       3 privadas
       3 prisioneiros
+      3 princï¿½pios
+      3 princï¿½pio
       3 principiante
       3 principado
       3 primorosos
@@ -30045,6 +30110,7 @@
       3 prateado
       3 prados
       3 pra
+      3 poï¿½tica
       3 povoadas
       3 pousou-lhe
       3 pousasse
@@ -30075,6 +30141,7 @@
       3 ponderou-lhe
       3 ponderosa
       3 pombinhos
+      3 polï¿½tica
       3 poltronas
       3 polpa
       3 polcava
@@ -30082,7 +30149,6 @@
       3 polainas
       3 poetisas
       3 poetastro
-      3 plêiade
       3 plissé
       3 plebeu
       3 platônico
@@ -30165,7 +30231,6 @@
       3 perdida”
       3 perdiam-se
       3 perdeu-o
-      3 perderíamos
       3 perderás
       3 perdereis
       3 perder-me
@@ -30209,6 +30274,7 @@
       3 pecuniárias
       3 peculiares
       3 pecando
+      3 paï¿½s
       3 pavimento
       3 paulatinamente
       3 patéticas
@@ -30274,6 +30340,7 @@
       3 palestrava
       3 palavrear
       3 paizinho
+      3 paixï¿½o
       3 paisana
       3 pairava-lhe
       3 pairam
@@ -30291,7 +30358,6 @@
       3 outro”
       3 outoniça
       3 outiva
-      3 ouropéis
       3 otimistas
       3 ostentou
       3 ostentam
@@ -30376,6 +30442,7 @@
       3 obrigou-se
       3 obrigou-a
       3 obrigava-se
+      3 obrigatória
       3 obrigará
       3 obreiro
       3 oblíquos
@@ -30394,7 +30461,6 @@
       3 nutrido
       3 nutrem
       3 nutra
-      3 numérica
       3 nulificar
       3 nozes
       3 novum
@@ -30590,6 +30656,7 @@
       3 mazurcas
       3 may
       3 mausoléu
+      3 matéria-prima
       3 matrimônios
       3 mato-me
       3 mates
@@ -30612,7 +30679,6 @@
       3 marcham
       3 marcavam
       3 marcasse
-      3 maquinação
       3 maquinal
       3 maquiavélica
       3 mapa
@@ -30705,6 +30771,7 @@
       3 locandeiro
       3 lobisomem
       3 litoral
+      3 literï¿½ria
       3 liteira
       3 lisonjeá-la
       3 lisonjeiras
@@ -30773,7 +30840,6 @@
       3 lavram
       3 lavrada
       3 lauta
-      3 laudatória
       3 latrocínio
       3 latindo
       3 latia
@@ -30888,7 +30954,6 @@
       3 internos
       3 internacionais
       3 interina
-      3 interessá-la
       3 interessou
       3 interessantíssimas
       3 interessantíssima
@@ -30968,7 +31033,6 @@
       3 inexcedível
       3 inevitáveis
       3 inesperadamente
-      3 inequívoco
       3 indômita
       3 induzido
       3 individualmente
@@ -31098,6 +31162,7 @@
       3 igualam
       3 ignóbil
       3 ignoradas
+      3 idï¿½ia
       3 idílios
       3 idosos
       3 idolâtre
@@ -31111,7 +31176,6 @@
       3 humores
       3 humanística
       3 humanitários
-      3 humanitárias
       3 humana”
       3 humanamente
       3 hospitaleiro
@@ -31129,7 +31193,6 @@
       3 homeopatas
       3 homenzinho
       3 hombridade
-      3 história”
       3 histoire
       3 hipotético
       3 hipopótamos
@@ -31255,6 +31318,7 @@
       3 gafanhotos
       3 fôlegos
       3 fósseis
+      3 fï¿½cil
       3 fêmea
       3 férvidas
       3 férvida
@@ -31407,6 +31471,7 @@
       3 fardados
       3 fanfarronice
       3 fandango
+      3 famï¿½lia
       3 faltar-lhes
       3 faltar-lhe
       3 faltam-lhe
@@ -31427,6 +31492,7 @@
       3 fabulosas
       3 fabricadas
       3 fabrica
+      3 exï¿½lio
       3 exímios
       3 exultou
       3 extremados
@@ -31589,6 +31655,7 @@
       3 espúrias
       3 espúria
       3 espólio
+      3 espï¿½rito
       3 espremeu
       3 espreguiçava-se
       3 espraia
@@ -31599,6 +31666,7 @@
       3 espionagem
       3 espinafres
       3 espiavam
+      3 espetï¿½culo
       3 espetou
       3 esperneando
       3 esperava-a
@@ -31617,7 +31685,6 @@
       3 espancada
       3 espalhavam
       3 espalhadamente
-      3 esmoreça
       3 esmoreceu
       3 esmagou
       3 esmagasse
@@ -31678,6 +31745,8 @@
       3 eriçados
       3 erguiam
       3 equivalência
+      3 epopéias
+      3 episï¿½dios
       3 episcopado
       3 enxuta
       3 enxugo
@@ -31700,6 +31769,7 @@
       3 enunciação
       3 enuncia
       3 enumeração
+      3 entï¿½o
       3 entusiasmou
       3 entusiasmar
       3 entretida
@@ -32008,6 +32078,7 @@
       3 digestivo
       3 digeriu
       3 digerido
+      3 difï¿½cil
       3 difusas
       3 diferindo
       3 diferençava
@@ -32155,6 +32226,7 @@
       3 descrente
       3 descostume
       3 desconsoladora
+      3 desconfianï¿½a
       3 desconcertar
       3 desconcertadas
       3 desconcerta
@@ -32379,6 +32451,7 @@
       3 criticava
       3 cristas
       3 crimino
+      3 criaï¿½ï¿½es
       3 criadinha
       3 criadagem
       3 cresçam
@@ -32608,7 +32681,6 @@
       3 complicam-se
       3 complexas
       3 completá-la
-      3 completará
       3 completaram
       3 completara
       3 complacentemente
@@ -32680,6 +32752,7 @@
       3 classificada
       3 clareava
       3 clamaram
+      3 ciï¿½me
       3 civismo
       3 civilizar
       3 civilizadas
@@ -32805,7 +32878,6 @@
       3 carolice
       3 carniceiros
       3 carniceiro
-      3 carnaúba
       3 carmes
       3 careciam
       3 carecesse
@@ -32848,6 +32920,7 @@
       3 campanário
       3 caminhante
       3 cambaleando
+      3 camarão
       3 camaristas
       3 camareiro
       3 calçou-as
@@ -32887,6 +32960,7 @@
       3 cabreiro
       3 cabotagem
       3 cabides
+      3 cabeï¿½a
       3 cabeçadas
       3 caberá
       3 cabendo
@@ -33061,6 +33135,7 @@
       3 aumentaria
       3 aumentaram
       3 aumentam
+      3 atï¿½
       3 atá-lo
       3 aturada
       3 atua
@@ -33280,6 +33355,7 @@
       3 apertadamente
       3 aperfeiçoou
       3 aperfeiçoava
+      3 aperfeiçoar-se
       3 aperfeiçoada
       3 apenso
       3 apelava
@@ -33515,6 +33591,7 @@
       3 afigurou
       3 afigurava-se-lhe
       3 afiançar-lhe
+      3 afeiï¿½ï¿½o
       3 afeiçoou-se-lhe
       3 afeiçoando
       3 afeiçoado
@@ -33577,6 +33654,7 @@
       3 acudiria
       3 acudindo
       3 acréscimos
+      3 acreditá-lo
       3 acrediteis
       3 acreditaria
       3 acreditarei
@@ -34248,7 +34326,6 @@
       3 Lutamos
       3 Luso
       3 Luiza”
-      3 Lucíola
       3 Lucullo
       3 Loquaz
       3 Loiola
@@ -34322,7 +34399,7 @@
       3 Irritou-o
       3 Irrita-se
       3 Ireis
-      3 Irapuã
+      3 Irapuï¿½
       3 Ipê
       3 Invoca
       3 Intima
@@ -34350,6 +34427,7 @@
       3 Importa-nos
       3 Imaginei-me
       3 Imaginava-o
+      3 Ilíadas
       3 Ilustríssima
       3 Iludem
       3 Icaraí
@@ -34435,6 +34513,7 @@
       3 Figaro
       3 Ficará
       3 Fialho
+      3 Fenômeno
       3 Femmes
       3 Felizardo
       3 Fechara-se
@@ -34470,6 +34549,7 @@
       3 Evas
       3 Evacuem
       3 Euribíades
+      3 Eulï¿½lia
       3 Está-se
       3 Estudei-as
       3 Estudaria
@@ -34566,6 +34646,7 @@
       3 Doravante
       3 Dongola
       3 Dodona
+      3 Diï¿½rio
       3 Dizem-se
       3 Divididas
       3 Distinguiu-se
@@ -34726,6 +34807,7 @@
       3 Clay
       3 Claustros
       3 Clapp
+      3 Ciúme
       3 Ciumento
       3 City
       3 Circundada
@@ -34757,6 +34839,7 @@
       3 Cercava-o
       3 Cedem
       3 Ceci
+      3 Cearï¿½
       3 Caíram-me
       3 Caímos
       3 Caíam
@@ -35093,6 +35176,8 @@
       2 óbvias
       2 óbulo
       2 óbices
+      2 ï¿½ntima
+      2 ï¿½dio
       2 íntegro
       2 ímprobo
       2 é”
@@ -35258,6 +35343,8 @@
       2 whole
       2 wagon
       2 vômito
+      2 vï¿½o
+      2 vï¿½nculo
       2 vívidas
       2 víspora
       2 vísceras
@@ -35284,6 +35371,7 @@
       2 volteando
       2 voltava-lhe
       2 voltassem
+      2 voltarão
       2 voltaram-me
       2 voltara-se
       2 voltar-me
@@ -35540,6 +35628,7 @@
       2 túmidos
       2 túmido
       2 tôt
+      2 tï¿½tulo
       2 títeres
       2 tísicas
       2 tímpanos
@@ -35617,6 +35706,7 @@
       2 tremida
       2 tremi
       2 tremas
+      2 traï¿½ados
       2 traíra
       2 traçavam-se
       2 traçado
@@ -35716,6 +35806,7 @@
       2 traduzi-las
       2 traduz-se
       2 tradutores
+      2 tradiï¿½ï¿½es
       2 tradicionais
       2 trad
       2 trace
@@ -36092,6 +36183,7 @@
       2 soltou-se
       2 soltou-lhe
       2 solitude
+      2 solidï¿½o
       2 solidária
       2 solicito
       2 solicitavam
@@ -36172,6 +36264,7 @@
       2 sigam
       2 sibilante
       2 siamês
+      2 seï¿½ï¿½o
       2 sexualidade
       2 sextas
       2 sexagenárias
@@ -36347,6 +36440,7 @@
       2 sacrossanto
       2 sacristias
       2 sacrista
+      2 sacrifï¿½cio
       2 sacrifiques
       2 sacrificá-la
       2 sacrifico-me
@@ -36371,7 +36465,6 @@
       2 rígidas
       2 ríamos
       2 résister
-      2 rés
       2 réprobo
       2 réplicas
       2 régios
@@ -36397,7 +36490,6 @@
       2 roças
       2 roçara
       2 roçar-lhe
-      2 roçado
       2 rouquenho
       2 roupinha
       2 roufenha
@@ -36783,6 +36875,7 @@
       2 rejeite
       2 rejeitaria
       2 rejeitando
+      2 reivindicação
       2 reiterar
       2 reiteradas
       2 reintegrado
@@ -36911,6 +37004,7 @@
       2 recomposição
       2 recompor-lhe
       2 recommencer
+      2 recomendável
       2 recomendá-los
       2 recomendava-lhe
       2 recomendaram
@@ -36986,6 +37080,7 @@
       2 reabilitado
       2 reabilitada
       2 reabertura
+      2 razï¿½es
       2 ratonice
       2 ratoeira
       2 ratificar
@@ -37190,6 +37285,7 @@
       2 prosaísmo
       2 prorrogando
       2 propõem
+      2 propõe-se
       2 propô-lo
       2 propuser
       2 propunham
@@ -37235,6 +37331,7 @@
       2 profusamente
       2 profusa
       2 profundíssimo
+      2 proficiï¿½ncia
       2 profetizo
       2 professoras
       2 professo
@@ -37346,6 +37443,7 @@
       2 preservava
       2 preservativo
       2 preservar
+      2 presenï¿½a
       2 presentinhos
       2 presentinho
       2 presenteava
@@ -37384,6 +37482,7 @@
       2 pregasse
       2 pregaram
       2 pregam
+      2 prefï¿½cio
       2 prefiras
       2 preferidas
       2 preferida
@@ -37470,6 +37569,8 @@
       2 possumus
       2 possuiria
       2 possessão
+      2 porï¿½m
+      2 portuguï¿½s
       2 portuense
       2 portou
       2 portinha
@@ -37520,6 +37621,7 @@
       2 poco
       2 pobres-diabos
       2 pneumática
+      2 plêiade
       2 pluviômetro
       2 plume
       2 plumagem
@@ -37534,6 +37636,7 @@
       2 plausíveis
       2 platônica
       2 platô
+      2 platï¿½ia
       2 platinas
       2 plataformas
       2 plasticidade
@@ -37605,6 +37708,7 @@
       2 pesarosos
       2 pesaria
       2 pesar-nos-ia
+      2 perï¿½odo
       2 perífrase
       2 pervertê-la
       2 pervertido
@@ -37671,6 +37775,7 @@
       2 perduráveis
       2 perdurou
       2 perdoável
+      2 perderíamos
       2 perderem-se
       2 perdera-se
       2 percorrida
@@ -37847,6 +37952,7 @@
       2 palanque
       2 paladino
       2 paladares
+      2 pajï¿½
       2 pajés
       2 pairavam
       2 pained
@@ -37893,6 +37999,7 @@
       2 outoniças
       2 ousaram
       2 ouro”
+      2 ouropéis
       2 otomanos
       2 otimista
       2 ostentava-se
@@ -38049,6 +38156,8 @@
       2 obedecer-te
       2 núncios
       2 núcleo
+      2 nï¿½s
+      2 nï¿½mero
       2 níveo
       2 nívea
       2 nítido
@@ -38064,6 +38173,7 @@
       2 nutri-lo
       2 nunca”
       2 nuncas
+      2 numérica
       2 numerosíssimas
       2 numerados
       2 numeradas
@@ -38147,6 +38257,8 @@
       2 necrópoles
       2 necessitada
       2 necessita
+      2 naï¿½ï¿½o
+      2 naï¿½ï¿½es
       2 naître
       2 navette
       2 navegando
@@ -38188,6 +38300,8 @@
       2 múltiplos
       2 múltipla
       2 mórbidos
+      2 mï¿½ximas
+      2 mï¿½tua
       2 mítica
       2 místicos
       2 mímica
@@ -38372,6 +38486,7 @@
       2 modeladas
       2 modas”
       2 mocinhas
+      2 mobï¿½lia
       2 mobílias
       2 mitológicos
       2 mitológico
@@ -38576,6 +38691,7 @@
       2 marcar-lhe
       2 maravilhado
       2 maracá
+      2 maquinação
       2 maquiavélico
       2 maometanos
       2 mantêm
@@ -38588,6 +38704,7 @@
       2 manifestava-se
       2 manifestantes
       2 manifestam
+      2 manhï¿½
       2 manejava
       2 manejar
       2 mandássemos
@@ -38660,7 +38777,6 @@
       2 madonas
       2 macróbios
       2 machuquei
-      2 machucá-la
       2 machucou-o
       2 machucara
       2 machucada
@@ -38710,7 +38826,7 @@
       2 lucra
       2 luce
       2 luares
-      2 lrapuã
+      2 lrapuï¿½
       2 louçã
       2 louças
       2 louve
@@ -38837,6 +38953,7 @@
       2 lembradas
       2 leio-lhe
       2 leias
+      2 legï¿½timo
       2 lego
       2 legitimá-lo
       2 legitimá-la
@@ -38862,6 +38979,7 @@
       2 lauréis
       2 laurel
       2 laureada
+      2 laudatória
       2 latinórios
       2 latiam
       2 latagão
@@ -38918,6 +39036,7 @@
       2 já'
       2 juvenilidade
       2 justo”
+      2 justiï¿½a
       2 justificavam
       2 justificam
       2 justificado
@@ -39042,6 +39161,7 @@
       2 invejado
       2 invejada
       2 invectiva
+      2 invasï¿½o
       2 invalidez
       2 invadidos
       2 inutilizar
@@ -39097,6 +39217,7 @@
       2 interinidade
       2 interinamente
       2 interferência
+      2 interessá-la
       2 interesse”
       2 interesseiros
       2 interesseiro
@@ -39137,6 +39258,7 @@
       2 instalou
       2 instalar
       2 inspirá-lo
+      2 inspiraï¿½ï¿½es
       2 inspiraste
       2 inspiradora
       2 inspira-se
@@ -39194,6 +39316,7 @@
       2 informou
       2 informados
       2 informa
+      2 influï¿½ncia
       2 influição
       2 influirá
       2 influir-lhe
@@ -39216,6 +39339,7 @@
       2 inermes
       2 inerme
       2 inerentes
+      2 inequívoco
       2 inepto
       2 inelutável
       2 inegavelmente
@@ -39223,6 +39347,7 @@
       2 inebriante
       2 inebriado
       2 indócil
+      2 indï¿½genas
       2 indíviduo
       2 induziu-a
       2 induzir
@@ -39363,12 +39488,14 @@
       2 imprimia-se
       2 imprimem
       2 impreterivelmente
+      2 impressï¿½es
       2 impressionou-a
       2 impressionar-se
       2 imprescindíveis
       2 impregnadas
       2 impraticáveis
       2 impotentes
+      2 impossï¿½vel
       2 imposições
       2 importunava
       2 importo
@@ -39468,6 +39595,7 @@
       2 humorismo
       2 humilhá-lo
       2 humilhantes
+      2 humanitárias
       2 humanitária
       2 humanidades
       2 huguenote
@@ -39498,6 +39626,7 @@
       2 holandesa
       2 hoje”
       2 hoc
+      2 história”
       2 histriões
       2 historiou
       2 historietas
@@ -39558,6 +39687,7 @@
       2 gótico
       2 góticas
       2 górdio
+      2 gï¿½nero
       2 gélida
       2 gáudio
       2 gástrica
@@ -39607,6 +39737,7 @@
       2 gretado
       2 graúdas
       2 graúda
+      2 graï¿½a
       2 graçolas
       2 gravitação
       2 gravam
@@ -39650,6 +39781,7 @@
       2 glutão
       2 glossologia
       2 glosado
+      2 glorificaï¿½ï¿½o
       2 glorificar
       2 glorias
       2 glides
@@ -39842,6 +39974,8 @@
       2 fosfórica
       2 fosco
       2 foscas
+      2 forï¿½ado
+      2 forï¿½a
       2 fortuitos
       2 fortificou
       2 fortificações
@@ -40031,6 +40165,7 @@
       2 fecha-o
       2 fecha-lhe
       2 febris
+      2 faï¿½o
       2 fazia-lhes
       2 fazermos
       2 fazer'
@@ -40272,6 +40407,7 @@
       2 estúrdia
       2 estóico
       2 estóica
+      2 estï¿½mulo
       2 estéticas
       2 estável
       2 estáveis
@@ -40346,6 +40482,7 @@
       2 estenderia
       2 estendendo-se
       2 estendem
+      2 estaï¿½ï¿½o
       2 estava-lhe
       2 estatístico
       2 estatuetas
@@ -40365,7 +40502,6 @@
       2 estacionária
       2 estacavam
       2 estacaram
-      2 estabeleço
       2 estabelecesse
       2 estabelecem
       2 essence
@@ -40389,6 +40525,7 @@
       2 esquartejado
       2 esquadrão
       2 espúmeo
+      2 espï¿½cie
       2 espíritu
       2 espécimen
       2 espumou
@@ -40405,6 +40542,7 @@
       2 espora
       2 esponjas
       2 espoliação
+      2 esplï¿½ndida
       2 espiá-la
       2 espirituosos
       2 espiritualiza
@@ -40431,6 +40569,7 @@
       2 esperassem
       2 esperariam
       2 esperaremos
+      2 esperanï¿½a
       2 esperadas
       2 espeluncas
       2 espelhinho
@@ -40466,6 +40605,7 @@
       2 espadarte
       2 espadachim
       2 esmurrando-se
+      2 esmoreça
       2 esmorecida
       2 esmorecer
       2 esmorece
@@ -40537,6 +40677,7 @@
       2 escreve-se
       2 escrevas
       2 escravizar
+      2 escravidï¿½o
       2 escravaria
       2 escová-los
       2 escovou
@@ -40612,7 +40753,6 @@
       2 ervaçal
       2 ervada
       2 eruditos
-      2 errôneos
       2 erráticas
       2 erre
       2 errata
@@ -40720,7 +40860,6 @@
       2 entoadas
       2 entesourar
       2 enterrá-lo
-      2 enterrá-la
       2 enterrou-o
       2 enterrava
       2 enterrasse
@@ -40989,7 +41128,6 @@
       2 emendo-me
       2 emendo
       2 emendava
-      2 emendará
       2 emendara
       2 emendando-me
       2 emendada
@@ -41059,6 +41197,7 @@
       2 efetua
       2 educá-los
       2 educá-la
+      2 educaï¿½ï¿½o
       2 educam
       2 editoriais
       2 editado
@@ -41068,7 +41207,6 @@
       2 edificadas
       2 edificada
       2 ecléticos
-      2 ecléticas
       2 eclipsado
       2 ecarté
       2 ebulição
@@ -41078,6 +41216,7 @@
       2 dólmen
       2 dólares”
       2 dói-lhe
+      2 dï¿½vida
       2 dê-se
       2 détachées
       2 déjà
@@ -41108,6 +41247,7 @@
       2 dubitativo
       2 droguistas
       2 driças
+      2 dramï¿½tico
       2 dramalhões
       2 doíam-me
       2 doutrinar
@@ -41160,6 +41300,7 @@
       2 dobrar-se
       2 dobrados
       2 doado
+      2 diï¿½logo
       2 diástase
       2 dizer-lha
       2 dizei-me
@@ -41257,6 +41398,7 @@
       2 discutidos
       2 discuti-lo
       2 discuta
+      2 discussï¿½o
       2 discussão”
       2 discursar
       2 discursando
@@ -41299,7 +41441,6 @@
       2 diferençar
       2 difamada
       2 diesen
-      2 dicção
       2 dichote
       2 dia”
       2 diarréia
@@ -41529,7 +41670,6 @@
       2 deserdado
       2 desenvolvê-lo
       2 desenvolvia
-      2 desenvolverá
       2 desenvoltura
       2 desenrolava
       2 desenrolara
@@ -41813,6 +41953,7 @@
       2 deduzidos
       2 deduzi
       2 dedinhos
+      2 dedicaï¿½ï¿½o
       2 dedicando
       2 dedicam
       2 decrépitos
@@ -41970,6 +42111,8 @@
       2 cubos
       2 cuanto
       2 crônico
+      2 crï¿½tico
+      2 crï¿½
       2 crápula
       2 cruzeiros
       2 cruzaram
@@ -42309,6 +42452,7 @@
       2 conjugar
       2 conjugalmente
       2 conjetural
+      2 conheï¿½o
       2 conhecê-los
       2 conhecê-las
       2 conhecia-lhe
@@ -42392,6 +42536,7 @@
       2 concorde
       2 concordavam
       2 concordaria
+      2 conclusï¿½o
       2 concluiu-se
       2 concluiremos
       2 concludente
@@ -42454,9 +42599,11 @@
       2 completá-las
       2 completava-se
       2 completasse
+      2 completará
       2 completada
       2 complementares
       2 compensá-lo
+      2 compensaï¿½ï¿½o
       2 compensavam
       2 compensada
       2 compenetrada
@@ -42592,6 +42739,7 @@
       2 clandestinas
       2 clamorosa
       2 clamei
+      2 civilizaï¿½ï¿½o
       2 civiliza
       2 ciumentos
       2 ciudad
@@ -42631,6 +42779,7 @@
       2 cicerônico
       2 cicatrizou
       2 cicatrizes
+      2 chï¿½o
       2 chão”
       2 chuvosas
       2 chuviscos
@@ -42827,6 +42976,7 @@
       2 caroços
       2 caroço
       2 carola
+      2 carnaúba
       2 carnavalesco
       2 carnavalescas
       2 carnais
@@ -43084,7 +43234,6 @@
       2 bonita”
       2 bonapartistas
       2 bonapartista
-      2 bombástico
       2 bombons
       2 bombardeou
       2 bom-bocado
@@ -43375,6 +43524,7 @@
       2 atraídas
       2 atraída
       2 atraía-o
+      2 atravï¿½s
       2 atravessá-lo
       2 atravessá-la
       2 atravessou-lhe
@@ -43670,6 +43820,7 @@
       2 aquecem
       2 apóiam
       2 apócrifas
+      2 apï¿½s
       2 apure
       2 apuram-se
       2 apuradíssimo
@@ -43717,6 +43868,7 @@
       2 apreenderam
       2 apreender-se
       2 aprecie
+      2 apreciaï¿½ï¿½o
       2 apreciarão
       2 apreciados
       2 aprecia-o
@@ -43849,6 +44001,7 @@
       2 animosos
       2 animoso
       2 animosidade
+      2 animaï¿½ï¿½o
       2 animavam
       2 animava-o
       2 animava-a
@@ -44122,6 +44275,7 @@
       2 agrave
       2 agravara
       2 agrava-se
+      2 agradï¿½vel
       2 agradou-me
       2 agradeça-o
       2 agradecê-lo
@@ -44225,6 +44379,7 @@
       2 advirto-lhe
       2 advertiam
       2 adverti-lo
+      2 adversï¿½rios
       2 adusto
       2 adusta
       2 adunco
@@ -44492,6 +44647,7 @@
       2 abjeta
       2 abisma
       2 abexim
+      2 aberraï¿½ï¿½o
       2 abençôo
       2 abençoá-la
       2 abençoou-o
@@ -44820,6 +44976,7 @@
       2 Struggle
       2 Stream
       2 Stokley
+      2 Srï¿½
       2 Spunta
       2 Spinoza
       2 Soufleresse
@@ -45120,6 +45277,7 @@
       2 QUINTELA
       2 QUESTÕES
       2 Q
+      2 Pública
       2 Pôr-nos
       2 Pô-la
       2 Pó
@@ -45140,6 +45298,8 @@
       2 Pungia-o
       2 Punch
       2 Prússia
+      2 Próprio
+      2 Própria
       2 Prudhon
       2 Proíbo-lhe
       2 Provocar-me
@@ -45328,6 +45488,7 @@
       2 Opuseram-se
       2 Oprimir
       2 Oponho-me
+      2 Opiniões
       2 Ondulavam
       2 Olhávamos
       2 Olhou-me
@@ -45470,6 +45631,7 @@
       2 Mencionemos
       2 Melpomene
       2 Melbourne
+      2 Melancólico
       2 Megera
       2 Mediterrâneo
       2 Meditemos
@@ -45562,6 +45724,7 @@
       2 Lusbel
       2 Luisa
       2 Ludgero
+      2 Lucíola
       2 Lucrecia
       2 Loyola
       2 Louzada
@@ -45725,6 +45888,7 @@
       2 Inaugurou-se
       2 Impõe-se
       2 Imprimi
+      2 Impressões
       2 Importam-me
       2 Importa-lhe
       2 Imola-se
@@ -45816,6 +45980,7 @@
       2 Gould
       2 Gostaste
       2 Goodbye
+      2 Gonï¿½alves
       2 Goncourts
       2 Golden
       2 Godoy
@@ -45992,6 +46157,7 @@
       2 Escuto
       2 Escutava-se
       2 Escusai
+      2 Escrúpulo
       2 Escreve-a
       2 Escrava
       2 Escragnolle
@@ -46556,6 +46722,7 @@
       2 Campanela
       2 Cambará
       2 Camaragibe
+      2 Calúnias
       2 Calvário'
       2 Calvino
       2 Calundus
@@ -46783,6 +46950,7 @@
       2 Amiudou
       2 Amemo-nos
       2 Amei-te
+      2 Ameaçado
       2 Ambrósia
       2 Ambrozina
       2 Amazônia
@@ -47118,6 +47286,26 @@
       1 óbvios
       1 óbvio
       1 óbolos
+      1 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+      1 ï¿½rfï¿½o
+      1 ï¿½quela
+      1 ï¿½poca
+      1 ï¿½pica
+      1 ï¿½nsia
+      1 ï¿½nimos
+      1 ï¿½nico
+      1 ï¿½nfimo
+      1 ï¿½ndole
+      1 ï¿½ndio
+      1 ï¿½ndia
+      1 ï¿½ltimo
+      1 ï¿½ltimas
+      1 ï¿½ltima
+      1 ï¿½glogas
+      1 ï¿½dios
+      1 ï¿½Semana
+      1 ï¿½Revista
+      1 ï¿½Querem
       1 ítalo-santistas
       1 ínúteis
       1 ínvio
@@ -47149,7 +47337,6 @@
       1 épanouir
       1 énigme
       1 électeur
-      1 églogas
       1 également
       1 écrit
       1 écraser
@@ -47257,7 +47444,6 @@
       1                                               
       1                                              
       1                                          
-      1                                  
       1                                 
       1                         
       1                     
@@ -47590,7 +47776,6 @@
       1 “Querida
       1 “Querias
       1 “Queria
-      1 “Querem
       1 “Quer
       1 “Quedou
       1 “Quedacionou
@@ -48120,6 +48305,12 @@
       1 wanders
       1 vós”
       1 vós'
+      1 vï¿½u
+      1 vï¿½spera
+      1 vï¿½rzea
+      1 vï¿½rgula
+      1 vï¿½-se
+      1 vï¿½-lo
       1 vívido
       1 vítreo
       1 vísseis
@@ -48184,6 +48375,7 @@
       1 vont-elles
       1 vomitório
       1 vomitava
+      1 volï¿½vel
       1 volvíamos
       1 volviam
       1 volvia-os
@@ -48195,6 +48387,7 @@
       1 volvei-os
       1 volvamos
       1 voluptuária
+      1 voluntï¿½rio
       1 voltou-me
       1 voltinha
       1 volteou
@@ -48205,6 +48398,8 @@
       1 volteava
       1 voltearem
       1 voltavam-me
+      1 voltarï¿½o
+      1 voltarï¿½
       1 voltaríamos
       1 voltares
       1 voltarem-se
@@ -48234,6 +48429,7 @@
       1 você'
       1 vociferar
       1 vocifera
+      1 vocabulï¿½rio
       1 voasse
       1 voas
       1 voaria
@@ -48243,6 +48439,7 @@
       1 vo-los
       1 viúvo”
       1 viúva-noiva
+      1 viï¿½oso
       1 viéux
       1 viçava
       1 viçasse
@@ -48341,6 +48538,7 @@
       1 vira-bostas
       1 vir-lhe
       1 viperinas
+      1 violï¿½ncia
       1 violá-la
       1 violá
       1 violinistas
@@ -48754,6 +48952,7 @@
       1 variou
       1 variegadas
       1 variegada
+      1 variaï¿½ï¿½es
       1 variadíssimos
       1 variadíssimas
       1 varando-lhe
@@ -48973,6 +49172,8 @@
       1 tônica
       1 tóxica
       1 tórridos
+      1 tï¿½tulos
+      1 tï¿½m
       1 tísicos
       1 tírios
       1 típicas
@@ -49041,6 +49242,7 @@
       1 tubas
       1 tua'
       1 tt
+      1 trï¿½s
       1 tríplices
       1 três-setes
       1 três'
@@ -49221,6 +49423,9 @@
       1 trees
       1 tredo
       1 tre
+      1 traï¿½ou
+      1 traï¿½os
+      1 traï¿½o
       1 traître
       1 traíste
       1 traísse
@@ -49235,6 +49440,7 @@
       1 traça”
       1 traçavas
       1 traçamos
+      1 traçados
       1 traziam-no
       1 trazer-vos
       1 trazer-se
@@ -49385,6 +49591,7 @@
       1 translados
       1 transladei
       1 transladavam
+      1 transiï¿½ï¿½es
       1 transitório
       1 transitivo
       1 transitiva
@@ -49401,6 +49608,7 @@
       1 transfundi-lo
       1 transformá-la
       1 transforme
+      1 transformaï¿½ï¿½o
       1 transformas
       1 transformares-te
       1 transformar-me
@@ -49484,6 +49692,7 @@
       1 trairia
       1 trair-me
       1 traidores'
+      1 tragï¿½dia
       1 tragá-los
       1 tragá-lo
       1 tragá-las
@@ -49855,6 +50064,7 @@
       1 tesos
       1 tesas
       1 tesar
+      1 terï¿½o
       1 terças
       1 terrível”
       1 terríficos
@@ -49934,6 +50144,7 @@
       1 tempête
       1 tempérament
       1 tempos”
+      1 temporï¿½rio
       1 temporão
       1 templo-cidadela
       1 tempestuou
@@ -50140,6 +50351,9 @@
       1 sólido'
       1 sócias
       1 sóbrios
+      1 sï¿½plica
+      1 sï¿½culos
+      1 sï¿½brio
       1 síncopes
       1 símile
       1 sí
@@ -50361,7 +50575,7 @@
       1 superar
       1 superando
       1 superada
-      1 superabundância
+      1 superabundï¿½ncia
       1 superabundantes
       1 superabundante
       1 suo
@@ -50407,6 +50621,7 @@
       1 suivre
       1 suivi
       1 suis-je
+      1 suicï¿½dio
       1 suicidou-se
       1 suicidam-se
       1 suicidados
@@ -50454,6 +50669,7 @@
       1 sucumbias
       1 sucumba
       1 suculentas
+      1 sucessï¿½o
       1 sucesso”
       1 sucessor”
       1 sucedida
@@ -50676,6 +50892,7 @@
       1 sorrateiros
       1 sorrateiras
       1 sorocabano
+      1 sopï¿½
       1 soprozinho
       1 sopros
       1 sopravam-lhe
@@ -50995,6 +51212,7 @@
       1 simboliza
       1 simbolismo
       1 sim-não
+      1 silï¿½ncio
       1 silêncio”
       1 silêcio
       1 silvícolas
@@ -51343,6 +51561,7 @@
       1 sedes
       1 sedenta
       1 secções
+      1 secundï¿½rios
       1 secunda
       1 secrets
       1 secreta”
@@ -51512,6 +51731,7 @@
       1 sambenito
       1 samaritanos
       1 samaritano
+      1 salvï¿½-lo
       1 salvávamos
       1 salvo”
       1 salvou-a
@@ -51696,6 +51916,8 @@
       1 rôo
       1 róseos
       1 rói-me
+      1 rï¿½s
+      1 rï¿½pida
       1 ríssemos
       1 rígidos
       1 rêvez
@@ -51707,6 +51929,7 @@
       1 réu'
       1 résistent
       1 rés-de-chão
+      1 rés
       1 répétition
       1 républicain
       1 répteis
@@ -51724,6 +51947,7 @@
       1 rápidamente
       1 rábulas
       1 rábido
+      1 ruï¿½nas
       1 ruísse
       1 ruços
       1 ruça 
@@ -51774,11 +51998,13 @@
       1 rua”
       1 ruas 
       1 ruana
+      1 roï¿½ado
       1 roídas
       1 roças  
       1 roçará
       1 roçaria
       1 roçando-lhe
+      1 roçado
       1 royaume
       1 roxeiam
       1 roxeam
@@ -51844,6 +52070,7 @@
       1 rondas
       1 rondando
       1 roncam
+      1 romï¿½nticas
       1 romântico-estragada
       1 romântica'
       1 rompíeis
@@ -52069,6 +52296,7 @@
       1 revivem
       1 reviva
       1 revisões
+      1 revisï¿½o
       1 revisto
       1 revisteiro
       1 revistasse
@@ -52115,6 +52343,8 @@
       1 reveleis
       1 revelei-lho
       1 revelei-lhe
+      1 revelaï¿½ï¿½o
+      1 revelaï¿½ï¿½es
       1 revelassem
       1 revelarás
       1 revelará
@@ -52374,6 +52604,7 @@
       1 respondão
       1 respondona
       1 respondes”
+      1 responderï¿½
       1 responderão
       1 responderás
       1 responderiam
@@ -52434,6 +52665,7 @@
       1 resolveremos
       1 resolveram-se
       1 resolvemo-nos
+      1 resoluï¿½ï¿½o
       1 resmunguei
       1 resmungue
       1 resmungos
@@ -52453,6 +52685,7 @@
       1 resistam
       1 resignei
       1 resigne
+      1 resignaï¿½ï¿½o
       1 resignações
       1 resignavas-te
       1 resignavam-se
@@ -52527,6 +52760,7 @@
       1 reputavam
       1 reputado
       1 reputa
+      1 repulsï¿½o
       1 repulsiva
       1 repugnavam
       1 repugnamos
@@ -52631,6 +52865,7 @@
       1 repicarem
       1 repicar
       1 repetíssemos
+      1 repetiï¿½ï¿½o
       1 repetiu-as
       1 repetirem
       1 repetireis
@@ -52670,6 +52905,7 @@
       1 repassais
       1 repassado
       1 repará-las
+      1 repartiï¿½ï¿½o
       1 repartirem
       1 repartira
       1 repartidas
@@ -52847,6 +53083,7 @@
       1 relira
       1 relinchos
       1 relincha
+      1 religiï¿½o
       1 relidas
       1 reliam-se
       1 reli-os
@@ -52916,6 +53153,7 @@
       1 rejeitam
       1 rejeitadas
       1 rei”
+      1 reivindicaï¿½ï¿½o
       1 reivindicações
       1 reivindicarei
       1 reivindicadoras
@@ -53177,6 +53415,7 @@
       1 redarguiu
       1 redagüiu
       1 recôncavo
+      1 recï¿½proca
       1 recém-nascidas
       1 recém-finado
       1 recém-chegadas
@@ -53331,6 +53570,7 @@
       1 recomeçara
       1 recomeçam
       1 recomen­dação
+      1 recomendï¿½vel
       1 recomendá-lo
       1 recomendá-la
       1 recomendou-a
@@ -53529,6 +53769,7 @@
       1 realçando
       1 realçado
       1 realizem
+      1 realizaï¿½ï¿½o
       1 realizavam
       1 realizarem
       1 realizar-se-á
@@ -53558,6 +53799,7 @@
       1 rações
       1 raça”
       1 razão'
+      1 razoï¿½vel
       1 rayonne
       1 ravala
       1 rats
@@ -53933,6 +54175,9 @@
       1 pólipo
       1 pólen
       1 pò
+      1 pï¿½ra
+      1 pï¿½r
+      1 pï¿½de
       1 pífio
       1 pífanos
       1 pícaro”
@@ -54098,6 +54343,9 @@
       1 própria”
       1 pró-cônsules
       1 pròpriamente
+      1 prï¿½xima
+      1 prï¿½prio
+      1 prï¿½mio
       1 príncipe”
       1 prête
       1 prétent
@@ -54109,6 +54357,7 @@
       1 práticos”
       1 prussiana
       1 pruridos
+      1 prudï¿½ncia
       1 prudhommesco
       1 prudhommescamente
       1 prudentíssimos
@@ -54178,6 +54427,7 @@
       1 protuberância
       1 protrairia
       1 protonotário'
+      1 proteï¿½ï¿½o
       1 proteções
       1 protetora'
       1 protesto-te
@@ -54251,6 +54501,7 @@
       1 propõe-te
       1 propôs-lhes
       1 propósito”
+      1 propï¿½e-se
       1 propusessem
       1 propuseram-lhe
       1 propusera-lhe
@@ -54403,6 +54654,7 @@
       1 profanada
       1 proeminência
       1 prodígio'
+      1 produï¿½ï¿½o
       1 produziu-me
       1 produzissem
       1 produziriam
@@ -54415,6 +54667,7 @@
       1 prodigamente
       1 prodigalizar-lhe
       1 prodigalidade”
+      1 procurï¿½-la
       1 procurávamos
       1 procuravam-se
       1 procurava-se
@@ -54541,6 +54794,7 @@
       1 pretextado
       1 preterir
       1 preteridas
+      1 pretensï¿½o
       1 pretendíamos
       1 pretendias
       1 pretendeu-se
@@ -54605,6 +54859,7 @@
       1 presenciavam
       1 presenciava-se
       1 presenciando
+      1 prescriï¿½ï¿½es
       1 prescrevia
       1 prescrever
       1 prescrevem
@@ -54771,6 +55026,7 @@
       1 precisados
       1 precipitávamos
       1 precipitá-los
+      1 precipitaï¿½ï¿½o
       1 precipitava
       1 precipitarei
       1 precintas
@@ -54818,6 +55074,7 @@
       1 praguejada
       1 praderias
       1 pr'as
+      1 poï¿½ticos
       1 poèticamente
       1 poètes
       1 poções
@@ -54987,6 +55244,8 @@
       1 pombinha
       1 pomba-rola
       1 pomadista
+      1 polï¿½tico
+      1 polï¿½ticas
       1 políticos”
       1 político-conjugais
       1 política'
@@ -55049,6 +55308,7 @@
       1 pobrezinha
       1 pobrezas
       1 plúmbeos
+      1 plï¿½iade
       1 plêiada
       1 plátano
       1 plástico
@@ -55443,6 +55703,7 @@
       1 periósteos
       1 perito
       1 perita
+      1 peripï¿½cia
       1 peripatéticos
       1 peripatético
       1 periodicidade
@@ -55524,6 +55785,7 @@
       1 perdeu-lhe
       1 perdeu-as
       1 perdesses
+      1 perderï¿½amos
       1 perder”
       1 perderias
       1 perderes
@@ -55780,6 +56042,7 @@
       1 patrocinava
       1 patrocinar
       1 patrocinado
+      1 patriï¿½tico
       1 patriarcalmente
       1 patriarcais
       1 patológicas
@@ -56013,6 +56276,7 @@
       1 par-lamento
       1 paquiderme
       1 papões
+      1 papï¿½is
       1 papá-lo
       1 papyros
       1 papismo
@@ -56118,6 +56382,7 @@
       1 paióis
       1 pai”
       1 paizinho”
+      1 paixï¿½es
       1 paixãozinha
       1 paisiblement
       1 paisano
@@ -56170,6 +56435,7 @@
       1 paga-me
       1 pag
       1 paduanos
+      1 padrï¿½o
       1 padroeiros
       1 padroeiras
       1 padroado
@@ -56261,6 +56527,7 @@
       1 ousamos
       1 ousados
       1 ousadamente
+      1 ouropï¿½is
       1 ouropelismo
       1 ouropel
       1 ouriços-do-mar
@@ -56296,6 +56563,8 @@
       1 oscilará
       1 oscilaria
       1 oscilarem
+      1 orï¿½culos
+      1 orï¿½culo
       1 orçaram
       1 orçando
       1 orçamos
@@ -56379,7 +56648,7 @@
       1 orais
       1 orador”
       1 opõe-se-lhe
-      1 opõe-lhe
+      1 opï¿½e-lhe
       1 opuséssemos
       1 opusesse
       1 opuseram-lhe
@@ -56411,6 +56680,8 @@
       1 opor-me
       1 opor-lhe
       1 opondo-o
+      1 opiniï¿½o
+      1 opiniï¿½es
       1 opiniáticos
       1 opiniático
       1 opinione
@@ -56425,6 +56696,7 @@
       1 operoso
       1 operettes
       1 opere
+      1 operaï¿½ï¿½o
       1 operavam-lhe
       1 operasse
       1 operas
@@ -56607,6 +56879,7 @@
       1 odalisca
       1 ocupá-los
       1 ocupemos
+      1 ocupaï¿½ï¿½o
       1 ocuparam-se
       1 ocuparam
       1 ocupar-me-ei
@@ -56629,6 +56902,7 @@
       1 oceano”
       1 occipital
       1 occhi
+      1 ocasiï¿½o
       1 ocasião'
       1 ocasionaram
       1 ocasionalmente
@@ -56695,6 +56969,7 @@
       1 obrigavam-na
       1 obrigavam-me
       1 obrigatórios
+      1 obrigatï¿½ria
       1 obrigatoriamente
       1 obrigativa
       1 obrigas
@@ -56800,6 +57075,7 @@
       1 nutri-la
       1 nutres
       1 nutre-se
+      1 numï¿½rica
       1 numismática
       1 numerosíssimos
       1 numerosíssimo
@@ -56832,6 +57108,7 @@
       1 noute
       1 nourris
       1 notório
+      1 notï¿½veis
       1 notávamos
       1 notários
       1 notário
@@ -57013,6 +57290,8 @@
       1 necrólogos
       1 necróforos
       1 necrologias
+      1 necessï¿½rios
+      1 necessï¿½ria
       1 necessitasse
       1 necessitam
       1 necedade
@@ -57077,6 +57356,7 @@
       1 napoleônicas
       1 napoleônica'
       1 napoleônica
+      1 napoleão
       1 nao
       1 naná
       1 nanapacatu
@@ -57133,6 +57413,11 @@
       1 música'
       1 múmias
       1 mórbidas
+      1 mï¿½tuo
+      1 mï¿½os
+      1 mï¿½nima
+      1 mï¿½ngua
+      1 mï¿½bil
       1 míster
       1 mía
       1 mí
@@ -57258,6 +57543,9 @@
       1 muco
       1 muchachos
       1 much
+      1 moï¿½os
+      1 moï¿½o
+      1 moï¿½a
       1 moída
       1 moíam
       1 moça”
@@ -57408,6 +57696,7 @@
       1 moralizada
       1 moralidades
       1 moquear
+      1 monï¿½logo
       1 monástico
       1 monárquicas
       1 monumentais
@@ -57549,6 +57838,7 @@
       1 mitigado
       1 mitigada
       1 mit
+      1 misï¿½rias
       1 misérrimas
       1 misérrima
       1 misérias”
@@ -57563,6 +57853,7 @@
       1 misturais
       1 mistral
       1 mistos
+      1 missï¿½o
       1 missionárias
       1 missions
       1 missa                               
@@ -57765,6 +58056,7 @@
       1 merecedora
       1 merece-te
       1 merece-a
+      1 mercï¿½
       1 mercá-la
       1 mercou
       1 mercieiro
@@ -57808,6 +58100,7 @@
       1 mencionam
       1 mencionados
       1 memória”
+      1 memï¿½ria
       1 memoriais
       1 memorado
       1 memoradas
@@ -57839,6 +58132,8 @@
       1 melharucos
       1 meles
       1 melena
+      1 melancï¿½lico
+      1 melancï¿½lica
       1 melancia
       1 meio”
       1 meio-tempo
@@ -57875,6 +58170,7 @@
       1 medito
       1 mediterrâneos
       1 medite
+      1 meditaï¿½ï¿½o
       1 meditavam
       1 meditaste
       1 meditara
@@ -57937,6 +58233,8 @@
       1 maviosíssimo
       1 mauvaise
       1 mau-olhado
+      1 matï¿½ria-prima
+      1 matï¿½ria
       1 matá-lo-ia
       1 matá-lo-ei
       1 matá-la-ia
@@ -58000,6 +58298,7 @@
       1 mará
       1 marulhosas
       1 marulhos
+      1 martï¿½rio
       1 martirizar
       1 martirizado
       1 martelou
@@ -58075,6 +58374,7 @@
       1 maranhenses
       1 mar'
       1 maquinistas
+      1 maquinaï¿½ï¿½o
       1 maquinações
       1 mapapi
       1 mapa-múndi
@@ -58124,6 +58424,7 @@
       1 maniotas
       1 manilhas
       1 manifestá-lo
+      1 manifestaï¿½ï¿½o
       1 manifestações”
       1 manifestaçãozinha
       1 manifestavam-se
@@ -58372,6 +58673,8 @@
       1 maciamente
       1 machuques
       1 machuque
+      1 machucï¿½-la
+      1 machucá-la
       1 machucou-me
       1 machucou
       1 machuco
@@ -58404,6 +58707,12 @@
       1 lôa
       1 lógicos
       1 lóbulos
+      1 lï¿½rica
+      1 lï¿½nguidos
+      1 lï¿½gica
+      1 lï¿½cito
+      1 lï¿½bios
+      1 lï¿½
       1 líquidos
       1 líquidas
       1 língua-de-trapos
@@ -58607,6 +58916,8 @@
       1 litografados
       1 litigue
       1 litigioso
+      1 literï¿½rio
+      1 literï¿½rias
       1 literário-musical
       1 literàriamente
       1 literata
@@ -58713,6 +59024,7 @@
       1 ligou-as
       1 ligou-a
       1 lights
+      1 ligaï¿½ï¿½o
       1 ligações
       1 ligava-se-lhe
       1 ligava-os
@@ -58974,6 +59286,7 @@
       1 laureiam
       1 laurear-lhe
       1 laudatório
+      1 laudatï¿½ria
       1 laudativas
       1 laudanum
       1 latíbulos
@@ -59213,8 +59526,10 @@
       1 kapa
       1 kales”
       1 kale
+      1 jï¿½bilo
       1 jésuites
       1 jésuite
+      1 juï¿½zos
       1 juízo”
       1 juíza
       1 juvença
@@ -59433,6 +59748,7 @@
       1 islamismo
       1 isentava
       1 iscada
+      1 irï¿½
       1 ir”
       1 irrupções
       1 irrompendo
@@ -59462,6 +59778,7 @@
       1 irresistíveis
       1 irreprimíveis
       1 irrepresentável
+      1 irrepreensï¿½veis
       1 irreparável”
       1 irremissíveis
       1 irremissivelmente
@@ -59474,6 +59791,7 @@
       1 irradie
       1 irradiações
       1 iro
+      1 irmï¿½
       1 irmãzinhas
       1 irmãzinha
       1 irmão”
@@ -59535,6 +59853,7 @@
       1 investigue
       1 investigou
       1 investigo
+      1 investigaï¿½ï¿½es
       1 investigava-o
       1 investigará
       1 investigando
@@ -59548,11 +59867,13 @@
       1 inverte-se
       1 inversas
       1 inverossímil'
+      1 inverossimilhanï¿½a
       1 inverossimilhante
       1 invernosas
       1 invernal
       1 inverdades
       1 inverdadeiro
+      1 inventï¿½rio
       1 inventários
       1 inventá-las
       1 inventivas
@@ -59570,6 +59891,7 @@
       1 inventaram”E
       1 inventadora
       1 inventa-
+      1 invencï¿½vel
       1 invejáveis
       1 invejo
       1 invejem
@@ -59609,6 +59931,7 @@
       1 inumações
       1 inumado
       1 inulta
+      1 intï¿½rpretes
       1 intérmino
       1 intumescida
       1 intumescia
@@ -59672,7 +59995,7 @@
       1 intima-lhe
       1 intestinos”
       1 intestinais
-      1 intervêm
+      1 intervï¿½m
       1 interviria
       1 intervirem
       1 intervinham
@@ -59752,6 +60075,7 @@
       1 interlocutoras
       1 interjeições
       1 interinas
+      1 interessï¿½-la
       1 interessá-lo
       1 interessou-me
       1 interesso-me
@@ -59793,6 +60117,7 @@
       1 intent
       1 intendências
       1 intempestivo
+      1 inteligï¿½ncia
       1 inteligíveis
       1 inteiriço
       1 inteiriçava-se
@@ -59845,6 +60170,7 @@
       1 instituídos
       1 instituía
       1 instituo
+      1 instituiï¿½ï¿½o
       1 instituiria
       1 instiguem
       1 instigava
@@ -59869,6 +60195,7 @@
       1 instada
       1 inspirer
       1 inspirem
+      1 inspiraï¿½ï¿½o
       1 inspirará
       1 inspiraria
       1 inspiraram
@@ -59918,6 +60245,7 @@
       1 inseria-a
       1 inseria
       1 insepultos
+      1 inseparï¿½veis
       1 insensíveis
       1 insensiva
       1 insensar
@@ -60001,11 +60329,13 @@
       1 inibidos
       1 inibido
       1 inhumado
+      1 ingï¿½nua
       1 ingênita
       1 ingrato  
       1 ingratos 
       1 ingovernável
       1 inglórios
+      1 inglï¿½s
       1 ingleses”
       1 inglesa 
       1 inglesa'
@@ -60037,6 +60367,7 @@
       1 infringem
       1 infrene
       1 infortúrnio
+      1 infortï¿½nios
       1 informá-lo
       1 informe-me
       1 informasse
@@ -60101,6 +60432,7 @@
       1 inevitavelmente
       1 inescrutáveis
       1 inerente
+      1 inequï¿½voco
       1 inequívocas
       1 ineptos
       1 inegável
@@ -60153,6 +60485,7 @@
       1 indigitados
       1 indigestas
       1 indigesta
+      1 indiferenï¿½a
       1 indiferentismo
       1 indicá-los
       1 indicá-las
@@ -60169,6 +60502,7 @@
       1 indica-lhe
       1 indestrutíveis
       1 indesculpável
+      1 independï¿½ncia
       1 indenizem
       1 indenize
       1 indenizará
@@ -60368,7 +60702,7 @@
       1 inabilidade
       1 in-quarto
       1 in-oitavo
-      1 in-fólios
+      1 in-fï¿½lios
       1 in-folio
       1 in-12
       1 imutabilidade
@@ -60379,6 +60713,7 @@
       1 impôs-se-lhe
       1 impôr-me
       1 impôr-lhe
+      1 impï¿½e
       1 imputasse
       1 imputar
       1 imputamos
@@ -60425,6 +60760,7 @@
       1 imprevisível
       1 imprevidência
       1 imprestável
+      1 impressï¿½o
       1 impressores
       1 impressioná-lo
       1 impressionou-o
@@ -60627,8 +60963,10 @@
       1 imagem”
       1 imaculados
       1 ilógica
+      1 ilï¿½adas
       1 ilícitos
       1 ilícita
+      1 ilusï¿½o
       1 ilustríssimas
       1 ilustrá-lo
       1 ilustrara
@@ -60743,6 +61081,7 @@
       1 húngara
       1 hóstias
       1 hórridos
+      1 hï¿½bil
       1 hípicas
       1 hégira
       1 hâlle
@@ -60763,6 +61102,7 @@
       1 humanoDeus
       1 humanizam
       1 humanizado
+      1 humanitï¿½rias
       1 humanista
       1 humanado
       1 human
@@ -60836,7 +61176,9 @@
       1 holandesas
       1 hoje'
       1 hoffmânnica
-      1 histórico-políticas
+      1 histï¿½rico-polï¿½ticas
+      1 histï¿½rica
+      1 histï¿½riaï¿½
       1 histérico
       1 histérica
       1 historiazinha
@@ -60896,12 +61238,15 @@
       1 hesitarem
       1 hesitante
       1 herói-cômicos
+      1 herï¿½icos
+      1 herï¿½icas
       1 heréticas
       1 herética
       1 heráldico
       1 heráldica
       1 herzegoviano
       1 herpética
+      1 heroï¿½na
       1 heroicamente
       1 hermafrodita
       1 heretic
@@ -61152,6 +61497,7 @@
       1 gregos”
       1 gredin
       1 greda
+      1 graï¿½as
       1 graça  
       1 graça”
       1 graça'
@@ -61288,6 +61634,7 @@
       1 gnomo
       1 glória”
       1 glória'
+      1 glï¿½rias
       1 gládios
       1 glutões
       1 glotão
@@ -61354,6 +61701,7 @@
       1 geridos
       1 gerentes
       1 gerem
+      1 geraï¿½ï¿½es
       1 gerando
       1 gera-se
       1 geométricas
@@ -61560,6 +61908,8 @@
       1 gaba
       1 fôrmas
       1 fósforosnão
+      1 fï¿½sica
+      1 fï¿½
       1 fïgurado
       1 fímbria
       1 fígados
@@ -61633,6 +61983,7 @@
       1 fura-vento
       1 fura-bolos
       1 fuoco
+      1 funï¿½ï¿½o
       1 funérea
       1 funâmbulo
       1 funis
@@ -61653,6 +62004,7 @@
       1 fundia
       1 fundei
       1 funde-se
+      1 fundaï¿½ï¿½o
       1 fundava-me
       1 fundarás
       1 fundará
@@ -61860,6 +62212,7 @@
       1 fosforescências
       1 fosfato
       1 fosa
+      1 forï¿½as
       1 forçá-lo
       1 forçava
       1 forçaram-no
@@ -61915,6 +62268,7 @@
       1 formigueiros
       1 formem
       1 formei
+      1 formaï¿½ï¿½o
       1 formações
       1 formará
       1 formarem-se
@@ -62159,6 +62513,7 @@
       1 filópedes
       1 filólogos
       1 filó
+      1 filï¿½sofos
       1 filípica
       1 filtrou
       1 filtrar
@@ -62242,6 +62597,7 @@
       1 fiar-nos
       1 fiapos
       1 fiapo
+      1 fianï¿½a
       1 fianças
       1 fiadores
       1 feérique
@@ -62301,6 +62657,7 @@
       1 feres
       1 feredjehs
       1 ferait
+      1 fenï¿½meno
       1 fenícios
       1 fenomenal
       1 fenecesse
@@ -62382,6 +62739,7 @@
       1 fearing
       1 fear
       1 faúlha
+      1 faï¿½a
       1 faíscam
       1 faéton
       1 façonnés
@@ -62752,6 +63110,7 @@
       1 exprimia-o
       1 exprimi
       1 exprime-lhes
+      1 expressï¿½o
       1 expressá-los
       1 expressou-se
       1 expressivamente
@@ -62798,7 +63157,7 @@
       1 explica-os
       1 explica-nos
       1 explica-a
-      1 explanação
+      1 explanaï¿½ï¿½o
       1 expiá-lo
       1 expiro”
       1 expirei
@@ -62811,6 +63170,7 @@
       1 expetorou
       1 expetorando
       1 experta
+      1 experiï¿½ncia
       1 experimentações
       1 experimentavam
       1 experimentara
@@ -62858,6 +63218,8 @@
       1 exortando-o
       1 exornam
       1 exorcismá-lo
+      1 existï¿½ncias
+      1 existï¿½ncia
       1 existência'
       1 existirão
       1 existirem
@@ -63010,9 +63372,10 @@
       1 exalavam
       1 exala-o
       1 exala-a
-      1 exagerá-lo
+      1 exagerï¿½-lo
       1 exagerou-lhe
       1 exageremos
+      1 exageraï¿½ï¿½o
       1 exagerava-os
       1 exageraste
       1 exagerara
@@ -63451,6 +63814,8 @@
       1 estaciona
       1 estacaria
       1 estacado
+      1 estabeleï¿½o
+      1 estabeleço
       1 estabeleçamos
       1 estabelecê-los
       1 estabelecê-la
@@ -63513,6 +63878,8 @@
       1 esquadria
       1 esquadras
       1 espúrios
+      1 espï¿½ritos
+      1 espï¿½dua
       1 espírito”
       1 espécimens
       1 espécime
@@ -63701,6 +64068,7 @@
       1 especialíssimo
       1 especialíssimas
       1 especializar
+      1 espaï¿½o
       1 espaçou
       1 espaçoso
       1 espaçosas
@@ -63776,6 +64144,7 @@
       1 espadachins
       1 esp'rança
       1 esmurraram-se
+      1 esmoreï¿½a
       1 esmorecia
       1 esmorecendo
       1 esmoler
@@ -63889,6 +64258,7 @@
       1 esfrangalhar
       1 esfrangalhado
       1 esfrangalha-me
+      1 esforï¿½o
       1 esforçaram
       1 esforçando-se
       1 esforçam-se
@@ -63971,6 +64341,7 @@
       1 escudela
       1 escudeiros
       1 escuda
+      1 escrï¿½pulo
       1 escrínios
       1 escrutínio
       1 escrutá-lo
@@ -64231,6 +64602,9 @@
       1 ervadas
       1 erva-pinheira
       1 erva-benta
+      1 erudiï¿½ï¿½o
+      1 errôneos
+      1 errï¿½neos
       1 errou-os
       1 erroribus
       1 erroneamente
@@ -64299,7 +64673,9 @@
       1 equatorial
       1 epílogos
       1 epígrafes
+      1 epopï¿½ias
       1 epitalâmios
+      1 episï¿½dio
       1 episcopus
       1 epinício
       1 epigramáticas
@@ -64581,7 +64957,9 @@
       1 entestavam
       1 entestado
       1 entesourai
+      1 enterrï¿½-la
       1 enterrá-las
+      1 enterrá-la
       1 enterrou-se-me
       1 enterrou-me
       1 enterrou-lhe
@@ -65390,7 +65768,7 @@
       1 empalmado
       1 empalma
       1 empalideça
-      1 empalidecê-lo
+      1 empalidecï¿½-lo
       1 empalidecesse
       1 empalideces
       1 empalhadores
@@ -65424,6 +65802,8 @@
       1 emendou-lhe
       1 emendei-me
       1 emendava-se
+      1 emendarï¿½
+      1 emendará
       1 emendar-nos
       1 emendam
       1 emendai-a
@@ -65543,6 +65923,7 @@
       1 embarcará
       1 embarcara
       1 embarcamento
+      1 embaraï¿½ado
       1 embaraçou
       1 embaraçosos
       1 embaraçoso
@@ -65593,6 +65974,7 @@
       1 elucidar
       1 eloqüências
       1 eloqüentíssimos
+      1 eloqï¿½ente
       1 elonger
       1 elogiá-las
       1 elogiou-os
@@ -65737,8 +66119,10 @@
       1 ecoavam
       1 ecoaria
       1 ecoam
+      1 eclï¿½ticas
       1 eclético”
       1 eclético
+      1 ecléticas
       1 eclipses”
       1 eclipsavam-se
       1 eclipsar-se
@@ -65753,6 +66137,8 @@
       1 dú
       1 dórico
       1 dórica
+      1 dï¿½o
+      1 dï¿½bias
       1 díscolos
       1 díptico
       1 dê-lhes
@@ -65924,6 +66310,7 @@
       1 donas-de-casa
       1 donaires
       1 dona-de-casa
+      1 domï¿½sticos
       1 domá-lo
       1 domá-la
       1 domou
@@ -66129,6 +66516,7 @@
       1 distribuindo-se
       1 distribui-se
       1 distribui-os
+      1 distraï¿½ï¿½o
       1 distraíres
       1 distraírem
       1 distraíram-me
@@ -66239,6 +66627,7 @@
       1 dispô-lo
       1 dispô-las
       1 dispô-la
+      1 dispï¿½s
       1 dispépticos
       1 disputavam
       1 disputava
@@ -66386,6 +66775,7 @@
       1 diriges
       1 dirias
       1 diria-o
+      1 direï¿½ï¿½o
       1 direções”
       1 diretórios
       1 diretorias
@@ -66405,6 +66795,7 @@
       1 dir-lhe-ão
       1 dir-lhe-á
       1 diques
+      1 diplomï¿½tica
       1 diplomático'
       1 diplomate
       1 diplomados
@@ -66435,6 +66826,7 @@
       1 diminuirá
       1 diminui-se
       1 diminuam
+      1 dimensï¿½es
       1 dimanam
       1 dilúvio”
       1 diluídos
@@ -66519,6 +66911,8 @@
       1 didáticos
       1 didático
       1 didática
+      1 dicï¿½ï¿½o
+      1 dicção
       1 dictérios
       1 dictu
       1 dici-bas
@@ -66546,6 +66940,7 @@
       1 diafaneidade
       1 diabólico”
       1 diabólicos
+      1 diabï¿½lico
       1 diabruras
       1 diabrura
       1 diabolorum
@@ -67214,6 +67609,7 @@
       1 desgrenhou-se
       1 desgrenhados
       1 desgrenha
+      1 desgraï¿½ada
       1 desgraçá-los
       1 desgraça”
       1 desgraçar
@@ -67349,6 +67745,8 @@
       1 desenvolviam
       1 desenvolveu-lhe
       1 desenvolvessem
+      1 desenvolverï¿½
+      1 desenvolverá
       1 desenvolveria
       1 desenvolverem
       1 desenvolveram
@@ -67483,6 +67881,7 @@
       1 deseja-se
       1 deseja-me
       1 deseamos
+      1 desdï¿½m
       1 desdouros
       1 desdoure
       1 desdourasse
@@ -67533,8 +67932,10 @@
       1 descuida-os
       1 descubro-lhe
       1 descubram-no
+      1 descrï¿½dito
       1 descrêem
       1 descruzavam
+      1 descriï¿½ï¿½o
       1 descritos
       1 descritivos
       1 descritivas
@@ -67852,6 +68253,7 @@
       1 desagrilhoado
       1 desagravo
       1 desagravando
+      1 desagradï¿½vel
       1 desagradavam
       1 desagradava
       1 desagradassem
@@ -68157,6 +68559,7 @@
       1 demagogos
       1 demagogo
       1 demagog
+      1 delï¿½cias
       1 delíquios
       1 delíquio
       1 delà”
@@ -68354,6 +68757,7 @@
       1 dedicá-lo
       1 dedicá-la
       1 dedicou-o
+      1 dedicaï¿½ï¿½es
       1 dedicatórias
       1 dedicar-se
       1 dedicam-se
@@ -68498,6 +68902,7 @@
       1 death-bell
       1 death
       1 de-mel
+      1 daï¿½
       1 davam-nos
       1 davam-lhos
       1 davam-lho
@@ -68628,6 +69033,12 @@
       1 código—ao
       1 cócoras
       1 cócaras
+      1 cï¿½u
+      1 cï¿½rculos
+      1 cï¿½mico
+      1 cï¿½mica
+      1 cï¿½lida
+      1 cï¿½lebre
       1 cíveis
       1 cínica
       1 cênicas
@@ -68800,6 +69211,7 @@
       1 crônicos
       1 crônicas'
       1 crótalos
+      1 crï¿½ticos
       1 crítico'
       1 crítica”
       1 crítica-folhetim
@@ -68863,6 +69275,7 @@
       1 criticada
       1 critic
       1 crisópraso
+      1 cristï¿½o
       1 cristã”
       1 cristão”
       1 cristãos”
@@ -68896,6 +69309,7 @@
       1 criemos
       1 cridas
       1 cribbage
+      1 criaï¿½ï¿½o
       1 criação”Parei
       1 criatura'
       1 criassem
@@ -68905,6 +69319,7 @@
       1 criara-os
       1 criar-te
       1 criar-se
+      1 crianï¿½a
       1 criançolas”
       1 criancinhas
       1 criam-se
@@ -68931,6 +69346,7 @@
       1 crer-lha
       1 crepúsc’lo
       1 crepitação
+      1 crenï¿½a
       1 crendo-me
       1 cremo-lo
       1 creme
@@ -69249,6 +69665,7 @@
       1 convertemos
       1 converta
       1 conversos
+      1 conversaï¿½ï¿½es
       1 conversação”
       1 conversava-as
       1 conversaste
@@ -69294,6 +69711,8 @@
       1 contém-no
       1 contundia-me
       1 contundente
+      1 contrï¿½rio
+      1 controvï¿½rsia
       1 controvertiam
       1 controversos
       1 controversa
@@ -69308,6 +69727,7 @@
       1 contribuiria
       1 contribuindo
       1 contribua
+      1 contraï¿½ï¿½o
       1 contraíram-se
       1 contraídas
       1 contraí
@@ -69444,6 +69864,7 @@
       1 contender
       1 contende
       1 contemptor
+      1 contemporï¿½neos
       1 contemporizar
       1 contemporaneidade
       1 contempláveis
@@ -69920,6 +70341,7 @@
       1 condoreira
       1 condolências
       1 condoeu-se
+      1 condiï¿½ï¿½o
       1 condizia
       1 condizem
       1 condiscípulo
@@ -69928,6 +70350,7 @@
       1 condestável
       1 condessas
       1 condescendências
+      1 condenï¿½-la
       1 condenássemos
       1 condená-los
       1 condenso
@@ -70067,6 +70490,8 @@
       1 concebia
       1 concebendo
       1 concebem
+      1 comï¿½rcio
+      1 comï¿½dia
       1 comível
       1 comédia-revista
       1 com 
@@ -70099,6 +70524,7 @@
       1 compôs-lhe
       1 compósitos
       1 compósito
+      1 compï¿½em
       1 computação
       1 compuséssemos
       1 compus”
@@ -70195,6 +70621,7 @@
       1 complexidade
       1 completá-los
       1 completo”
+      1 completarï¿½
       1 completarão
       1 completara-se
       1 completar-se
@@ -70236,6 +70663,7 @@
       1 compeli-la
       1 compatrícios
       1 compassadas
+      1 comparï¿½-la
       1 compartisse
       1 comparti-lo
       1 comparta
@@ -70246,6 +70674,7 @@
       1 comparemo-la
       1 comparecido
       1 comparecessem
+      1 comparaï¿½ï¿½es
       1 comparava-os
       1 comparava-as
       1 comparativa
@@ -70259,11 +70688,13 @@
       1 comparamos
       1 companhia'
       1 companha
+      1 compaixï¿½o
       1 compadrio
       1 compadecimento
       1 compadecesse
       1 compadecera
       1 compactos
+      1 comoï¿½ï¿½o
       1 comoviam
       1 comovia-se
       1 comovia-o
@@ -70285,6 +70716,9 @@
       1 comilão
       1 comigo”—
       1 comia-me
+      1 comeï¿½ou
+      1 comeï¿½ar
+      1 comeï¿½a
       1 começássemos
       1 começá-lo
       1 começou-o
@@ -70351,6 +70785,7 @@
       1 combiná-las-ia
       1 combiná-las
       1 combinou-as
+      1 combinaï¿½ï¿½o
       1 combinava-se
       1 combinassem
       1 combinaremos
@@ -70611,6 +71046,7 @@
       1 clan
       1 clamorosas
       1 clamantis
+      1 ciï¿½ncia
       1 ciência'
       1 civilização”
       1 civilizar-se
@@ -70643,6 +71079,8 @@
       1 cirros
       1 cirons”
       1 circunvoluções
+      1 circunstï¿½ncias
+      1 circunstï¿½ncia
       1 circunstâcia
       1 circunstante
       1 circunstanciadamente
@@ -70681,6 +71119,7 @@
       1 cintilava
       1 cintilar
       1 cintilam
+      1 cinqï¿½enta
       1 cinjo-me
       1 cinja
       1 cingiste
@@ -70910,7 +71349,7 @@
       1 chamar-se-ia
       1 chamar-me-ás
       1 chamar-lhes
-      1 chamar-lhe-á
+      1 chamar-lhe-ï¿½
       1 chamar-lhe-iam
       1 chamando-se
       1 chamando-o
@@ -71161,6 +71600,7 @@
       1 caudatária
       1 caudalosos
       1 caucasiano
+      1 catï¿½strofe
       1 catárticas
       1 catá-lo
       1 catá-la
@@ -71251,6 +71691,7 @@
       1 casacos
       1 casa-grande
       1 carões
+      1 carï¿½cias
       1 caríssimos
       1 carências
       1 caráter”
@@ -71317,6 +71758,7 @@
       1 carneirada
       1 carne-seca
       1 carne'
+      1 carnaï¿½ba
       1 carnação
       1 carnagem
       1 carlistas
@@ -71354,6 +71796,7 @@
       1 caramujos
       1 caramba
       1 caramanchãozinho
+      1 caracterï¿½stico
       1 caracterizá-los
       1 caracterizá-lo
       1 caracterizá-las
@@ -71368,6 +71811,8 @@
       1 cara-metade
       1 cara'
       1 caquéticos
+      1 capï¿½tulos
+      1 capï¿½tulo
       1 capuchinha
       1 capturá-lo
       1 capturá-la
@@ -71387,6 +71832,7 @@
       1 capoeiragem 
       1 capo
       1 capivaras
+      1 capitï¿½es
       1 capitéis
       1 capitão-do-mato
       1 capitães-do-mato
@@ -71531,6 +71977,7 @@
       1 camafeus
       1 cama'
       1 calúnia'
+      1 calï¿½nias
       1 calèche
       1 calçá-las
       1 calçou-se
@@ -71875,6 +72322,7 @@
       1 brejo
       1 brecha
       1 break
+      1 braï¿½os
       1 braça
       1 brasílica
       1 brasiliana
@@ -72000,6 +72448,8 @@
       1 bonaerenses
       1 bona
       1 bom                     
+      1 bombï¿½stico
+      1 bombástico
       1 bombástica
       1 bombordo  
       1 bombardeios
@@ -72172,6 +72622,7 @@
       1 bengala”
       1 beneméritos
       1 benemérita
+      1 beneficï¿½ncia
       1 beneficiava
       1 beneficiaria
       1 beneficiar-nos
@@ -72490,6 +72941,7 @@
       1 babando
       1 babado
       1 babadinho
+      1 aï¿½ï¿½car
       1 aéreas
       1 ações”
       1 açulá-lo
@@ -72710,6 +73162,7 @@
       1 autenticado
       1 autant
       1 autans
+      1 ausï¿½ncia
       1 austríacos
       1 austro-húngaro
       1 austrais
@@ -72979,6 +73432,7 @@
       1 aterra
       1 atermar-se
       1 ater-se
+      1 atenï¿½ï¿½o
       1 atenuá-la
       1 atenuavam
       1 atenteis
@@ -73776,6 +74230,7 @@
       1 apunhalaram
       1 apunhalar
       1 apunhalado
+      1 aptidï¿½o
       1 aptas
       1 aproximá-lo
       1 aproximem-se
@@ -74102,6 +74557,9 @@
       1 apertadinho
       1 apertadinha
       1 aperreado
+      1 aperfeiï¿½oar-se
+      1 aperfeiï¿½oar
+      1 aperfeiï¿½oamento
       1 aperfeiçoá-lo
       1 aperfeiçoá-las
       1 aperfeiçoá-la
@@ -74169,6 +74627,7 @@
       1 apartar-se
       1 apartar-nos
       1 apartando-se
+      1 apariï¿½ï¿½o
       1 aparentá-lo
       1 aparentando
       1 aparentada
@@ -74260,6 +74719,8 @@
       1 anões
       1 anódino
       1 anódinas
+      1 anï¿½ncios
+      1 anï¿½lise
       1 anêmona
       1 anêmico
       1 anátemas
@@ -74506,6 +74967,7 @@
       1 ancoradourozinho
       1 ancoradas
       1 anciões
+      1 anciï¿½o
       1 anciãs
       1 ancinho
       1 ancianidade
@@ -74677,6 +75139,8 @@
       1 amedrontados
       1 amedrontado
       1 amedronta
+      1 ameaï¿½ar
+      1 ameaï¿½a
       1 ameaçá-lo
       1 ameaçá-las
       1 ameaçou-os
@@ -74806,6 +75270,7 @@
       1 amabilidades
       1 ama-se
       1 ama-me”
+      1 alï¿½m-mar
       1 alígero
       1 alçá-la
       1 alçou-o
@@ -75032,6 +75497,7 @@
       1 alias
       1 aliarem-se
       1 aliaram
+      1 alianï¿½a
       1 aliamos
       1 aliam
       1 ali'
@@ -75046,6 +75512,7 @@
       1 alguidares
       1 algoz”
       1 algemam-se
+      1 alfï¿½ndega
       1 alforriar
       1 alforge
       1 alfombra
@@ -75590,6 +76057,7 @@
       1 aferem
       1 afere
       1 afeminado
+      1 afeiï¿½ï¿½es
       1 afeiçoou
       1 afeiçoem
       1 afeiçoei-me
@@ -75661,7 +76129,7 @@
       1 adverti-la
       1 advertem
       1 adverte-o
-      1 adversárias
+      1 adversï¿½rias
       1 adversária
       1 adversidades
       1 adverbialmente
@@ -75725,6 +76193,7 @@
       1 adormecem
       1 adoremos
       1 adorem
+      1 adoraï¿½ï¿½o
       1 adora”
       1 adorava-me
       1 adorava-as
@@ -75769,12 +76238,14 @@
       1 admitem
       1 admite-se
       1 admita-o
+      1 admirï¿½veis
       1 admirávamos
       1 admirou-lhe
       1 admiro-o
       1 admiremos
       1 admirem
       1 admire-se
+      1 admiraï¿½ï¿½o
       1 admiravas
       1 admirava-o
       1 admirar-te
@@ -75937,6 +76408,7 @@
       1 acrescentadas
       1 acrescenta-se
       1 acres
+      1 acreditï¿½-lo
       1 acreditou-se
       1 acredites'
       1 acredites
@@ -76302,6 +76774,7 @@
       1 abunda
       1 absurdum
       1 absurdo”
+      1 abstraï¿½ï¿½es
       1 abstraído
       1 abstraí-me
       1 abstratas
@@ -76401,6 +76874,8 @@
       1 abre-as
       1 abre-a
       1 abre'
+      1 abraï¿½ou-a
+      1 abraï¿½o
       1 abraçou-os
       1 abraço-te
       1 abraçavam
@@ -76507,6 +76982,7 @@
       1 abocanhar
       1 abocanhada
       1 abobadada
+      1 abnegaï¿½ï¿½o
       1 abjurado”
       1 abjura
       1 abjeções
@@ -76523,6 +76999,7 @@
       1 abertazinha
       1 aberrar
       1 aberrado
+      1 abenï¿½oou
       1 abençoou-a
       1 abençoei
       1 abençoe-me
@@ -76689,6 +77166,7 @@
       1 Walpoles
       1 Wallenrod
       1 Wallace
+      1 Vï¿½-se
       1 Víamo-nos
       1 Vêtement
       1 Vênus”
@@ -76712,6 +77190,7 @@
       1 Votou-se
       1 Votando-se
       1 Vota-se
+      1 Volúvel
       1 Volvê-los
       1 Volvido
       1 Volvida
@@ -76927,8 +77406,8 @@
       1 U
       1 Túmidas
       1 Tôt
+      1 Tï¿½tiro
       1 Títiros
-      1 Títiro
       1 Tímidas
       1 Têm-se
       1 Tê-los-ei
@@ -76949,6 +77428,7 @@
       1 Turgot
       1 Turca'
       1 Turbada
+      1 Tupï¿½
       1 Tupá
       1 Tunga
       1 Tumultue
@@ -77119,7 +77599,7 @@
       1 Thalberg
       1 Thackeray
       1 Th
-      1 Teócritos
+      1 Teï¿½critos
       1 Testemunhou-lhe
       1 Tessália'
       1 Tersites
@@ -77208,6 +77688,7 @@
       1 TAMBÉM
       1 T'esconjuro
       1 Súcia
+      1 Sóbrio
       1 Sísifos
       1 Síria
       1 Síndico
@@ -77733,7 +78214,7 @@
       1 Reparemos
       1 Reorganizada
       1 Reole
-      1 Renê
+      1 Renï¿½
       1 Renunciei
       1 Renuncia-se
       1 Renascida
@@ -77807,7 +78288,7 @@
       1 Rebecca
       1 Rebagú
       1 Reaparecem
-      1 Realça-lhe
+      1 Realï¿½a-lhe
       1 Realizo
       1 Realizara-se-lhe
       1 Realiza-se
@@ -77932,6 +78413,7 @@
       1 Publios
       1 Publica-se
       1 Ptolomeus
+      1 Próxima
       1 Príamos
       1 Préel
       1 Prudêncios
@@ -78132,6 +78614,7 @@
       1 Peyre
       1 Petíssima
       1 Petrópolis”
+      1 Petrï¿½polis
       1 Petrarcha
       1 Petit-maître
       1 Pesá-lo
@@ -78345,6 +78828,7 @@
       1 O’
       1 Oyarzun
       1 Oyapock
+      1 Oxalï¿½
       1 Ovelhinhas
       1 Ovantes
       1 Ouço-a
@@ -78565,6 +79049,7 @@
       1 Nascera-lhe
       1 Narbonne
       1 Napoléon
+      1 Napoleï¿½o
       1 Napier
       1 Nanteuil
       1 Nantes
@@ -78707,6 +79192,7 @@
       1 Minduca”
       1 Mimi
       1 Mill
+      1 Militï¿½o
       1 Mileto
       1 Milano
       1 Mielles
@@ -78911,6 +79397,7 @@
       1 Magoadora
       1 Magloire
       1 Magalona
+      1 Magalhï¿½es
       1 Mafra
       1 Mafamede”
       1 Madrugavam-lhe
@@ -78946,6 +79433,7 @@
       1 MA
       1 Lúculo'“
       1 Ló
+      1 Lï¿½rico
       1 Lísia
       1 Lídia
       1 Lêssemos
@@ -78973,6 +79461,7 @@
       1 Lumbury
       1 Luiz”
       1 Luisiana
+      1 Lucï¿½ola
       1 Lucrécias
       1 Lucindo
       1 Lucinde
@@ -79012,6 +79501,8 @@
       1 Liverpool
       1 Littrée
       1 Littré
+      1 Literï¿½riaï¿½
+      1 Literï¿½ria
       1 Literários”
       1 Lisonjeava-o
       1 Lisle
@@ -79023,6 +79514,7 @@
       1 Lipton
       1 Lippe
       1 Lineu
+      1 Lindï¿½ia
       1 Lind
       1 Limpei-a
       1 Limpam-se
@@ -79168,7 +79660,7 @@
       1 Kosciusko
       1 Korans
       1 Konigsberg
-      1 Kobé
+      1 Kobï¿½
       1 Kobal
       1 Kidormur
       1 Kew-Bripge
@@ -79186,6 +79678,7 @@
       1 Jônatas
       1 Jô
       1 Jó'
+      1 Jï¿½
       1 Jáo
       1 JÚNIOR
       1 JÓIA
@@ -79363,6 +79856,7 @@
       1 Infernal
       1 Infanta
       1 Inezita
+      1 Indï¿½genas
       1 Industriosas
       1 Industriosa
       1 Indostão
@@ -79520,6 +80014,8 @@
       1 Herédia
       1 Herzegovina
       1 Herrera
+      1 Heroï¿½na
+      1 Heroína
       1 Heroudeville
       1 Heronce
       1 Hero'
@@ -79606,6 +80102,7 @@
       1 Gumercindo
       1 Guise
       1 Guindam-se
+      1 Guimarï¿½es
       1 Guillermo
       1 Guilhermina
       1 Guilbert
@@ -79650,6 +80147,7 @@
       1 Greenwich
       1 Greenleaf
       1 Grecs
+      1 Graï¿½a
       1 Gravenstein
       1 Grasnando
       1 Gras
@@ -79691,6 +80189,7 @@
       1 God's
       1 Goal
       1 Gnido
+      1 Glórias
       1 Glória'
       1 Gluck
       1 Glissez
@@ -79705,6 +80204,7 @@
       1 Giovanna
       1 Giotto
       1 Giolitti
+      1 Ginï¿½sio
       1 Gilliat
       1 Gild-Holin-'Ur
       1 Gilbert
@@ -79875,6 +80375,7 @@
       1 Finsburg
       1 Fininha
       1 Finalizo
+      1 Filósofos
       1 Filosófico”
       1 Filopémen
       1 Filomena
@@ -79913,6 +80414,7 @@
       1 Fechamo-lo
       1 Febrônio
       1 Fearon
+      1 Faï¿½o
       1 Façam-se
       1 Façam-lhe
       1 Faça-os
@@ -80174,6 +80676,7 @@
       1 Equerrier
       1 Epícuro
       1 Eppur
+      1 Episódios
       1 Epi-Scié
       1 Enxugá-la
       1 Enxuguemos
@@ -80185,6 +80688,7 @@
       1 Enverga
       1 Enunciava
       1 Enunciando
+      1 Entï¿½o
       1 Entulhou
       1 Entristeceu-me
       1 Entristece-se
@@ -80289,6 +80793,7 @@
       1 Elven
       1 Elvas
       1 Eloy”
+      1 Eloqüente
       1 Elogiou-te
       1 Elogiou-lhe
       1 Elogia-lhe
@@ -80404,7 +80909,7 @@
       1 Dublim
       1 Drômios
       1 Drôme
-      1 Dramática”
+      1 Dramï¿½ticaï¿½
       1 Draco
       1 DrMatos
       1 DrAchilles
@@ -80567,6 +81072,7 @@
       1 Deslacei
       1 Desinteressara-se
       1 Desgrieux
+      1 Desgraï¿½ado
       1 Desfougerais
       1 Desfolhei
       1 Desfolhava
@@ -80675,6 +81181,7 @@
       1 De-fi-ni-ti-va
       1 De-Wilde
       1 De-Lagrange
+      1 Daï¿½
       1 Dazon
       1 Davas
       1 Davam-te
@@ -81371,6 +81878,7 @@
       1 Caprichou
       1 Capoul
       1 Capitólios
+      1 Capitï¿½lio
       1 Capituzinha
       1 Capitu'
       1 Capelão
@@ -81415,6 +81923,7 @@
       1 Cambaxirras
       1 Cambarás
       1 Cambaleias
+      1 Camarï¿½o
       1 Camarin
       1 Camarano
       1 Camapuama
@@ -81752,6 +82261,7 @@
       1 Bate-me
       1 Batalhá
       1 Batalhei
+      1 Basï¿½lio
       1 Bastos'
       1 Bastiat
       1 Bastem
@@ -81883,6 +82393,7 @@
       1 Augusta”
       1 Augsburgo
       1 Auberseint
+      1 Atï¿½
       1 Aturemo-lo
       1 Aturarmo-nos
       1 Atroara
@@ -82048,9 +82559,11 @@
       1 Apague-a
       1 Apagou-se-me
       1 Apagar-se-lhe
+      1 Anúncios
       1 Anás
       1 Anuí
       1 Anuncie
+      1 Antï¿½nio
       1 Antínous
       1 Antuérpia
       1 Antonino
@@ -82112,6 +82625,7 @@
       1 Amizade”
       1 Amizade
       1 Amiudei
+      1 Ameaï¿½ado
       1 Ameaça-vos
       1 Ameaça-me
       1 Ame-o
@@ -83098,7 +83612,7 @@
       1 'Menina
       1 'Matinal'
       1 'Marinha'
-      1 'Marabá'
+      1 'Marabï¿½'
       1 'Mar'
       1 'Mandais-me
       1 'Mamãe'
